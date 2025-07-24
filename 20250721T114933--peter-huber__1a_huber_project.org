@@ -1,0 +1,25 @@
+#+title:      Peter Huber
+#+date:       [2025-07-21 Mo 11:49]
+#+filetags:   :1a:huber:project:
+#+identifier: 20250721T114933
+#+CATEGORY: PeterHuber
+#+STARTUP: showall
+
+* Mitarbeit
+
+** Neuer Eintrag Peter Huber
+SCHEDULED: <2025-07-21 Mo 18:00>
+:PROPERTIES:
+:CAPTURED: [2025-07-21 Mo 12:26]
+:DESCRIPTION: [[file:~/RoamNotes/org/20240908T214000--a-klasse-2024-28__1a.org::*Einführung / Ziele][Einführung / Ziele]]
+:END:
+Ha das klappt.
+
+** Ein zweiter Eintrag
+:PROPERTIES:
+:CAPTURED: [2025-07-21 Mo 12:33]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20250721T105215--unterricht-organisieren__emacs_schule.org::*Klassendatei][Klassendatei]]
+:END:
+Genau.
+
+* Themen

@@ -1,0 +1,334 @@
+:PROPERTIES:
+:CUSTOM_ID: h:cfb014f7-26f1-4944-9f4e-b0bbb9280ed8
+:END:
+#+title:      D Klasse 2024-28
+#+date:       [2024-09-08 So 21:38]
+#+filetags:   :1d:
+#+identifier: 20240908T213847
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/1d.html
+
+* Jahresplanung
+[[denote:20240719T125948][Jahresplanung 01]]
+
+http://www.veritas.at/code (rfu100)
+
+
+* Notizen, Tasks, Termine
+
+* Lernschiene
+:PROPERTIES:
+:CUSTOM_ID: h:24e88c57-fb45-4d30-bab8-f3c9f3e3cb1a
+:END:
+[[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
+
+** Alle Themen (Überblick) [10/11]
+:PROPERTIES:
+:CUSTOM_ID: h:800f3487-a29a-47cc-9715-de1c79aad815
+:END:
+- [X] Der Sturm auf dem See
+- [X] Der Sonnengesang
+- [X] Heilige
+- [X] Heilige Orte
+- [X] Die Adventszeit
+- [X] Beten
+- [X] Menschen zur Zeit Jesu
+- [X] Hl. Blasius / Hl. Rupert
+- [X] Die Heilige Schrift
+- [X] Emmausjünger
+- [ ] David - König von Israel
+
+
+* Stundenplanung
+
+** Einführung / Ziele
+Persönliche Vorstellung; Bücher austeilen!
+
+Gemeinsames Lied.
+
+** Wiederholung
+
+
+** Lernschiene
+
+
+** Themen
+
+[[denote:20250415T095936][Themen für Ostern]]
+
+Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
+
+
+** Hefteintrag
+
+
+* Schülerliste
+#+Name: 2021-students
+|-----------+--------------+----------------------+------+-----------+------+-----|
+| First     | Last         | Name                 | Note | Mitarbeit | Heft | LZK |
+|-----------+--------------+----------------------+------+-----------+------+-----|
+| Christian | Auer         | [[Christian Auer][Christian Auer]]       |      |           |      |     |
+| Julian    | Bayer        | [[Julian Bayer][Julian Bayer]]         |      |           |      |     |
+| Alexa     | Dobunda      | [[Alexa Dobunda][Alexa Dobunda]]        |      |           |      |     |
+| Philipp   | Epp          | [[Philipp Epp][Philipp Epp]]          |      |           |      |     |
+| Marlene   | Fuschlberger | [[Marlene Fuschlberger][Marlene Fuschlberger]] |      |           |      |     |
+| Lea       | Hirscher     | [[Lea Hirscher][Lea Hirscher]]         |      |           |      |     |
+| Johann    | Hornegger    | [[Johann Hornegger][Johann Hornegger]]     |      |           |      |     |
+| Kilian    | Klamm        | [[Kilian Klamm][Kilian Klamm]]         |      |           |      |     |
+| Felix     | Prühs        | [[Felix Prühs][Felix Prühs]]          |      |           |      |     |
+| Maxim     | Rettenbacher | [[Maxim Rettenbacher][Maxim Rettenbacher]]   |      |           |      |     |
+| Laura     | Schnitzhofer | [[Laura Schnitzhofer][Laura Schnitzhofer]]   |      |           |      |     |
+| Michael   | Schorn       | [[Michael Schorn][Michael Schorn]]       |      |           |      |     |
+| Katja     | Schwaighofer | [[Katja Schwaighofer][Katja Schwaighofer]]   |      |           |      |     |
+|-----------+--------------+----------------------+------+-----------+------+-----|
+#+TBLFM: $4=vmean($5..$7);%.0f
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
+
+#+BIND: org-export-filter-timestamp-functions (tmp-f-timestamp)
+#+BIND: org-export-filter-strike-through-functions (tmp-f-strike-through)
+#+BEGIN_SRC emacs-lisp :exports results :results none
+  (defun tmp-f-timestamp (s backend info)
+    (replace-regexp-in-string "&[lg]t;\\|[][]" "" s))
+  (defun tmp-f-strike-through (s backend info) "")
+#+END_SRC
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = last + '.' + first + '@abtenau.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
+      print(':END: ')
+      print('#+Name: Note_' + first + '' + last + '')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('|       |             |       |         |           |            |')
+      print('#+tblfm: $2=@#-1')
+      print('#+TBLFM: $6=vmean($4..$5);%.0f')
+      print('\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+
+** Christian Auer
+:PROPERTIES:
+:EMAIL: [[mailto: Auer Christian <Auer.Christian@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Christian_Auer.html
+:ID: ChristianAuer
+:END: 
+#+Name: Note_ChristianAuer
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Julian Bayer
+:PROPERTIES:
+:EMAIL: [[mailto: Bayer Julian <Bayer.Julian@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julian_Bayer.html
+:ID: JulianBayer
+:END: 
+#+Name: Note_JulianBayer
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Alexa Dobunda
+:PROPERTIES:
+:EMAIL: [[mailto: Dobunda Alexa <Dobunda.Alexa@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Alexa_Dobunda.html
+:ID: AlexaDobunda
+:END: 
+#+Name: Note_AlexaDobunda
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Philipp Epp
+:PROPERTIES:
+:EMAIL: [[mailto: Epp Philipp <Epp.Philipp@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Philipp_Epp.html
+:ID: PhilippEpp
+:END: 
+#+Name: Note_PhilippEpp
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Marlene Fuschlberger
+:PROPERTIES:
+:EMAIL: [[mailto: Fuschlberger Marlene <Fuschlberger.Marlene@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Marlene_Fuschlberger.html
+:ID: MarleneFuschlberger
+:END: 
+#+Name: Note_MarleneFuschlberger
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Lea Hirscher
+:PROPERTIES:
+:EMAIL: [[mailto: Hirscher Lea <Hirscher.Lea@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lea_Hirscher.html
+:ID: LeaHirscher
+:END: 
+#+Name: Note_LeaHirscher
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Johann Hornegger
+:PROPERTIES:
+:EMAIL: [[mailto: Hornegger Johann <Hornegger.Johann@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Johann_Hornegger.html
+:ID: JohannHornegger
+:END: 
+#+Name: Note_JohannHornegger
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Kilian Klamm
+:PROPERTIES:
+:EMAIL: [[mailto: Klamm Kilian <Klamm.Kilian@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Kilian_Klamm.html
+:ID: KilianKlamm
+:END: 
+#+Name: Note_KilianKlamm
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Felix Prühs
+:PROPERTIES:
+:EMAIL: [[mailto: Prühs Felix <Prühs.Felix@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Felix_Prühs.html
+:ID: FelixPrühs
+:END: 
+#+Name: Note_FelixPrühs
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Maxim Rettenbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Rettenbacher Maxim <Rettenbacher.Maxim@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maxim_Rettenbacher.html
+:ID: MaximRettenbacher
+:END: 
+#+Name: Note_MaximRettenbacher
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Laura Schnitzhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Schnitzhofer Laura <Schnitzhofer.Laura@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Laura_Schnitzhofer.html
+:ID: LauraSchnitzhofer
+:END: 
+#+Name: Note_LauraSchnitzhofer
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Michael Schorn
+:PROPERTIES:
+:EMAIL: [[mailto: Schorn Michael <Schorn.Michael@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Michael_Schorn.html
+:ID: MichaelSchorn
+:END: 
+#+Name: Note_MichaelSchorn
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Katja Schwaighofer
+:PROPERTIES:
+:EMAIL: [[mailto: Schwaighofer Katja <Schwaighofer.Katja@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Katja_Schwaighofer.html
+:ID: KatjaSchwaighofer
+:END: 
+#+Name: Note_KatjaSchwaighofer
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+* Reflexionen
+
+** Maxim Zettel
+:PROPERTIES:
+:CAPTURED: [2025-05-19 Mo 08:05]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:79e7082f-c4b2-47d0-9506-6bde40e15f69][1d (RLS) 07:45-08:35]]
+:END:
+Maxim hat einen Penis auf einen Zettel gezeichnet und wirft ihn in der Klasse herum; von ihm zu Philipp, der zu Felix.
+
+Generell sind Kilian, Felix, Philipp (und Maxim) sehr unruhig.
+
+Hab den Zettel abgefangen; ...
+
+

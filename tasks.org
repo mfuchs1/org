@@ -1,0 +1,169 @@
+#+TITLE: Tasks 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2025-07-24 Do 13:29]
+#+filetags: :Project:
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Tasks.html
+
+* Tasks
+:PROPERTIES:
+:CATEGORY: TODO
+:CUSTOM_ID: h:ace38b83-beb1-4db2-9872-936865a20b7c
+:END:
+
+** DONE [#A] Hugo Blog "After Dark"                                   :blog:
+CLOSED: [2025-05-23 Fr 17:18] DEADLINE: <2025-03-11 Di 22:00>
+:PROPERTIES:
+:CAPTURED: [2025-03-11 Di 09:32]
+:CUSTOM_ID: h:20250311T093258
+:END:
+:LOGBOOK:
+- State "DONE"       from "STUDY"      [2025-05-23 Fr 17:18]
+- State "STUDY"      from "TODO"       [2025-05-23 Fr 17:18]
+- State "DONE"       from "TODO"       [2025-03-17 Mo 11:51]
+:END:
+
+Wie kann das Bloggen auf "After Dark" automatisieren? Oder besser und einfacher mit =magit= erledigen?
+
+[[denote:20250311T092046::#h:8032f492-f03b-48ea-9912-87f7ad26bd00][Neue Schule::Wie geht es weiter?]]
+
+
+** DONE Mail an die PLUS                                            :schule:
+CLOSED: [2025-05-09 Fr 08:28] DEADLINE: <2025-05-07 Mi 17:00>
+:PROPERTIES:
+:CAPTURED: [2025-05-07 Mi 10:16]
+:CUSTOM_ID: h:20250507T101643
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-05-09 Fr 08:28]
+:END:
+Email an die PLUS (Uni Salzburg) bzgl. Weiterbildung zum Mathe Lehrer schicken.
+
+Angeben, was ich vorher studiert habe (KPH Religion), Lehrer an Mittelschulen (Pflichtschulen). Oder direkt dort anrufen?
+
+Kontakt:
+Universität Salzburg
+Kapitelgasse 4-6
+5020 Salzburg, Austria
+T +43 662 8044-0
+
+[[https://www.plus.ac.at/studium/studienangebot/lehramtsstudien/]]
+
+[[https://www.plus.ac.at/studium/studienangebot/lehramtsstudien/mathematik/]]
+
+Hab gerade telefoniert - im Juli 2025 soll ich mich per Mail wieder melden: lehramt@plus.ac.at
+Was gibt es Neues bzgl. PH Studenten, Weiterbildung Mathematik / Bachelor Studium, neuer Lehrplan?
+
+Termin per Mail ausmachen für den Sommer 2025 - welche LV vom Mathematik Bachelor Studium inskripieren, die mir für das neue Studium im Herbst 2026 angerechnet werden können?
+
+
+** DONE [#A] Write bash script for blogging                           :blog:
+CLOSED: [2025-06-24 Di 12:18] DEADLINE: <2025-05-23 Fr 22:00>
+:PROPERTIES:
+:CAPTURED: [2025-05-23 Fr 11:21]
+:CUSTOM_ID: h:20250523T112158
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-24 Di 12:18]
+:END:
+
+Ein bash script fürs Blogging schreiben; würde doch so klappen: die bash Befehle ins script schreiben.
+
+Commits?
+
+[[https://allwynfernandes.github.io/deploy-hugo-site-bash-script/]]
+
+Oder mit Emacs / hugo / magit / ...?
+
+[[https://www.google.com/search?hl=de&q=emacs%20post%20blog%20with%20hugo]]
+
+** DONE Tablet zurückgeben                                          :schule:
+CLOSED: [2025-07-21 Mo 10:13] DEADLINE: <2025-06-30 Mo 12:00>
+:PROPERTIES:
+:CAPTURED: [2025-06-27 Fr 16:49]
+:CUSTOM_ID: h:20250627T164914
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-21 Mo 10:13]
+:END:
+
+** TODO =org-capture= überarbeiten                                   :emacs:
+DEADLINE: <2025-06-27 Fr 20:00>
+:PROPERTIES:
+:CAPTURED: [2025-06-27 Fr 16:51]
+:CUSTOM_ID: h:20250627T165104
+:END:
+=org-capture= vereinfachen, v.a. =denote= capture-templates reduzieren. Welche templates sind (noch) sinnvoll? Werden sie wirklich verwendet? 
+
+[[file:~/.emacs.d/emacs-config.org::*=org-capture= configuration][=org-capture= configuration]]
+
+** TODO [#A] Check In online durchführen                      :london:flight:
+DEADLINE: <2025-07-25 Fr 19:00>
+:PROPERTIES:
+:CAPTURED: [2025-07-21 Mo 10:14]
+:CUSTOM_ID: h:20250721T101445
+:END:
+Check In online durchführen um viel Geld zu sparen
+
+[[file:~/RoamNotes/notes/20231115T074319--org-gcal__project.org::*Abflug nach London][Abflug nach London]]
+
+** TODO [#A] Check In online durchführen                     :vienna:flight:
+DEADLINE: <2025-07-26 Sa 16:00>
+:PROPERTIES:
+:CAPTURED: [2025-07-21 Mo 10:16]
+:CUSTOM_ID: h:20250721T101621
+:END:
+Check In online durchführen, um viel Geld zu sparen.
+
+[[file:~/RoamNotes/notes/20231115T074319--org-gcal__project.org::*Rückflug nach Wien][Rückflug nach Wien]]
+
+* Wishlist
+:PROPERTIES:
+:CATEGORY: wishlist
+:END:
+
+* Unprocessed
+:PROPERTIES:
+:CATEGORY: unprocessed
+:END:
+
+** Neue Noten kopieren
+:PROPERTIES:
+:CAPTURED: [2024-10-14 Mo 22:26]
+:CUSTOM_ID: h:ff5c67a2-8aec-4409-bf33-5477e2f6c73b
+:END:
+
+[[denote:20240717T163657::#h:0828bca0-3f7a-4415-8396-d2670488db35][Agenda::1c Gitarre 13:10-14:00]]
+
+** TODO [#A] TA eintragen                                           :schule:
+:PROPERTIES:
+:CAPTURED: [2024-11-21 Do 09:42]
+:CATEGORY: TA
+:END:
+[[https://www.sokrates-web.at/TA_SBG/login/]]
+
+Lernstoff  und gehaltene Stunden eintragen.
+
+
+** TODO [#A] ~denote-journal-new-entry~                             :privat:
+:PROPERTIES:
+:CATEGORY: journal
+:END:
+So gut wie täglich einen Eintrag schreiben, ist ja auch ein =journal=.
+
+** STUDY [#A] Learn =howm.el=
+:PROPERTIES:
+:CAPTURED: [2025-05-07 Mi 11:11]
+:CUSTOM_ID: h:20250507T111134
+:END:
+:LOGBOOK:
+- State "STUDY"      from              [2025-05-07 Mi 11:12]
+:END:
+[[file:~/Downloads/Howm_tutorial_eng.pdf]]

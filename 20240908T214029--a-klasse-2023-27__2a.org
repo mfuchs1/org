@@ -1,0 +1,579 @@
+#+title:      A Klasse 2023-27
+#+date:       [2024-09-08 So 21:40]
+#+filetags:   :2a:
+#+identifier: 20240908T214029
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/2a.html
+
+* Jahresplanung
+[[denote:20240708T214317][Jahresplanung 02]]
+
+* Notizen, Tasks, Termine
+Bzgl LS Physik - viele der Versuche funktionieren kaum; oder bieten va Burschen Möglichkeiten zu Dummheiten
+
+Wer nicht Religion geht - Lerninsel im 2. Stock und in Ruhe die HÜ machen (Bsp.). 
+
+Montag, 2.12.2024: gemeinsam lesen (?). 
+
+* Lernschiene
+[[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
+
+** Themen [3/6]
+:PROPERTIES:
+:CUSTOM_ID: h:ffe5604c-653b-4d2b-a35b-6b176cb7a705
+:END:
+- [X] Hl. Franziskus
+- [X] Abraham
+- [X] David
+- [ ] Begleiter im Advent
+- [ ] Heilige Schrift - Entstehung der Bibel
+- [ ] Kinder haben Rechte (Menschenrechte)
+
+5 Lernjobs sind bis zum 6.6. abzugeben.
+
+* Stundenplanung
+
+** Einführung / Ziele
+Persönliche Vorstellung; Bücher austeilen!
+
+Gemeinsames Lied.
+
+** Wiederholung
+Wie war RU?
+
+** LS 2a:
+:PROPERTIES:
+:CUSTOM_ID: h:93b9aa32-18ec-4187-ba6b-8214a0f22423
+:END:
+- Der Rosenkranz
+- Gott ruft mich beim Namen
+- Mein Namenspatron
+- Abraham
+- Heilige Schrift
+- Begleiter im Advent
+
+
+** Themen
+:PROPERTIES:
+:CUSTOM_ID: h:8938bd1e-d921-4eba-a69b-9f903c3a2c67
+:END:
+
+[[denote:20250415T095936][Themen für Ostern]]
+
+Heiliger Geist / Pfingsten
+- Symbole
+- Was bewirkt der Hl. Geist - in meinem Leben?
+- Die sieben Gaben des Hl. Geistes
+- Die Früchte des Hl. Geistes
+- Beispiele und Zeugnisse von jungen Menschen / bekannten Personen, die über ihren Glauben sprechen
+
+Bibelstellen zum Hl. Geist:
+- Johannesevangelium
+- Verkündigung Jesu
+- Taufe Jesu
+- Apostelgeschichte: Pfingsten / Wunder / ...
+- Apostel Paulus: 1 Kor 12 - 13
+  
+
+
+[[denote:20231218T081552::#h:c473c627-98a1-4444-9b2e-9c7db2805898][Webpages::Was sind die 7 Gaben des Heiligen Geistes? - YOUCAT]]
+
+[[denote:20250527T081402][Die 7 Gaben des Hl. Geistes]]
+
+** Hefteintrag
+Arbeitsweg 1 - 4
+
+http://www.veritas.at/code (rfu300)
+
+* Schülerliste
+#+Name: 2021-students
+|------------------+--------------+-----------------------+------+-----------+------+-----|
+| First            | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
+|------------------+--------------+-----------------------+------+-----------+------+-----|
+| Lea              | Butkovic     | [[Lea Butkovic][Lea Butkovic]]          |      |           |      |     |
+| Livia            | Eder         | [[Livia Eder][Livia Eder]]            |      |           |      |     |
+| Emilia-Valentina | Fasl         | [[Emilia-Valentina Fasl][Emilia-Valentina Fasl]] |      |           |      |     |
+| Leon             | Höll         | [[Leon Höll][Leon Höll]]             |      |           |      |     |
+| Emilia           | Huber        | [[Emilia Huber][Emilia Huber]]          |      |           |      |     |
+| Matteo           | Knoblechner  | [[Matteo Knoblechner][Matteo Knoblechner]]    |      |           |      |     |
+| Daniel           | Promok       | [[Daniel Promok][Daniel Promok]]         |      |           |      |     |
+| Thomas           | Quehenberger | [[Thomas Quehenberger][Thomas Quehenberger]]   |      |           |      |     |
+| Christian        | Reiter       | [[Christian Reiter][Christian Reiter]]      |      |           |      |     |
+| Melanie          | Reiter       | [[Melanie Reiter][Melanie Reiter]]        |      |           |      |     |
+| Valentin         | Reschreiter  | [[Valentin Reschreiter][Valentin Reschreiter]]  |      |           |      |     |
+| Valentin         | Sandtner     | [[Valentin Sandtner][Valentin Sandtner]]     |      |           |      |     |
+| Niklas           | Schledt      | [[Niklas Schledt][Niklas Schledt]]        |      |           |      |     |
+| Annalena         | Schnitzhofer | [[Annalena Schnitzhofer][Annalena Schnitzhofer]] |      |           |      |     |
+| Daniel           | Spannberger  | [[Daniel Spannberger][Daniel Spannberger]]    |      |           |      |     |
+| Jonas            | Spannberger  | [[Jonas Spannberger][Jonas Spannberger]]     |      |           |      |     |
+|------------------+--------------+-----------------------+------+-----------+------+-----|
+#+TBLFM: $4=vmean($5..$7);%.0f
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
+
+#+BIND: org-export-filter-timestamp-functions (tmp-f-timestamp)
+#+BIND: org-export-filter-strike-through-functions (tmp-f-strike-through)
+#+BEGIN_SRC emacs-lisp :exports results :results none
+  (defun tmp-f-timestamp (s backend info)
+    (replace-regexp-in-string "&[lg]t;\\|[][]" "" s))
+  (defun tmp-f-strike-through (s backend info) "")
+#+END_SRC
+
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = last + '.' + first + '@abtenau.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
+      print(':END: ')
+      print('#+Name: Note_' + first + '' + last + '')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('|       |             |       |         |           |            |')
+      print('#+tblfm: $2=@#-1')
+      print('#+TBLFM: $6=vmean($4..$5);%.0f')
+      print('\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+
+** Lea Butkovic
+:PROPERTIES:
+:EMAIL: [[mailto: Butkovic Lea <Butkovic.Lea@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lea_Butkovic.html
+:ID: LeaButkovic
+:END: 
+#+Name: Note_LeaButkovic
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Livia Eder
+:PROPERTIES:
+:EMAIL: [[mailto: Eder Livia <Eder.Livia@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Livia_Eder.html
+:ID: LiviaEder
+:END: 
+#+Name: Note_LiviaEder
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Emilia-Valentina Fasl
+:PROPERTIES:
+:EMAIL: [[mailto: Fasl Emilia-Valentina <Fasl.Emilia-Valentina@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emilia-Valentina_Fasl.html
+:ID: Emilia-ValentinaFasl
+:END: 
+#+Name: Note_Emilia-ValentinaFasl
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Leon Höll
+:PROPERTIES:
+:EMAIL: [[mailto: Höll Leon <Höll.Leon@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leon_Höll.html
+:ID: LeonHöll
+:END: 
+#+Name: Note_LeonHöll
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Emilia Huber
+:PROPERTIES:
+:EMAIL: [[mailto: Huber Emilia <Huber.Emilia@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emilia_Huber.html
+:ID: EmiliaHuber
+:END: 
+#+Name: Note_EmiliaHuber
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Matteo Knoblechner
+:PROPERTIES:
+:EMAIL: [[mailto: Knoblechner Matteo <Knoblechner.Matteo@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Matteo_Knoblechner.html
+:ID: MatteoKnoblechner
+:END: 
+#+Name: Note_MatteoKnoblechner
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Daniel Promok
+:PROPERTIES:
+:EMAIL: [[mailto: Promok Daniel <Promok.Daniel@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Daniel_Promok.html
+:ID: DanielPromok
+:END: 
+#+Name: Note_DanielPromok
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Thomas Quehenberger
+:PROPERTIES:
+:EMAIL: [[mailto: Quehenberger Thomas <Quehenberger.Thomas@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Thomas_Quehenberger.html
+:ID: ThomasQuehenberger
+:END: 
+#+Name: Note_ThomasQuehenberger
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Christian Reiter
+:PROPERTIES:
+:EMAIL: [[mailto: Reiter Christian <Reiter.Christian@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Christian_Reiter.html
+:ID: ChristianReiter
+:END: 
+#+Name: Note_ChristianReiter
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Melanie Reiter
+:PROPERTIES:
+:EMAIL: [[mailto: Reiter Melanie <Reiter.Melanie@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Melanie_Reiter.html
+:ID: MelanieReiter
+:END: 
+#+Name: Note_MelanieReiter
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Valentin Reschreiter
+:PROPERTIES:
+:EMAIL: [[mailto: Reschreiter Valentin <Reschreiter.Valentin@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valentin_Reschreiter.html
+:ID: ValentinReschreiter
+:END: 
+#+Name: Note_ValentinReschreiter
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Valentin Sandtner
+:PROPERTIES:
+:EMAIL: [[mailto: Sandtner Valentin <Sandtner.Valentin@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valentin_Sandtner.html
+:ID: ValentinSandtner
+:END: 
+#+Name: Note_ValentinSandtner
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Niklas Schledt
+:PROPERTIES:
+:EMAIL: [[mailto: Schledt Niklas <Schledt.Niklas@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Niklas_Schledt.html
+:ID: NiklasSchledt
+:END: 
+#+Name: Note_NiklasSchledt
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Annalena Schnitzhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Schnitzhofer Annalena <Schnitzhofer.Annalena@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Annalena_Schnitzhofer.html
+:ID: AnnalenaSchnitzhofer
+:END: 
+#+Name: Note_AnnalenaSchnitzhofer
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
+** Daniel Spannberger
+:PROPERTIES:
+:EMAIL: [[mailto: Spannberger Daniel <Spannberger.Daniel@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Daniel_Spannberger.html
+:ID: DanielSpannberger
+:CUSTOM_ID: h:ed71c1a3-373b-4122-8f1f-f8bcb86645dd
+:END: 
+#+Name: Note_DanielSpannberger
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+*** Tablet vergessen
+:PROPERTIES:
+:CAPTURED: [2025-03-03 Mo 10:48]
+:DESCRIPTION: [[denote:20240908T214029::#h:ed71c1a3-373b-4122-8f1f-f8bcb86645dd][A Klasse 2023-27::Daniel Spannberger]]
+:END:
+Macht diese Stunde gar nichts.
+
+
+** Jonas Spannberger
+:PROPERTIES:
+:EMAIL: [[mailto: Spannberger Jonas <Spannberger.Jonas@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonas_Spannberger.html
+:ID: JonasSpannberger
+:END: 
+#+Name: Note_JonasSpannberger
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+*** Macht wenig bis nix
+:PROPERTIES:
+:CAPTURED: [2025-03-24 Mo 10:40]
+:DESCRIPTION: [[denote:20240717T163657::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][Agenda::2a (RLS) 10:30-11:20]]
+:END:
+Macht M HÜ in der LS;
+Arbeitet wenig bis nix.
+
+
+
+* Reflexionen
+:PROPERTIES:
+:CUSTOM_ID: h:6f5cf25d-9df6-4985-ab8d-d0d6171cf968
+:END:
+** Vorfall am Montag
+:PROPERTIES:
+:CAPTURED: [2024-10-17 Do 09:52]
+:DESCRIPTION: [[denote:20240908T214029::#h:6f5cf25d-9df6-4985-ab8d-d0d6171cf968][A Klasse 2023-27::Reflexionen]]
+:END:
+Gespräche mit Gabi und Lena. Email einer Mutter.
+
+In dieser Stunde war es generell sehr laut; zwei Schüler (Christian und Daniel) haben sich nicht und nicht an meine Anweisungen gehalten; das geht gar nicht. Im Zuge dieser Unruhe ist wahrscheinlich das Wort "dumm" gefallen. Das tut mir sehr leid, wenn dies so angekommen wäre, ich würde alle Schüler als "dumm" bezeichnen. das ist niemals meine Absicht. Wahrscheinlich wurden hier Wörter aus dem Kontext gerissen.
+
+Auf der anderen Seite können wir als Lehrer so ein Verhalten wie letzte Stunde nicht akzeptieren. Wir behandeln euch mit Respekt, dann erwarten wir ebenso Respekt uns gegenüber.
+
+Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
+
+** Lernschiene
+:PROPERTIES:
+:CAPTURED: [2024-11-04 Mo 11:08]
+:DESCRIPTION: [[denote:20240908T214029::#h:8938bd1e-d921-4eba-a69b-9f903c3a2c67][A Klasse 2023-27::Themen]]
+:END:
+Daniel und Daniel arbeiten so gut wie gar nicht; (Wie lange haben Schüler Ziet für einen Lernjob?) sie trinken die ganze Stunde, träumen, .... es geht nichts weiter, und zwar in keinem Fach.
+
+** Langsames Arbeiten
+:PROPERTIES:
+:CAPTURED: [2024-11-18 Mo 11:17]
+:DESCRIPTION: [[denote:20240908T214029::#h:93b9aa32-18ec-4187-ba6b-8214a0f22423][A Klasse 2023-27::LS 2a:]]
+:END:
+Was mache ich bei extrem langsames Arbeiten der Schüler?
+
+Tipp: Abgabetermin angeben - "bis zur nächsten Stunde" (in der Regel ist pro Lernjob vier Stunden Zeit)
+
+** Heute war kein Unterricht möglich...
+:PROPERTIES:
+:CAPTURED: [2025-03-06 Do 12:28]
+:DESCRIPTION: [[denote:20240717T163657::#h:7a03aa5f-7989-4d5e-a629-1b9a64a25c14][Agenda::2a 12:20-13:10]]
+:END:
+... und zwar in jeder Stunde (außer in der 3c).
+
+Ich wurde entweder von Kollegen "gestört", weil sie einen Schüler abgeholt haben. Und die Kinder waren in jeder Stunde laut, frech, provokant, haben pausenlos gestört.
+
+Also hab so gut wie in jeder Stunde schreiben lassen. Die Hefte in der 3a - werden wohl grauslich aussehen.
+
+Es macht einfach keine Freude mehr; aber ich muss weitermachen. Kann mich nur selbst ändern, die Kinder werden sich nie ändern - zumindest kann ich es nicht von ihnen erwarten.
+
+Man geht mit hoher Motivation in die Klasse und dann ... Kaum mache ich den Mund auf, um mit den Kindern zu reden, werde ich unterbrochen, es werden sinnlose Kommentare geschoben, provokante Fragen gestellt; ...
+
+** Arbeitshaltung
+:PROPERTIES:
+:CAPTURED: [2025-03-10 Mo 11:04]
+:DESCRIPTION: [[denote:20240717T163657::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][Agenda::2a (RLS) 10:30-11:20]]
+:END:
+Hab nicht den Eindruck, dass in dieser Klasse in der LS gearbeitet wird.
+
+Besonders Daniel und Daniel, Christian, Jakob, Leon, Matteo, Jonas zeichnen sich durch Nichtstun aus. Aber fleißig den Unterricht stören.
+
+Leider sieht man auf Teams nicht, ab wann einzelne Schüler an einem Lernjob arbeiten.
+
+Dass ich als L alleine in den LS Stunden bin, ist gar nicht hilfreich - in den Hauptfächern sind meine Kollegen zu zweit. In einer Klasse wie der 2a geht das gar nicht.
+
+** Sehr viele machen gar nix
+:PROPERTIES:
+:CAPTURED: [2025-03-17 Mo 11:06]
+:DESCRIPTION: [[denote:20240717T163657::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][Agenda::2a (RLS) 10:30-11:20]]
+:END:
+Daniel P., Jonas, Thomas, Christian, arbeiten so gut wie gar nicht, ... es wird gestöhnt, "Penis" gerufen, "Bumsi" ...,
+
+Ich müsste ohne Unterlass ermahnen, ermahnen, ermahnen, immer wieder steht wer auf und kopiert sinnlos irgendwas
+
+(Leon hustet ziemlich arg - Arzt?)
+
+Es herrscht keine ruhige Arbeitsatmosphäre - ob das überhaupt möglich ist?
+
+Bin ich an einem Ende der Klasse (Hilfe), dann entsteht am anderen Ende Unruhe; ermahnen nutzt gar nichts. Egal ob laut, normal, etc ...
+
+** Und schon wieder - nix arbeiten!
+:PROPERTIES:
+:CAPTURED: [2025-03-24 Mo 10:48]
+:DESCRIPTION: [[denote:20240717T163657::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][Agenda::2a (RLS) 10:30-11:20]]
+:END:
+Siehe Titel!
+
+Valentin R., David arbeiten;
+Christian hab ich das Tablet für den Rest der Stunde abgenommen - hat Videospiele gespielt.
+Matteo, Jonas arbeiten nicht - zumindest sehr wenig.
+
+Thommy? spielt er auch?
+
+Auf jeden Fall muss ich mir überlegen, bis wann die Schüler mit einem LJ fertig werden müssen. Hab den Eindruck, dass da nicht viel geschieht.
+
+Emilia hat trotz Ermahnung mit ihrer Saftflasche herum gespielt: natürlich lief sie aus, Überschwemmung!
+
+Matteo macht nix, redet viel, es wird gegrunzt, etc.
+
+** Wie üblich
+:PROPERTIES:
+:CAPTURED: [2025-04-07 Mo 10:55]
+:DESCRIPTION: [[denote:20240717T163657::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][Agenda::2a (RLS) 10:30-11:20]]
+:END:
+Daniel, Daniel, Jonas, Emilia, Lea, ... machen ... nix; sind sehr langsam. Trödeln; ... egal was ich sage, nix passiert. Es ist okay, dass ich die Arbeit wechsle, diese Bedingungen sind für mich nicht mehr erträglich. Niklas und Bezim sind nicht besonders fleißig.
+
+** Kontrolle Lernjobs
+:PROPERTIES:
+:CAPTURED: [2025-04-28 Mo 10:44]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:END:
+Ich muss unbedingt kontrollieren, welcher Schüler welche LJ erledigt hat: Ringordner, Teams. LJ Mappe der Schüler;
+
+<2025-05-05 Mo> Ansage: bis zu diesem Datum müssen diese LJs erledigt sein; für diese Note.
+
+Trotz Ermahnungen haben die meisten Schüler höchstens zwei Lernjobs in diesem Schuljahr geschafft. 
+
+Wer ist heute laut und macht nix:
+daniel, Daniel, Jonas, Matteo, Niklas;
+
+** So wie immer
+:PROPERTIES:
+:CAPTURED: [2025-05-05 Mo 10:55]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:END:
+Die üblichen Schüler (Leon, Matteo, Jonas, Niklas)  arbeiten kaum was, ständig höre ich "Annika"! Tierische Laute, trampeln, .... Hr. Russegger war herinnen, hat geschinpft, ist ihnen egal!
+
+Notiere alles; es gibt dann eben WZ; "Gut" oder "3" in Religion.
+
+Jonas ist z.B. zu faul, die Arbeitsaufträge zu lesen und zu verstehen. Jonas jausnet und redet frech zurück, wenn ich ihn darauf anspreche.
+
+Leon spielt seit drei LS-Stunden mit dem gleichen Versuch herum.
+
+Matteo redet frech zurück; arbeitet nicht.
+
+** Trotz Schreiben ist es laut
+:PROPERTIES:
+:CAPTURED: [2025-05-08 Do 12:59]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:7a03aa5f-7989-4d5e-a629-1b9a64a25c14][2a 12:20-13:10]]
+:END:
+Die letzten 20 Minuten ließ ich die ganze Klasse schreiben. Trotzdem ist es laut in der Klasse (alle, außer Valentin). Manche schreiben wirklich; andere schafen gerade einmal die Überschrift, oder den ersten Absatz.
+
+Jonas ... stöhnt, als ob ...
+
+Livia, Daniel, Daniel, etc
+
+** Übliches Verhalten
+:PROPERTIES:
+:CAPTURED: [2025-05-12 Mo 10:47]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:END:
+Jonas, Leon, Matteo, ... arbeiten kaum. 
+
+Ermahnungen werden "weggelacht"! Matteo stöhnt manchmal als hätte er gerade S..
+
+Ich verließ kurz die Klasse, um LJ-Zettel auseinander zu schneiden; kam zurück, setzte mich hin und saß im Wasser (war auf dem Sessel). Matteo war der "Übeltäter".
+
+** So wie immer
+:PROPERTIES:
+:CAPTURED: [2025-05-26 Mo 10:47]
+:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:END:
+... es wird kaum gearbeitet (Jonas, Matteo, ).
+
+Ich bin froh, wenn dieser Spuk einmal vorbei ist - am besten bin ich kein Lehrer mehr in Zukunft.
+
+Es reicht. Gute Nacht, Österreich.
+
+Die einzigen, die arbeiten:
+Christian, Valentin R., Lea, Valentin S.,
+
+
+
