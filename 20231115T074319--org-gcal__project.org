@@ -165,3 +165,14 @@ Mit dem Auto vom Flughafen nach Marchegg
 <2025-07-27 So 10:00-14:00>
 :END:
 
+* Lesen und Beten
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3507754917034142"
+:entry-id: 7dca8i76rr8fueb4ieek8cskdc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-07-30 Mi 21:00-22:00>
+:END:
+
