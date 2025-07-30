@@ -12,7 +12,7 @@
 #+STARTUP: showall
 #+export_file_name: ~/RoamNotes/exports/Jahresplanung 03.html
 
-* Schöpfung – das Geschenk Gottes bewahren (Kapitel 1)
+* Gemeinschaft | Schöpfung – das Geschenk Gottes bewahren (Kapitel 1)
 September bis Oktober
 
 ** Thema / Inhalt
@@ -44,7 +44,8 @@ SCHEDULED: <2025-07-28 Mo>
 *** [[denote:20250729T143600][Handeln: Zukunftswerkstatt]]
 *** [[denote:20250729T143613][Übungsteil]]
 
-* Sinn – dem Leben einen Grund geben (Kapitel 2)
+
+* Fragen | Sinn – dem Leben einen Grund geben (Kapitel 2)
 November bis Dezember
 
 ** Thema / Inhalt
@@ -80,7 +81,7 @@ Wenn sich in der 7. Schulstufe die Mehrheit der Schüler*innen auf das Sakrament
 *** [[denote:20250729T144119][Schöpfungsmythen anderer Religionen und Kulturen]]
 *** [[denote:20250729T144130][Übungsteil]]
 
-* Freiheit – auf Gottes Versprechen vertrauen (Kapitel 3)
+* Glaube | Freiheit – auf Gottes Versprechen vertrauen (Kapitel 3)
 Jänner bis März
 
 ** Thema / Inhalt
@@ -118,7 +119,7 @@ Kirchenjahr – Fastenzeit
 *** [[denote:20250729T172817][Bibel: Gleichnisse vom Reich Gottes deuten]]
 *** [[denote:20250729T172827][Übungsteil]]
 
-* Tradition – verwurzelt sein (Kapitel 4)
+* Kirche | Tradition – verwurzelt sein (Kapitel 4)
 März bis April
 
 ** Thema / Inhalt
@@ -159,7 +160,7 @@ Kirchenjahr - nach Ostern:
 *** [[denote:20250730T091616][Das Leben Gott schenken]]
 *** [[denote:20250730T091625][Übungsteil]]
 
-* Medien – Chancen und Risiken verstehen (Kapitel 5)
+* Welt | Medien – Chancen und Risiken verstehen (Kapitel 5)
 April bis Mai
 
 ** Thema / Inhalt
@@ -184,7 +185,7 @@ Die Schülerinnen und Schüler können die Nutzung von Medien und deren Potentia
 *** [[denote:20250730T092232][Medien: Fake News im Internet erkennen]]
 *** [[denote:20250730T092245][Übungsteil]]
 
-* Islam – dem einen Gott verpflichtet (Kapitel 6)
+* Vielfalt | Islam – dem einen Gott verpflichtet (Kapitel 6)
 Mai bis Juni
 
 ** Thema / Inhalt

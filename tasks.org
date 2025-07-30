@@ -107,21 +107,27 @@ DEADLINE: <2025-06-27 Fr 20:00>
 
 [[file:~/.emacs.d/emacs-config.org::*=org-capture= configuration][=org-capture= configuration]]
 
-** TODO [#A] Check In online durchführen                      :london:flight:
-DEADLINE: <2025-07-25 Fr 19:00>
+** DONE [#A] Check In online durchführen                     :london:flight:
+CLOSED: [2025-07-30 Mi 14:16] DEADLINE: <2025-07-25 Fr 19:00>
 :PROPERTIES:
 :CAPTURED: [2025-07-21 Mo 10:14]
 :CUSTOM_ID: h:20250721T101445
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-30 Mi 14:16]
 :END:
 Check In online durchführen um viel Geld zu sparen
 
 [[file:~/RoamNotes/notes/20231115T074319--org-gcal__project.org::*Abflug nach London][Abflug nach London]]
 
-** TODO [#A] Check In online durchführen                     :vienna:flight:
-DEADLINE: <2025-07-26 Sa 16:00>
+** DONE [#A] Check In online durchführen                     :vienna:flight:
+CLOSED: [2025-07-30 Mi 14:17] DEADLINE: <2025-07-26 Sa 16:00>
 :PROPERTIES:
 :CAPTURED: [2025-07-21 Mo 10:16]
 :CUSTOM_ID: h:20250721T101621
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-07-30 Mi 14:17]
 :END:
 Check In online durchführen, um viel Geld zu sparen.
 

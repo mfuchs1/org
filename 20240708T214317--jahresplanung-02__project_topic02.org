@@ -11,7 +11,7 @@
 #+STARTUP: showall
 #+export_file_name: ~/RoamNotes/exports/Jahresplanung 02.html
 
-* Beziehungen – miteinander umgehen lernen (Kapitel 1)
+* Gemeinschaft | Beziehungen – miteinander umgehen lernen (Kapitel 1)
 September - November
 
 ** Themenfelder
@@ -47,7 +47,7 @@ Liturgische (Mit)Gestaltung Eröffnungsgottesdienst: Der Ablauf der Hl. Messe �
 *** [[denote:20250729T124846][Übungsteil]]
 
 
-* Vertrauen – an Herausforderungen wachsen (Kapitel 2)
+* Fragen | Vertrauen – an Herausforderungen wachsen (Kapitel 2)
 November - Dezember
 
 ** Themenfelder
@@ -82,7 +82,7 @@ Die Schüler*innen können (strukturelle) Schuld wahrnehmen, (eigenes) schuldhaf
 *** [[denote:20250729T130405][Übungsteil: Und jetzt ich ...!]] (S. 50)
 
 
-* Altes Testament – von Gott erzählen (Kapitel 3)
+* Glaube | Altes Testament – von Gott erzählen (Kapitel 3)
 Jänner bis Februar
 
 ** Themenfelder
@@ -120,7 +120,7 @@ Die Schüler*innen können Gottesvorstellungen aus Bibel und christlicher Tradit
 
 
 
-* Sakramente – Gottes Nähe erfahren (Kapitel 4)
+* Kirche | Sakramente – Gottes Nähe erfahren (Kapitel 4)
 März bis April
 
 ** Themenfelder
@@ -156,7 +156,7 @@ Die Schüler*innen können Symbole deuten und entwerfen und die Sakramente als Z
 *** [[denote:20250729T132802][Übungsteil: Und jetzt ich ...?]]
 
 
-* Religion – Gott in der Welt entdecken (Kapitel 5)
+* Welt | Religion – Gott in der Welt entdecken (Kapitel 5)
 April bis Mai
 
 ** Themenfelder
@@ -193,7 +193,7 @@ Marienmonat Mai:
 *** [[denote:20250729T133629][Übungsteil: Und jetzt ich ...?]] (S. 110)
 
 
-* Judentum – als Volk erwählt (Kapitel 6)
+* Vielfalt | Judentum – als Volk erwählt (Kapitel 6)
 Mai und Juni
 
 ** Themenfelder
