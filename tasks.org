@@ -4,13 +4,13 @@
 #+DATE: [2025-07-24 Do 13:29]
 #+filetags: :Project:
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/Tasks.html
+#+export_file_name: ~/Documents/exports/Tasks.html
 
 Hier ein Text.
 
@@ -118,7 +118,7 @@ CLOSED: [2025-07-30 Mi 14:16] DEADLINE: <2025-07-25 Fr 19:00>
 :END:
 Check In online durchführen um viel Geld zu sparen
 
-[[file:~/RoamNotes/notes/20231115T074319--org-gcal__project.org::*Abflug nach London][Abflug nach London]]
+[[file:~/Documents/notes/20231115T074319--org-gcal__project.org::*Abflug nach London][Abflug nach London]]
 
 ** DONE [#A] Check In online durchführen                     :vienna:flight:
 CLOSED: [2025-07-30 Mi 14:17] DEADLINE: <2025-07-26 Sa 16:00>
@@ -131,7 +131,7 @@ CLOSED: [2025-07-30 Mi 14:17] DEADLINE: <2025-07-26 Sa 16:00>
 :END:
 Check In online durchführen, um viel Geld zu sparen.
 
-[[file:~/RoamNotes/notes/20231115T074319--org-gcal__project.org::*Rückflug nach Wien][Rückflug nach Wien]]
+[[file:~/Documents/notes/20231115T074319--org-gcal__project.org::*Rückflug nach Wien][Rückflug nach Wien]]
 
 * Wishlist
 :PROPERTIES:

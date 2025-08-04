@@ -3,13 +3,13 @@
 #+filetags:   :3a:
 #+identifier: 20240908T214254
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/3a.html
+#+export_file_name: ~/Documents/exports/3a.html
 
 * Jahresplanung
 [[denote:20240709T110253][Jahresplanung 03]]
@@ -149,21 +149,21 @@ Jakob arbeitet nix, diskutiert über Busverbindungen.
 ** Wie in der 2a
 :PROPERTIES:
 :CAPTURED: [2025-05-05 Mo 13:01]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
 :END:
 Klasse wollte keinen Film; also gab ich ihnen eine Arbeit. Die meisten arbeiten;
 
 ** Kein Unterricht möglich
 :PROPERTIES:
 :CAPTURED: [2025-05-19 Mo 12:36]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
 :END:
 So wie in der 4b. Ab jetzt schreiben beide Klassen bis zum Ende des Jahres. Kein Film, kein normaler Unterricht mehr möglich. Ist traurig, aber anders geht es nicht mehr.
 
 ** Note Religion
 :PROPERTIES:
 :CAPTURED: [2025-05-19 Mo 12:54]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
 :END:
 Lina, Luisa, Philipp, Simon, Raphael - schreiben nix; oder sehr wenig, weil sie viel reden.
 
@@ -172,7 +172,7 @@ Wo ist eigentlich Jakob aus der 3a? Schon seit Wochen nicht mehr im Religionsunt
 ** Komplett Irre
 :PROPERTIES:
 :CAPTURED: [2025-05-26 Mo 12:42]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][3a 12:20-13:10]]
 :END:
 Jakob, Philipp, Jenni, Amelie, ... machen nix; nur Chaos, ...
 
@@ -187,7 +187,7 @@ Philipp: Haben Sie über Juden gesagt, dass diese Tiere misshandeln?
 ** So wie immer
 :PROPERTIES:
 :CAPTURED: [2025-06-02 Mo 10:37]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
 :END:
 Wer arbeitet nicht?
 - Jonas
@@ -198,7 +198,7 @@ Wer arbeitet nicht?
 ** Wer arbeitet?
 :PROPERTIES:
 :CAPTURED: [2025-06-02 Mo 11:00]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
 :END:
 - Valentin S.
 - Valentin R.
@@ -249,7 +249,7 @@ Wer arbeitet nicht?
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
@@ -267,7 +267,7 @@ Wer arbeitet nicht?
 ** Philip Auer
 :PROPERTIES:
 :EMAIL: [[mailto: Auer Philip <Auer.Philip@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Philip_Auer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Philip_Auer.html
 :ID: PhilipAuer
 :CUSTOM_ID: h:ed788948-b5e5-435b-95cb-1aa86e922cd9
 :END: 
@@ -292,7 +292,7 @@ Philip hat es diese Stunde mehrmals übertrieben:
 ** Julian Bachler
 :PROPERTIES:
 :EMAIL: [[mailto: Bachler Julian <Bachler.Julian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julian_Bachler.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Julian_Bachler.html
 :ID: JulianBachler
 :END: 
 #+Name: Note_JulianBachler
@@ -306,7 +306,7 @@ Philip hat es diese Stunde mehrmals übertrieben:
 ** Simon Brandauer
 :PROPERTIES:
 :EMAIL: [[mailto: Brandauer Simon <Brandauer.Simon@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Simon_Brandauer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Simon_Brandauer.html
 :ID: SimonBrandauer
 :END: 
 #+Name: Note_SimonBrandauer
@@ -320,7 +320,7 @@ Philip hat es diese Stunde mehrmals übertrieben:
 ** Lina Breitfuß
 :PROPERTIES:
 :EMAIL: [[mailto: Breitfuß Lina <Breitfuß.Lina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lina_Breitfuß.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lina_Breitfuß.html
 :ID: LinaBreitfuß
 :END: 
 #+Name: Note_LinaBreitfuß
@@ -334,7 +334,7 @@ Philip hat es diese Stunde mehrmals übertrieben:
 ** Clara Eder
 :PROPERTIES:
 :EMAIL: [[mailto: Eder Clara <Eder.Clara@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Clara_Eder.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Clara_Eder.html
 :ID: ClaraEder
 :END: 
 #+Name: Note_ClaraEder
@@ -348,7 +348,7 @@ Philip hat es diese Stunde mehrmals übertrieben:
 ** Jakob Gimpl
 :PROPERTIES:
 :EMAIL: [[mailto: Gimpl Jakob <Gimpl.Jakob@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jakob_Gimpl.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Jakob_Gimpl.html
 :ID: JakobGimpl
 :END: 
 #+Name: Note_JakobGimpl
@@ -371,7 +371,7 @@ Also "Mich interessiert das NULL!" wie von Jakob mag stimmen - und doch ist der 
 ** Jana Grünwald
 :PROPERTIES:
 :EMAIL: [[mailto: Grünwald Jana <Grünwald.Jana@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jana_Grünwald.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Jana_Grünwald.html
 :ID: JanaGrünwald
 :END: 
 #+Name: Note_JanaGrünwald
@@ -385,7 +385,7 @@ Also "Mich interessiert das NULL!" wie von Jakob mag stimmen - und doch ist der 
 ** Elena Lienbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Lienbacher Elena <Lienbacher.Elena@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Elena_Lienbacher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Elena_Lienbacher.html
 :ID: ElenaLienbacher
 :END: 
 #+Name: Note_ElenaLienbacher
@@ -399,7 +399,7 @@ Also "Mich interessiert das NULL!" wie von Jakob mag stimmen - und doch ist der 
 ** Jennifer Menneweger
 :PROPERTIES:
 :EMAIL: [[mailto: Menneweger Jennifer <Menneweger.Jennifer@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jennifer_Menneweger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Jennifer_Menneweger.html
 :ID: JenniferMenneweger
 :END: 
 #+Name: Note_JenniferMenneweger
@@ -413,7 +413,7 @@ Also "Mich interessiert das NULL!" wie von Jakob mag stimmen - und doch ist der 
 ** Tobias Ospald
 :PROPERTIES:
 :EMAIL: [[mailto: Ospald Tobias <Ospald.Tobias@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Tobias_Ospald.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Tobias_Ospald.html
 :ID: TobiasOspald
 :END: 
 #+Name: Note_TobiasOspald
@@ -434,7 +434,7 @@ Tobias hat meinen Auftrag nur ungenügend umgesetzt: die einzelnen Punkte des Is
 ** Raphael Pirnbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Pirnbacher Raphael <Pirnbacher.Raphael@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Raphael_Pirnbacher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Raphael_Pirnbacher.html
 :ID: RaphaelPirnbacher
 :END: 
 #+Name: Note_RaphaelPirnbacher
@@ -448,7 +448,7 @@ Tobias hat meinen Auftrag nur ungenügend umgesetzt: die einzelnen Punkte des Is
 ** Niklas Reiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reiter Niklas <Reiter.Niklas@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Niklas_Reiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Niklas_Reiter.html
 :ID: NiklasReiter
 :END: 
 #+Name: Note_NiklasReiter
@@ -468,7 +468,7 @@ Natürlich kann ein Schüler (fast) jede Art von Fragen stellen, aber ... wenn e
 ** Amelie Reschreiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reschreiter Amelie <Reschreiter.Amelie@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Amelie_Reschreiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Amelie_Reschreiter.html
 :ID: AmelieReschreiter
 :END: 
 #+Name: Note_AmelieReschreiter
@@ -482,7 +482,7 @@ Natürlich kann ein Schüler (fast) jede Art von Fragen stellen, aber ... wenn e
 ** Luisa Russegger
 :PROPERTIES:
 :EMAIL: [[mailto: Russegger Luisa <Russegger.Luisa@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Luisa_Russegger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Luisa_Russegger.html
 :ID: LuisaRussegger
 :END: 
 #+Name: Note_LuisaRussegger
@@ -496,7 +496,7 @@ Natürlich kann ein Schüler (fast) jede Art von Fragen stellen, aber ... wenn e
 ** Luca Schefbänker
 :PROPERTIES:
 :EMAIL: [[mailto: Schefbänker Luca <Schefbänker.Luca@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Luca_Schefbänker.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Luca_Schefbänker.html
 :ID: LucaSchefbänker
 :END: 
 #+Name: Note_LucaSchefbänker
@@ -510,7 +510,7 @@ Natürlich kann ein Schüler (fast) jede Art von Fragen stellen, aber ... wenn e
 ** Simon Schweighofer
 :PROPERTIES:
 :EMAIL: [[mailto: Schweighofer Simon <Schweighofer.Simon@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Simon_Schweighofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Simon_Schweighofer.html
 :ID: SimonSchweighofer
 :END: 
 #+Name: Note_SimonSchweighofer
@@ -524,7 +524,7 @@ Natürlich kann ein Schüler (fast) jede Art von Fragen stellen, aber ... wenn e
 ** Julia Steiner
 :PROPERTIES:
 :EMAIL: [[mailto: Steiner Julia <Steiner.Julia@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julia_Steiner.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Julia_Steiner.html
 :ID: JuliaSteiner
 :END: 
 #+Name: Note_JuliaSteiner

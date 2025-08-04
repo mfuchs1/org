@@ -3,13 +3,13 @@
 #+filetags:   :1b:
 #+identifier: 20240908T214427
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/1b.html
+#+export_file_name: ~/Documents/exports/1b.html
 
 * Jahresplanung
 [[denote:20240719T125948][Jahresplanung 01]]
@@ -138,7 +138,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
@@ -160,7 +160,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Luca Auer
 :PROPERTIES:
 :EMAIL: [[mailto: Auer Luca <Auer.Luca@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Luca_Auer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Luca_Auer.html
 :ID: LucaAuer
 :CUSTOM_ID: h:569f7b43-b72e-4ba8-b782-6eeaa3dc162b
 :END: 
@@ -177,7 +177,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Noah Eckschlager
 :PROPERTIES:
 :EMAIL: [[mailto: Eckschlager Noah <Eckschlager.Noah@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Noah_Eckschlager.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Noah_Eckschlager.html
 :ID: NoahEckschlager
 :END: 
 #+Name: Note_NoahEckschlager
@@ -192,7 +192,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Leonie Eder
 :PROPERTIES:
 :EMAIL: [[mailto: Eder Leonie <Eder.Leonie@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leonie_Eder.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Leonie_Eder.html
 :ID: LeonieEder
 :END: 
 #+Name: Note_LeonieEder
@@ -207,7 +207,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Noah Frey
 :PROPERTIES:
 :EMAIL: [[mailto: Frey Noah <Frey.Noah@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Noah_Frey.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Noah_Frey.html
 :ID: NoahFrey
 :END: 
 #+Name: Note_NoahFrey
@@ -222,7 +222,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Angelina Gschwandtner
 :PROPERTIES:
 :EMAIL: [[mailto: Gschwandtner Angelina <Gschwandtner.Angelina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Angelina_Gschwandtner.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Angelina_Gschwandtner.html
 :ID: AngelinaGschwandtner
 :END: 
 #+Name: Note_AngelinaGschwandtner
@@ -237,7 +237,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Daniel Hitzenbichler
 :PROPERTIES:
 :EMAIL: [[mailto: Hitzenbichler Daniel <Hitzenbichler.Daniel@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Daniel_Hitzenbichler.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Daniel_Hitzenbichler.html
 :ID: DanielHitzenbichler
 :END: 
 #+Name: Note_DanielHitzenbichler
@@ -252,7 +252,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Jonas Hornegger
 :PROPERTIES:
 :EMAIL: [[mailto: Hornegger Jonas <Hornegger.Jonas@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonas_Hornegger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Jonas_Hornegger.html
 :ID: JonasHornegger
 :END: 
 #+Name: Note_JonasHornegger
@@ -267,7 +267,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Miriam Kainhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Kainhofer Miriam <Kainhofer.Miriam@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Miriam_Kainhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Miriam_Kainhofer.html
 :ID: MiriamKainhofer
 :END: 
 #+Name: Note_MiriamKainhofer
@@ -282,7 +282,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Sophia Nachbar
 :PROPERTIES:
 :EMAIL: [[mailto: Nachbar Sophia <Nachbar.Sophia@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sophia_Nachbar.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Sophia_Nachbar.html
 :ID: SophiaNachbar
 :END: 
 #+Name: Note_SophiaNachbar
@@ -297,7 +297,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Gabriel Promok
 :PROPERTIES:
 :EMAIL: [[mailto: Promok Gabriel <Promok.Gabriel@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Gabriel_Promok.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Gabriel_Promok.html
 :ID: GabrielPromok
 :END: 
 #+Name: Note_GabrielPromok
@@ -312,7 +312,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Amelie Reiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reiter Amelie <Reiter.Amelie@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Amelie_Reiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Amelie_Reiter.html
 :ID: AmelieReiter
 :END: 
 #+Name: Note_AmelieReiter
@@ -327,7 +327,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Philipp Reiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reiter Philipp <Reiter.Philipp@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Philipp_Reiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Philipp_Reiter.html
 :ID: PhilippReiter
 :END: 
 #+Name: Note_PhilippReiter
@@ -342,7 +342,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Bastian Sandtner
 :PROPERTIES:
 :EMAIL: [[mailto: Sandtner Bastian <Sandtner.Bastian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Bastian_Sandtner.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Bastian_Sandtner.html
 :ID: BastianSandtner
 :END: 
 #+Name: Note_BastianSandtner
@@ -357,7 +357,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Luca Wallinger
 :PROPERTIES:
 :EMAIL: [[mailto: Wallinger Luca <Wallinger.Luca@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Luca_Wallinger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Luca_Wallinger.html
 :ID: LucaWallinger
 :END: 
 #+Name: Note_LucaWallinger
@@ -372,7 +372,7 @@ Leider haben ein Großteil der Schüler dieses Thema offensichtlich und demonstr
 ** Benedict Wintersteller
 :PROPERTIES:
 :EMAIL: [[mailto: Wintersteller Benedict <Wintersteller.Benedict@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Benedict_Wintersteller.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Benedict_Wintersteller.html
 :ID: BenedictWintersteller
 :END: 
 #+Name: Note_BenedictWintersteller

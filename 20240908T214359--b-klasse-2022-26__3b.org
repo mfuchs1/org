@@ -3,13 +3,13 @@
 #+filetags:   :3b:
 #+identifier: 20240908T214359
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/3b.html
+#+export_file_name: ~/Documents/exports/3b.html
 
 * Jahresplanung
 [[denote:20240709T110253][Jahresplanung 03]]
@@ -104,7 +104,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
@@ -122,7 +122,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Sebastian Eder
 :PROPERTIES:
 :EMAIL: [[mailto: Eder Sebastian <Eder.Sebastian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sebastian_Eder.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Sebastian_Eder.html
 :ID: SebastianEder
 :END: 
 #+Name: Note_SebastianEder
@@ -136,7 +136,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Lara Gsenger
 :PROPERTIES:
 :EMAIL: [[mailto: Gsenger Lara <Gsenger.Lara@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lara_Gsenger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lara_Gsenger.html
 :ID: LaraGsenger
 :END: 
 #+Name: Note_LaraGsenger
@@ -150,7 +150,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Emil Hodo
 :PROPERTIES:
 :EMAIL: [[mailto: Hodo Emil <Hodo.Emil@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emil_Hodo.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Emil_Hodo.html
 :ID: EmilHodo
 :END: 
 #+Name: Note_EmilHodo
@@ -164,7 +164,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Matthias Hornegger
 :PROPERTIES:
 :EMAIL: [[mailto: Hornegger Matthias <Hornegger.Matthias@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Matthias_Hornegger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Matthias_Hornegger.html
 :ID: MatthiasHornegger
 :END: 
 #+Name: Note_MatthiasHornegger
@@ -178,7 +178,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Alexander Kainhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Kainhofer Alexander <Kainhofer.Alexander@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Alexander_Kainhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Alexander_Kainhofer.html
 :ID: AlexanderKainhofer
 :END: 
 #+Name: Note_AlexanderKainhofer
@@ -192,7 +192,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Anna Quehenberger
 :PROPERTIES:
 :EMAIL: [[mailto: Quehenberger Anna <Quehenberger.Anna@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Quehenberger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Anna_Quehenberger.html
 :ID: AnnaQuehenberger
 :END: 
 #+Name: Note_AnnaQuehenberger
@@ -206,7 +206,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Sebastian Reschreiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reschreiter Sebastian <Reschreiter.Sebastian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sebastian_Reschreiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Sebastian_Reschreiter.html
 :ID: SebastianReschreiter
 :END: 
 #+Name: Note_SebastianReschreiter
@@ -220,7 +220,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Jonas Rettenbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Rettenbacher Jonas <Rettenbacher.Jonas@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonas_Rettenbacher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Jonas_Rettenbacher.html
 :ID: JonasRettenbacher
 :END: 
 #+Name: Note_JonasRettenbacher
@@ -234,7 +234,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Sofia Schwaighofer
 :PROPERTIES:
 :EMAIL: [[mailto: Schwaighofer Sofia <Schwaighofer.Sofia@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sofia_Schwaighofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Sofia_Schwaighofer.html
 :ID: SofiaSchwaighofer
 :END: 
 #+Name: Note_SofiaSchwaighofer
@@ -248,7 +248,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Michael Seethaler
 :PROPERTIES:
 :EMAIL: [[mailto: Seethaler Michael <Seethaler.Michael@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Michael_Seethaler.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Michael_Seethaler.html
 :ID: MichaelSeethaler
 :END: 
 #+Name: Note_MichaelSeethaler
@@ -262,7 +262,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 ** Carina Windhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Windhofer Carina <Windhofer.Carina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Carina_Windhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Carina_Windhofer.html
 :ID: CarinaWindhofer
 :END: 
 #+Name: Note_CarinaWindhofer

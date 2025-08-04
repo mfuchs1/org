@@ -176,3 +176,43 @@ Mit dem Auto vom Flughafen nach Marchegg
 <2025-07-30 Mi 21:00-22:00>
 :END:
 
+* Lesen und Beten
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3507912750381022"
+:entry-id: mh2kngchk8fhhm1m2ph80sb42g/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-07-31 Do 20:00-21:00>
+:END:
+
+* Einkauf mit Leopold
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3508606226413086"
+:entry-id: g46crl2nt1t7qetgr71pneqbqc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-08-04 Mo 14:00-16:30>
+
+Bergschuhe für Leopold (CMP)
+LP Papa / Jacke? 
+:END:
+
+* Wandertour zur Toni Lenz Hütte mit Leopold
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3508606505454526"
+:entry-id: 3rbl9sbqemq3vddc8bh000evsc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-08-08 Fr 06:00-13:00>
+
+Karte am Handy (Komoot)
+
+Spätere Tour: 2 Tage Klingeralm / Hochthron
+:END:
+

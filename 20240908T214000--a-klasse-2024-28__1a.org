@@ -3,13 +3,13 @@
 #+filetags:   :1a:
 #+identifier: 20240908T214000
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/1a.html
+#+export_file_name: ~/Documents/exports/1a.html
 
 * Jahresplanung
 [[denote:20240719T125948][Jahresplanung 01]]
@@ -110,7 +110,7 @@ Arbeitsweg
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
@@ -129,7 +129,7 @@ Arbeitsweg
 ** Sophie Auer
 :PROPERTIES:
 :EMAIL: [[mailto: Auer Sophie <Auer.Sophie@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sophie_Auer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Sophie_Auer.html
 :ID: SophieAuer
 :END: 
 #+Name: Note_SophieAuer
@@ -144,7 +144,7 @@ Arbeitsweg
 ** Matthias Buchegger
 :PROPERTIES:
 :EMAIL: [[mailto: Buchegger Matthias <Buchegger.Matthias@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Matthias_Buchegger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Matthias_Buchegger.html
 :ID: MatthiasBuchegger
 :END: 
 #+Name: Note_MatthiasBuchegger
@@ -159,7 +159,7 @@ Arbeitsweg
 ** Felix Eder
 :PROPERTIES:
 :EMAIL: [[mailto: Eder Felix <Eder.Felix@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Felix_Eder.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Felix_Eder.html
 :ID: FelixEder
 :END: 
 #+Name: Note_FelixEder
@@ -174,7 +174,7 @@ Arbeitsweg
 ** Samuel Hirscher
 :PROPERTIES:
 :EMAIL: [[mailto: Hirscher Samuel <Hirscher.Samuel@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Samuel_Hirscher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Samuel_Hirscher.html
 :ID: SamuelHirscher
 :END: 
 #+Name: Note_SamuelHirscher
@@ -189,7 +189,7 @@ Arbeitsweg
 ** Anna Kainhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Kainhofer Anna <Kainhofer.Anna@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Kainhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Anna_Kainhofer.html
 :ID: AnnaKainhofer
 :END: 
 #+Name: Note_AnnaKainhofer
@@ -204,7 +204,7 @@ Arbeitsweg
 ** Ilvy Ramsauer
 :PROPERTIES:
 :EMAIL: [[mailto: Ramsauer Ilvy <Ramsauer.Ilvy@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Ilvy_Ramsauer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Ilvy_Ramsauer.html
 :ID: IlvyRamsauer
 :END: 
 #+Name: Note_IlvyRamsauer
@@ -219,7 +219,7 @@ Arbeitsweg
 ** Nadine Ramsauer
 :PROPERTIES:
 :EMAIL: [[mailto: Ramsauer Nadine <Ramsauer.Nadine@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Nadine_Ramsauer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Nadine_Ramsauer.html
 :ID: NadineRamsauer
 :END: 
 #+Name: Note_NadineRamsauer
@@ -234,7 +234,7 @@ Arbeitsweg
 ** Leonie Reschreiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reschreiter Leonie <Reschreiter.Leonie@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leonie_Reschreiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Leonie_Reschreiter.html
 :ID: LeonieReschreiter
 :END: 
 #+Name: Note_LeonieReschreiter
@@ -249,7 +249,7 @@ Arbeitsweg
 ** Tobias Rettenbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Rettenbacher Tobias <Rettenbacher.Tobias@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Tobias_Rettenbacher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Tobias_Rettenbacher.html
 :ID: TobiasRettenbacher
 :END: 
 #+Name: Note_TobiasRettenbacher
@@ -264,7 +264,7 @@ Arbeitsweg
 ** Jakob Rettenegger
 :PROPERTIES:
 :EMAIL: [[mailto: Rettenegger Jakob <Rettenegger.Jakob@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jakob_Rettenegger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Jakob_Rettenegger.html
 :ID: JakobRettenegger
 :END: 
 #+Name: Note_JakobRettenegger
@@ -279,7 +279,7 @@ Arbeitsweg
 ** Eva Schlager
 :PROPERTIES:
 :EMAIL: [[mailto: Schlager Eva <Schlager.Eva@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Eva_Schlager.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Eva_Schlager.html
 :ID: EvaSchlager
 :END: 
 #+Name: Note_EvaSchlager
@@ -294,7 +294,7 @@ Arbeitsweg
 ** Tim Schledt
 :PROPERTIES:
 :EMAIL: [[mailto: Schledt Tim <Schledt.Tim@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Tim_Schledt.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Tim_Schledt.html
 :ID: TimSchledt
 :END: 
 #+Name: Note_TimSchledt
@@ -309,7 +309,7 @@ Arbeitsweg
 ** Ella Sunkler
 :PROPERTIES:
 :EMAIL: [[mailto: Sunkler Ella <Sunkler.Ella@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Ella_Sunkler.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Ella_Sunkler.html
 :ID: EllaSunkler
 :END: 
 #+Name: Note_EllaSunkler
@@ -324,7 +324,7 @@ Arbeitsweg
 ** Finja Thomüller
 :PROPERTIES:
 :EMAIL: [[mailto: Thomüller Finja <Thomüller.Finja@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Finja_Thomüller.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Finja_Thomüller.html
 :ID: FinjaThomüller
 :END: 
 #+Name: Note_FinjaThomüller
@@ -339,7 +339,7 @@ Arbeitsweg
 ** Julia Windhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Windhofer Julia <Windhofer.Julia@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julia_Windhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Julia_Windhofer.html
 :ID: JuliaWindhofer
 :END: 
 #+Name: Note_JuliaWindhofer
@@ -381,7 +381,7 @@ Arbeitsweg
 ** Smartboard?
 :PROPERTIES:
 :CAPTURED: [2025-06-02 Mo 09:20]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::*1a (RLS) 08:35-09:25][1a (RLS) 08:35-09:25]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::*1a (RLS) 08:35-09:25][1a (RLS) 08:35-09:25]]
 :END:
 Kann man wirklich die Empfindlichkeit so erhöhen, dass eine Fliege Apps verschieben kann?
 

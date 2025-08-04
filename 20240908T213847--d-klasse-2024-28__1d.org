@@ -6,13 +6,13 @@
 #+filetags:   :1d:
 #+identifier: 20240908T213847
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/1d.html
+#+export_file_name: ~/Documents/exports/1d.html
 
 * Jahresplanung
 [[denote:20240719T125948][Jahresplanung 01]]
@@ -108,7 +108,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
@@ -127,7 +127,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Christian Auer
 :PROPERTIES:
 :EMAIL: [[mailto: Auer Christian <Auer.Christian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Christian_Auer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Christian_Auer.html
 :ID: ChristianAuer
 :END: 
 #+Name: Note_ChristianAuer
@@ -142,7 +142,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Julian Bayer
 :PROPERTIES:
 :EMAIL: [[mailto: Bayer Julian <Bayer.Julian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julian_Bayer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Julian_Bayer.html
 :ID: JulianBayer
 :END: 
 #+Name: Note_JulianBayer
@@ -157,7 +157,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Alexa Dobunda
 :PROPERTIES:
 :EMAIL: [[mailto: Dobunda Alexa <Dobunda.Alexa@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Alexa_Dobunda.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Alexa_Dobunda.html
 :ID: AlexaDobunda
 :END: 
 #+Name: Note_AlexaDobunda
@@ -172,7 +172,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Philipp Epp
 :PROPERTIES:
 :EMAIL: [[mailto: Epp Philipp <Epp.Philipp@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Philipp_Epp.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Philipp_Epp.html
 :ID: PhilippEpp
 :END: 
 #+Name: Note_PhilippEpp
@@ -187,7 +187,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Marlene Fuschlberger
 :PROPERTIES:
 :EMAIL: [[mailto: Fuschlberger Marlene <Fuschlberger.Marlene@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Marlene_Fuschlberger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Marlene_Fuschlberger.html
 :ID: MarleneFuschlberger
 :END: 
 #+Name: Note_MarleneFuschlberger
@@ -202,7 +202,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Lea Hirscher
 :PROPERTIES:
 :EMAIL: [[mailto: Hirscher Lea <Hirscher.Lea@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lea_Hirscher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lea_Hirscher.html
 :ID: LeaHirscher
 :END: 
 #+Name: Note_LeaHirscher
@@ -217,7 +217,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Johann Hornegger
 :PROPERTIES:
 :EMAIL: [[mailto: Hornegger Johann <Hornegger.Johann@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Johann_Hornegger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Johann_Hornegger.html
 :ID: JohannHornegger
 :END: 
 #+Name: Note_JohannHornegger
@@ -232,7 +232,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Kilian Klamm
 :PROPERTIES:
 :EMAIL: [[mailto: Klamm Kilian <Klamm.Kilian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Kilian_Klamm.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Kilian_Klamm.html
 :ID: KilianKlamm
 :END: 
 #+Name: Note_KilianKlamm
@@ -247,7 +247,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Felix Prühs
 :PROPERTIES:
 :EMAIL: [[mailto: Prühs Felix <Prühs.Felix@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Felix_Prühs.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Felix_Prühs.html
 :ID: FelixPrühs
 :END: 
 #+Name: Note_FelixPrühs
@@ -262,7 +262,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Maxim Rettenbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Rettenbacher Maxim <Rettenbacher.Maxim@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maxim_Rettenbacher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Maxim_Rettenbacher.html
 :ID: MaximRettenbacher
 :END: 
 #+Name: Note_MaximRettenbacher
@@ -277,7 +277,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Laura Schnitzhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Schnitzhofer Laura <Schnitzhofer.Laura@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Laura_Schnitzhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Laura_Schnitzhofer.html
 :ID: LauraSchnitzhofer
 :END: 
 #+Name: Note_LauraSchnitzhofer
@@ -292,7 +292,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Michael Schorn
 :PROPERTIES:
 :EMAIL: [[mailto: Schorn Michael <Schorn.Michael@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Michael_Schorn.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Michael_Schorn.html
 :ID: MichaelSchorn
 :END: 
 #+Name: Note_MichaelSchorn
@@ -307,7 +307,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Katja Schwaighofer
 :PROPERTIES:
 :EMAIL: [[mailto: Schwaighofer Katja <Schwaighofer.Katja@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Katja_Schwaighofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Katja_Schwaighofer.html
 :ID: KatjaSchwaighofer
 :END: 
 #+Name: Note_KatjaSchwaighofer
@@ -323,7 +323,7 @@ Schulgottesdienst proben - sehr wichtig, da Jacqui hilft.
 ** Maxim Zettel
 :PROPERTIES:
 :CAPTURED: [2025-05-19 Mo 08:05]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:79e7082f-c4b2-47d0-9506-6bde40e15f69][1d (RLS) 07:45-08:35]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:79e7082f-c4b2-47d0-9506-6bde40e15f69][1d (RLS) 07:45-08:35]]
 :END:
 Maxim hat einen Penis auf einen Zettel gezeichnet und wirft ihn in der Klasse herum; von ihm zu Philipp, der zu Felix.
 

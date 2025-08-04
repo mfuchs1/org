@@ -3,13 +3,13 @@
 #+filetags:   :2a:
 #+identifier: 20240908T214029
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/2a.html
+#+export_file_name: ~/Documents/exports/2a.html
 
 * Jahresplanung
 [[denote:20240708T214317][Jahresplanung 02]]
@@ -135,7 +135,7 @@ http://www.veritas.at/code (rfu300)
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
@@ -154,7 +154,7 @@ http://www.veritas.at/code (rfu300)
 ** Lea Butkovic
 :PROPERTIES:
 :EMAIL: [[mailto: Butkovic Lea <Butkovic.Lea@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lea_Butkovic.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lea_Butkovic.html
 :ID: LeaButkovic
 :END: 
 #+Name: Note_LeaButkovic
@@ -169,7 +169,7 @@ http://www.veritas.at/code (rfu300)
 ** Livia Eder
 :PROPERTIES:
 :EMAIL: [[mailto: Eder Livia <Eder.Livia@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Livia_Eder.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Livia_Eder.html
 :ID: LiviaEder
 :END: 
 #+Name: Note_LiviaEder
@@ -184,7 +184,7 @@ http://www.veritas.at/code (rfu300)
 ** Emilia-Valentina Fasl
 :PROPERTIES:
 :EMAIL: [[mailto: Fasl Emilia-Valentina <Fasl.Emilia-Valentina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emilia-Valentina_Fasl.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Emilia-Valentina_Fasl.html
 :ID: Emilia-ValentinaFasl
 :END: 
 #+Name: Note_Emilia-ValentinaFasl
@@ -199,7 +199,7 @@ http://www.veritas.at/code (rfu300)
 ** Leon Höll
 :PROPERTIES:
 :EMAIL: [[mailto: Höll Leon <Höll.Leon@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leon_Höll.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Leon_Höll.html
 :ID: LeonHöll
 :END: 
 #+Name: Note_LeonHöll
@@ -214,7 +214,7 @@ http://www.veritas.at/code (rfu300)
 ** Emilia Huber
 :PROPERTIES:
 :EMAIL: [[mailto: Huber Emilia <Huber.Emilia@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emilia_Huber.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Emilia_Huber.html
 :ID: EmiliaHuber
 :END: 
 #+Name: Note_EmiliaHuber
@@ -229,7 +229,7 @@ http://www.veritas.at/code (rfu300)
 ** Matteo Knoblechner
 :PROPERTIES:
 :EMAIL: [[mailto: Knoblechner Matteo <Knoblechner.Matteo@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Matteo_Knoblechner.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Matteo_Knoblechner.html
 :ID: MatteoKnoblechner
 :END: 
 #+Name: Note_MatteoKnoblechner
@@ -244,7 +244,7 @@ http://www.veritas.at/code (rfu300)
 ** Daniel Promok
 :PROPERTIES:
 :EMAIL: [[mailto: Promok Daniel <Promok.Daniel@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Daniel_Promok.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Daniel_Promok.html
 :ID: DanielPromok
 :END: 
 #+Name: Note_DanielPromok
@@ -259,7 +259,7 @@ http://www.veritas.at/code (rfu300)
 ** Thomas Quehenberger
 :PROPERTIES:
 :EMAIL: [[mailto: Quehenberger Thomas <Quehenberger.Thomas@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Thomas_Quehenberger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Thomas_Quehenberger.html
 :ID: ThomasQuehenberger
 :END: 
 #+Name: Note_ThomasQuehenberger
@@ -274,7 +274,7 @@ http://www.veritas.at/code (rfu300)
 ** Christian Reiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reiter Christian <Reiter.Christian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Christian_Reiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Christian_Reiter.html
 :ID: ChristianReiter
 :END: 
 #+Name: Note_ChristianReiter
@@ -289,7 +289,7 @@ http://www.veritas.at/code (rfu300)
 ** Melanie Reiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reiter Melanie <Reiter.Melanie@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Melanie_Reiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Melanie_Reiter.html
 :ID: MelanieReiter
 :END: 
 #+Name: Note_MelanieReiter
@@ -304,7 +304,7 @@ http://www.veritas.at/code (rfu300)
 ** Valentin Reschreiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reschreiter Valentin <Reschreiter.Valentin@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valentin_Reschreiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Valentin_Reschreiter.html
 :ID: ValentinReschreiter
 :END: 
 #+Name: Note_ValentinReschreiter
@@ -319,7 +319,7 @@ http://www.veritas.at/code (rfu300)
 ** Valentin Sandtner
 :PROPERTIES:
 :EMAIL: [[mailto: Sandtner Valentin <Sandtner.Valentin@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valentin_Sandtner.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Valentin_Sandtner.html
 :ID: ValentinSandtner
 :END: 
 #+Name: Note_ValentinSandtner
@@ -334,7 +334,7 @@ http://www.veritas.at/code (rfu300)
 ** Niklas Schledt
 :PROPERTIES:
 :EMAIL: [[mailto: Schledt Niklas <Schledt.Niklas@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Niklas_Schledt.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Niklas_Schledt.html
 :ID: NiklasSchledt
 :END: 
 #+Name: Note_NiklasSchledt
@@ -349,7 +349,7 @@ http://www.veritas.at/code (rfu300)
 ** Annalena Schnitzhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Schnitzhofer Annalena <Schnitzhofer.Annalena@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Annalena_Schnitzhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Annalena_Schnitzhofer.html
 :ID: AnnalenaSchnitzhofer
 :END: 
 #+Name: Note_AnnalenaSchnitzhofer
@@ -364,7 +364,7 @@ http://www.veritas.at/code (rfu300)
 ** Daniel Spannberger
 :PROPERTIES:
 :EMAIL: [[mailto: Spannberger Daniel <Spannberger.Daniel@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Daniel_Spannberger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Daniel_Spannberger.html
 :ID: DanielSpannberger
 :CUSTOM_ID: h:ed71c1a3-373b-4122-8f1f-f8bcb86645dd
 :END: 
@@ -387,7 +387,7 @@ Macht diese Stunde gar nichts.
 ** Jonas Spannberger
 :PROPERTIES:
 :EMAIL: [[mailto: Spannberger Jonas <Spannberger.Jonas@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonas_Spannberger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Jonas_Spannberger.html
 :ID: JonasSpannberger
 :END: 
 #+Name: Note_JonasSpannberger
@@ -513,7 +513,7 @@ Daniel, Daniel, Jonas, Emilia, Lea, ... machen ... nix; sind sehr langsam. Tröd
 ** Kontrolle Lernjobs
 :PROPERTIES:
 :CAPTURED: [2025-04-28 Mo 10:44]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
 :END:
 Ich muss unbedingt kontrollieren, welcher Schüler welche LJ erledigt hat: Ringordner, Teams. LJ Mappe der Schüler;
 
@@ -527,7 +527,7 @@ daniel, Daniel, Jonas, Matteo, Niklas;
 ** So wie immer
 :PROPERTIES:
 :CAPTURED: [2025-05-05 Mo 10:55]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
 :END:
 Die üblichen Schüler (Leon, Matteo, Jonas, Niklas)  arbeiten kaum was, ständig höre ich "Annika"! Tierische Laute, trampeln, .... Hr. Russegger war herinnen, hat geschinpft, ist ihnen egal!
 
@@ -542,7 +542,7 @@ Matteo redet frech zurück; arbeitet nicht.
 ** Trotz Schreiben ist es laut
 :PROPERTIES:
 :CAPTURED: [2025-05-08 Do 12:59]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:7a03aa5f-7989-4d5e-a629-1b9a64a25c14][2a 12:20-13:10]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:7a03aa5f-7989-4d5e-a629-1b9a64a25c14][2a 12:20-13:10]]
 :END:
 Die letzten 20 Minuten ließ ich die ganze Klasse schreiben. Trotzdem ist es laut in der Klasse (alle, außer Valentin). Manche schreiben wirklich; andere schafen gerade einmal die Überschrift, oder den ersten Absatz.
 
@@ -553,7 +553,7 @@ Livia, Daniel, Daniel, etc
 ** Übliches Verhalten
 :PROPERTIES:
 :CAPTURED: [2025-05-12 Mo 10:47]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
 :END:
 Jonas, Leon, Matteo, ... arbeiten kaum. 
 
@@ -564,7 +564,7 @@ Ich verließ kurz die Klasse, um LJ-Zettel auseinander zu schneiden; kam zurück
 ** So wie immer
 :PROPERTIES:
 :CAPTURED: [2025-05-26 Mo 10:47]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:8608e26f-9bf9-4794-967d-c77e01ba5036][2a (RLS) 10:30-11:20]]
 :END:
 ... es wird kaum gearbeitet (Jonas, Matteo, ).
 

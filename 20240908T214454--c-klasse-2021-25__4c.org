@@ -3,13 +3,13 @@
 #+filetags:   :4c:
 #+identifier: 20240908T214454
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/4c.html
+#+export_file_name: ~/Documents/exports/4c.html
 
 
 * Jahresplanung
@@ -167,7 +167,7 @@ Oder Film "Schulweg"
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
@@ -185,7 +185,7 @@ Oder Film "Schulweg"
 ** Juliana Eberl
 :PROPERTIES:
 :EMAIL: [[mailto: Eberl Juliana <Eberl.Juliana@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Juliana_Eberl.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Juliana_Eberl.html
 :ID: JulianaEberl
 :END: 
 #+Name: Note_JulianaEberl
@@ -199,7 +199,7 @@ Oder Film "Schulweg"
 ** Lara Englbrecht
 :PROPERTIES:
 :EMAIL: [[mailto: Englbrecht Lara <Englbrecht.Lara@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lara_Englbrecht.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lara_Englbrecht.html
 :ID: LaraEnglbrecht
 :END: 
 #+Name: Note_LaraEnglbrecht
@@ -213,7 +213,7 @@ Oder Film "Schulweg"
 ** Elena Frey
 :PROPERTIES:
 :EMAIL: [[mailto: Frey Elena <Frey.Elena@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Elena_Frey.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Elena_Frey.html
 :ID: ElenaFrey
 :END: 
 #+Name: Note_ElenaFrey
@@ -227,7 +227,7 @@ Oder Film "Schulweg"
 ** Emma Grünwald
 :PROPERTIES:
 :EMAIL: [[mailto: Grünwald Emma <Grünwald.Emma@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Grünwald.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Emma_Grünwald.html
 :ID: EmmaGrünwald
 :END: 
 #+Name: Note_EmmaGrünwald
@@ -241,7 +241,7 @@ Oder Film "Schulweg"
 ** Christina Kainhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Kainhofer Christina <Kainhofer.Christina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Christina_Kainhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Christina_Kainhofer.html
 :ID: ChristinaKainhofer
 :END: 
 #+Name: Note_ChristinaKainhofer
@@ -255,7 +255,7 @@ Oder Film "Schulweg"
 ** Sebastian Kainhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Kainhofer Sebastian <Kainhofer.Sebastian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sebastian_Kainhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Sebastian_Kainhofer.html
 :ID: SebastianKainhofer
 :END: 
 #+Name: Note_SebastianKainhofer
@@ -269,7 +269,7 @@ Oder Film "Schulweg"
 ** Emilia Lienbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Lienbacher Emilia <Lienbacher.Emilia@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emilia_Lienbacher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Emilia_Lienbacher.html
 :ID: EmiliaLienbacher
 :END: 
 #+Name: Note_EmiliaLienbacher
@@ -283,7 +283,7 @@ Oder Film "Schulweg"
 ** Anna Menneweger
 :PROPERTIES:
 :EMAIL: [[mailto: Menneweger Anna <Menneweger.Anna@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Menneweger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Anna_Menneweger.html
 :ID: AnnaMenneweger
 :END: 
 #+Name: Note_AnnaMenneweger
@@ -297,7 +297,7 @@ Oder Film "Schulweg"
 ** Maria Ospald
 :PROPERTIES:
 :EMAIL: [[mailto: Ospald Maria <Ospald.Maria@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maria_Ospald.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Maria_Ospald.html
 :ID: MariaOspald
 :END: 
 #+Name: Note_MariaOspald
@@ -311,7 +311,7 @@ Oder Film "Schulweg"
 ** Christina Ramsauer
 :PROPERTIES:
 :EMAIL: [[mailto: Ramsauer Christina <Ramsauer.Christina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Christina_Ramsauer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Christina_Ramsauer.html
 :ID: ChristinaRamsauer
 :END: 
 #+Name: Note_ChristinaRamsauer
@@ -325,7 +325,7 @@ Oder Film "Schulweg"
 ** Emilie Ramsauer
 :PROPERTIES:
 :EMAIL: [[mailto: Ramsauer Emilie <Ramsauer.Emilie@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emilie_Ramsauer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Emilie_Ramsauer.html
 :ID: EmilieRamsauer
 :END: 
 #+Name: Note_EmilieRamsauer
@@ -339,7 +339,7 @@ Oder Film "Schulweg"
 ** Kilian Reiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reiter Kilian <Reiter.Kilian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Kilian_Reiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Kilian_Reiter.html
 :ID: KilianReiter
 :END: 
 #+Name: Note_KilianReiter
@@ -353,7 +353,7 @@ Oder Film "Schulweg"
 ** Michael Reschreiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reschreiter Michael <Reschreiter.Michael@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Michael_Reschreiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Michael_Reschreiter.html
 :ID: MichaelReschreiter
 :END: 
 #+Name: Note_MichaelReschreiter
@@ -367,7 +367,7 @@ Oder Film "Schulweg"
 ** Nils Reschreiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reschreiter Nils <Reschreiter.Nils@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Nils_Reschreiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Nils_Reschreiter.html
 :ID: NilsReschreiter
 :END: 
 #+Name: Note_NilsReschreiter
@@ -381,7 +381,7 @@ Oder Film "Schulweg"
 ** Chiara Sarro
 :PROPERTIES:
 :EMAIL: [[mailto: Sarro Chiara <Sarro.Chiara@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Chiara_Sarro.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Chiara_Sarro.html
 :ID: ChiaraSarro
 :END: 
 #+Name: Note_ChiaraSarro
@@ -395,7 +395,7 @@ Oder Film "Schulweg"
 ** Anna Schwaighofer
 :PROPERTIES:
 :EMAIL: [[mailto: Schwaighofer Anna <Schwaighofer.Anna@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Schwaighofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Anna_Schwaighofer.html
 :ID: AnnaSchwaighofer
 :END: 
 #+Name: Note_AnnaSchwaighofer
@@ -409,7 +409,7 @@ Oder Film "Schulweg"
 ** Leo Schwaighofer
 :PROPERTIES:
 :EMAIL: [[mailto: Schwaighofer Leo <Schwaighofer.Leo@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leo_Schwaighofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Leo_Schwaighofer.html
 :ID: LeoSchwaighofer
 :END: 
 #+Name: Note_LeoSchwaighofer
@@ -423,7 +423,7 @@ Oder Film "Schulweg"
 ** Rebecca Squeo
 :PROPERTIES:
 :EMAIL: [[mailto: Squeo Rebecca <Squeo.Rebecca@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Rebecca_Squeo.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Rebecca_Squeo.html
 :ID: RebeccaSqueo
 :END: 
 #+Name: Note_RebeccaSqueo
@@ -437,7 +437,7 @@ Oder Film "Schulweg"
 ** Lea Strohmeyer
 :PROPERTIES:
 :EMAIL: [[mailto: Strohmeyer Lea <Strohmeyer.Lea@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lea_Strohmeyer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lea_Strohmeyer.html
 :ID: LeaStrohmeyer
 :END: 
 #+Name: Note_LeaStrohmeyer
@@ -451,7 +451,7 @@ Oder Film "Schulweg"
 ** Linda Thomüller
 :PROPERTIES:
 :EMAIL: [[mailto: Thomüller Linda <Thomüller.Linda@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Linda_Thomüller.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Linda_Thomüller.html
 :ID: LindaThomüller
 :END: 
 #+Name: Note_LindaThomüller

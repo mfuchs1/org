@@ -3,13 +3,13 @@
 #+filetags:   :3c:
 #+identifier: 20240908T214718
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/3c.html
+#+export_file_name: ~/Documents/exports/3c.html
 
 * Jahresplanung
 [[denote:20240709T110253][Jahresplanung 03]]
@@ -87,7 +87,7 @@ http://www.veritas.at/code (rfu300)
 ** Werke der Barmherzigkeit
 :PROPERTIES:
 :CAPTURED: [2025-06-13 Fr 10:43]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:2d0208b5-cf1e-42e4-a15e-0ab5aabca380][3c 08:35-09:25]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:2d0208b5-cf1e-42e4-a15e-0ab5aabca380][3c 08:35-09:25]]
 :END:
 Diese Stunde (am <2025-06-13 Fr>) war ordentlich und (sehr) gut. Marie-Luise meinte es war gut, dass ich bei den ersten Störungen (Darf ich aufs Klo?) nicht nach gegeben habe. Anna und (ihre Nachbarin) haben später wieder gestört - es war nicht viel, aber doch respektlos.
 
@@ -143,7 +143,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
@@ -161,7 +161,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Lena Andexlinger
 :PROPERTIES:
 :EMAIL: [[mailto: Andexlinger Lena <Andexlinger.Lena@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lena_Andexlinger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lena_Andexlinger.html
 :ID: LenaAndexlinger
 :END: 
 #+Name: Note_LenaAndexlinger
@@ -175,7 +175,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Maria Galler
 :PROPERTIES:
 :EMAIL: [[mailto: Galler Maria <Galler.Maria@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maria_Galler.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Maria_Galler.html
 :ID: MariaGaller
 :END: 
 #+Name: Note_MariaGaller
@@ -189,7 +189,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Paula Grünwald
 :PROPERTIES:
 :EMAIL: [[mailto: Grünwald Paula <Grünwald.Paula@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Paula_Grünwald.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Paula_Grünwald.html
 :ID: PaulaGrünwald
 :END: 
 #+Name: Note_PaulaGrünwald
@@ -203,7 +203,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Lilly Harrer
 :PROPERTIES:
 :EMAIL: [[mailto: Harrer Lilly <Harrer.Lilly@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lilly_Harrer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lilly_Harrer.html
 :ID: LillyHarrer
 :END: 
 #+Name: Note_LillyHarrer
@@ -217,7 +217,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Julina Holzer
 :PROPERTIES:
 :EMAIL: [[mailto: Holzer Julina <Holzer.Julina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julina_Holzer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Julina_Holzer.html
 :ID: JulinaHolzer
 :END: 
 #+Name: Note_JulinaHolzer
@@ -231,7 +231,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Emely Huber
 :PROPERTIES:
 :EMAIL: [[mailto: Huber Emely <Huber.Emely@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emely_Huber.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Emely_Huber.html
 :ID: EmelyHuber
 :END: 
 #+Name: Note_EmelyHuber
@@ -245,7 +245,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Anika Kübler
 :PROPERTIES:
 :EMAIL: [[mailto: Kübler Anika <Kübler.Anika@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anika_Kübler.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Anika_Kübler.html
 :ID: AnikaKübler
 :END: 
 #+Name: Note_AnikaKübler
@@ -259,7 +259,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Teresa Lienbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Lienbacher Teresa <Lienbacher.Teresa@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Teresa_Lienbacher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Teresa_Lienbacher.html
 :ID: TeresaLienbacher
 :END: 
 #+Name: Note_TeresaLienbacher
@@ -273,7 +273,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Hanna Loyer
 :PROPERTIES:
 :EMAIL: [[mailto: Loyer Hanna <Loyer.Hanna@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hanna_Loyer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Hanna_Loyer.html
 :ID: HannaLoyer
 :END: 
 #+Name: Note_HannaLoyer
@@ -287,7 +287,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Lina Pfarrhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Pfarrhofer Lina <Pfarrhofer.Lina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lina_Pfarrhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lina_Pfarrhofer.html
 :ID: LinaPfarrhofer
 :END: 
 #+Name: Note_LinaPfarrhofer
@@ -301,7 +301,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Emily Posch
 :PROPERTIES:
 :EMAIL: [[mailto: Posch Emily <Posch.Emily@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emily_Posch.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Emily_Posch.html
 :ID: EmilyPosch
 :END: 
 #+Name: Note_EmilyPosch
@@ -315,7 +315,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Sophie Pranieß
 :PROPERTIES:
 :EMAIL: [[mailto: Pranieß Sophie <Pranieß.Sophie@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sophie_Pranieß.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Sophie_Pranieß.html
 :ID: SophiePranieß
 :END: 
 #+Name: Note_SophiePranieß
@@ -329,7 +329,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Valentina Quehenberger
 :PROPERTIES:
 :EMAIL: [[mailto: Quehenberger Valentina <Quehenberger.Valentina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valentina_Quehenberger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Valentina_Quehenberger.html
 :ID: ValentinaQuehenberger
 :END: 
 #+Name: Note_ValentinaQuehenberger
@@ -343,7 +343,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Lukas Ramsauer
 :PROPERTIES:
 :EMAIL: [[mailto: Ramsauer Lukas <Ramsauer.Lukas@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lukas_Ramsauer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lukas_Ramsauer.html
 :ID: LukasRamsauer
 :END: 
 #+Name: Note_LukasRamsauer
@@ -357,7 +357,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Hannah Reschreiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reschreiter Hannah <Reschreiter.Hannah@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Reschreiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Hannah_Reschreiter.html
 :ID: HannahReschreiter
 :END: 
 #+Name: Note_HannahReschreiter
@@ -371,7 +371,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Anna Schönleitner
 :PROPERTIES:
 :EMAIL: [[mailto: Schönleitner Anna <Schönleitner.Anna@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Schönleitner.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Anna_Schönleitner.html
 :ID: AnnaSchönleitner
 :END: 
 #+Name: Note_AnnaSchönleitner
@@ -385,7 +385,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Nora Schröcker
 :PROPERTIES:
 :EMAIL: [[mailto: Schröcker Nora <Schröcker.Nora@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Nora_Schröcker.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Nora_Schröcker.html
 :ID: NoraSchröcker
 :END: 
 #+Name: Note_NoraSchröcker
@@ -399,7 +399,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Marlene Wallinger
 :PROPERTIES:
 :EMAIL: [[mailto: Wallinger Marlene <Wallinger.Marlene@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Marlene_Wallinger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Marlene_Wallinger.html
 :ID: MarleneWallinger
 :END: 
 #+Name: Note_MarleneWallinger
@@ -413,7 +413,7 @@ In Bälde Kontakt zur Schulleitung der neuen Schule aufnehmen. Bin froh, dass di
 ** Jakob Zorec
 :PROPERTIES:
 :EMAIL: [[mailto: Zorec Jakob <Zorec.Jakob@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jakob_Zorec.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Jakob_Zorec.html
 :ID: JakobZorec
 :END: 
 #+Name: Note_JakobZorec

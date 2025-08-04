@@ -3,13 +3,13 @@
 #+filetags:   :1c:
 #+identifier: 20240908T214521
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/1c.html
+#+export_file_name: ~/Documents/exports/1c.html
 
 * Jahresplanung
 [[denote:20240719T125948][Jahresplanung 01]]
@@ -139,7 +139,7 @@ LS alleine ist ein Ding der Unmöglichkeit - während man sich um einen Schüler
 ** Traurig
 :PROPERTIES:
 :CAPTURED: [2025-05-15 Do 09:10]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:c6389224-85a9-47ab-9da7-afdbdb59a472][1c (RLS) 08:35-09:25]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:c6389224-85a9-47ab-9da7-afdbdb59a472][1c (RLS) 08:35-09:25]]
 :END:
 ... das Verhalten so einiger Schüler in der 1c.
 
@@ -152,7 +152,7 @@ Nina weinte, weil sie meint, als Klassensprecherin sei sie für das Verhalten de
 ** Störungen
 :PROPERTIES:
 :CAPTURED: [2025-06-10 Di 13:05]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240908T214359--b-klasse-2022-26__3b.org::#h:7d5a777c-8794-435d-9ad5-ae0d10d555b0][Themen]]
+:DESCRIPTION: [[file:~/Documents/notes/20240908T214359--b-klasse-2022-26__3b.org::#h:7d5a777c-8794-435d-9ad5-ae0d10d555b0][Themen]]
 :END:
 Florian hat ein paar Schüler zur Probe abgeholt. Die restliche Klasse hat es (wieder) massiv übertrieben. Also schreibt die Klasse die S. 108 ins Heft ab. Hat die Klasse nicht davon abgehalten, weiter zu stören. Also hab ich Flo geholt. Wir haben kurz Platz getauscht.
 
@@ -214,7 +214,7 @@ Florian hat ein paar Schüler zur Probe abgeholt. Die restliche Klasse hat es (w
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
@@ -233,7 +233,7 @@ Florian hat ein paar Schüler zur Probe abgeholt. Die restliche Klasse hat es (w
 ** Simon Auer
 :PROPERTIES:
 :EMAIL: [[mailto: Auer Simon <Auer.Simon@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Simon_Auer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Simon_Auer.html
 :ID: SimonAuer
 :END: 
 #+Name: Note_SimonAuer
@@ -248,7 +248,7 @@ Florian hat ein paar Schüler zur Probe abgeholt. Die restliche Klasse hat es (w
 ** Sophia Bayer
 :PROPERTIES:
 :EMAIL: [[mailto: Bayer Sophia <Bayer.Sophia@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sophia_Bayer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Sophia_Bayer.html
 :ID: SophiaBayer
 :END: 
 #+Name: Note_SophiaBayer
@@ -263,7 +263,7 @@ Florian hat ein paar Schüler zur Probe abgeholt. Die restliche Klasse hat es (w
 ** Katharina Eberl
 :PROPERTIES:
 :EMAIL: [[mailto: Eberl Katharina <Eberl.Katharina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Katharina_Eberl.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Katharina_Eberl.html
 :ID: KatharinaEberl
 :END: 
 #+Name: Note_KatharinaEberl
@@ -278,7 +278,7 @@ Florian hat ein paar Schüler zur Probe abgeholt. Die restliche Klasse hat es (w
 ** Paul Eder
 :PROPERTIES:
 :EMAIL: [[mailto: Eder Paul <Eder.Paul@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Paul_Eder.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Paul_Eder.html
 :ID: PaulEder
 :END: 
 #+Name: Note_PaulEder
@@ -293,7 +293,7 @@ Florian hat ein paar Schüler zur Probe abgeholt. Die restliche Klasse hat es (w
 ** Lara Egger
 :PROPERTIES:
 :EMAIL: [[mailto: Egger Lara <Egger.Lara@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lara_Egger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lara_Egger.html
 :ID: LaraEgger
 :END: 
 #+Name: Note_LaraEgger
@@ -316,7 +316,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Lena Englbrecht
 :PROPERTIES:
 :EMAIL: [[mailto: Englbrecht Lena <Englbrecht.Lena@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lena_Englbrecht.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lena_Englbrecht.html
 :ID: LenaEnglbrecht
 :END: 
 #+Name: Note_LenaEnglbrecht
@@ -331,7 +331,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Nina Faller
 :PROPERTIES:
 :EMAIL: [[mailto: Faller Nina <Faller.Nina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Nina_Faller.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Nina_Faller.html
 :ID: NinaFaller
 :END: 
 #+Name: Note_NinaFaller
@@ -346,7 +346,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Larissa Gsenger
 :PROPERTIES:
 :EMAIL: [[mailto: Gsenger Larissa <Gsenger.Larissa@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Larissa_Gsenger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Larissa_Gsenger.html
 :ID: LarissaGsenger
 :END: 
 #+Name: Note_LarissaGsenger
@@ -361,7 +361,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Leonie Huber
 :PROPERTIES:
 :EMAIL: [[mailto: Huber Leonie <Huber.Leonie@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leonie_Huber.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Leonie_Huber.html
 :ID: LeonieHuber
 :END: 
 #+Name: Note_LeonieHuber
@@ -376,7 +376,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Anna Knoblechner
 :PROPERTIES:
 :EMAIL: [[mailto: Knoblechner Anna <Knoblechner.Anna@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Knoblechner.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Anna_Knoblechner.html
 :ID: AnnaKnoblechner
 :END: 
 #+Name: Note_AnnaKnoblechner
@@ -391,7 +391,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Jonas Lanzinger
 :PROPERTIES:
 :EMAIL: [[mailto: Lanzinger Jonas <Lanzinger.Jonas@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonas_Lanzinger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Jonas_Lanzinger.html
 :ID: JonasLanzinger
 :END: 
 #+Name: Note_JonasLanzinger
@@ -406,7 +406,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Jonah Meißnitzer
 :PROPERTIES:
 :EMAIL: [[mailto: Meißnitzer Jonah <Meißnitzer.Jonah@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonah_Meißnitzer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Jonah_Meißnitzer.html
 :ID: JonahMeißnitzer
 :END: 
 #+Name: Note_JonahMeißnitzer
@@ -421,7 +421,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Julia Promok
 :PROPERTIES:
 :EMAIL: [[mailto: Promok Julia <Promok.Julia@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julia_Promok.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Julia_Promok.html
 :ID: JuliaPromok
 :END: 
 #+Name: Note_JuliaPromok
@@ -436,7 +436,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Anna Quehenberger
 :PROPERTIES:
 :EMAIL: [[mailto: Quehenberger Anna <Quehenberger.Anna@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Quehenberger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Anna_Quehenberger.html
 :ID: AnnaQuehenberger
 :END: 
 #+Name: Note_AnnaQuehenberger
@@ -451,7 +451,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Lorenz Quehenberger
 :PROPERTIES:
 :EMAIL: [[mailto: Quehenberger Lorenz <Quehenberger.Lorenz@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lorenz_Quehenberger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lorenz_Quehenberger.html
 :ID: LorenzQuehenberger
 :END: 
 #+Name: Note_LorenzQuehenberger
@@ -466,7 +466,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Emma Reschreiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reschreiter Emma <Reschreiter.Emma@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Reschreiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Emma_Reschreiter.html
 :ID: EmmaReschreiter
 :END: 
 #+Name: Note_EmmaReschreiter
@@ -481,7 +481,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Valentina Rettenbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Rettenbacher Valentina <Rettenbacher.Valentina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valentina_Rettenbacher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Valentina_Rettenbacher.html
 :ID: ValentinaRettenbacher
 :END: 
 #+Name: Note_ValentinaRettenbacher
@@ -496,7 +496,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Lana Rußegger
 :PROPERTIES:
 :EMAIL: [[mailto: Rußegger Lana <Rußegger.Lana@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lana_Rußegger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lana_Rußegger.html
 :ID: LanaRußegger
 :END: 
 #+Name: Note_LanaRußegger
@@ -511,7 +511,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Simon Sandtner
 :PROPERTIES:
 :EMAIL: [[mailto: Sandtner Simon <Sandtner.Simon@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Simon_Sandtner.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Simon_Sandtner.html
 :ID: SimonSandtner
 :END: 
 #+Name: Note_SimonSandtner
@@ -526,7 +526,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Anna Schefbänker
 :PROPERTIES:
 :EMAIL: [[mailto: Schefbänker Anna <Schefbänker.Anna@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Schefbänker.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Anna_Schefbänker.html
 :ID: AnnaSchefbänker
 :END: 
 #+Name: Note_AnnaSchefbänker
@@ -541,7 +541,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Leo Schwingenstein
 :PROPERTIES:
 :EMAIL: [[mailto: Schwingenstein Leo <Schwingenstein.Leo@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leo_Schwingenstein.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Leo_Schwingenstein.html
 :ID: LeoSchwingenstein
 :END: 
 #+Name: Note_LeoSchwingenstein
@@ -556,7 +556,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Lena Wallinger
 :PROPERTIES:
 :EMAIL: [[mailto: Wallinger Lena <Wallinger.Lena@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lena_Wallinger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lena_Wallinger.html
 :ID: LenaWallinger
 :END: 
 #+Name: Note_LenaWallinger
@@ -571,7 +571,7 @@ Hm, Lara will nicht (nach)denken? Einfachste und klare Arbeitsaufträge versteht
 ** Mia Windhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Windhofer Mia <Windhofer.Mia@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Mia_Windhofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Mia_Windhofer.html
 :ID: MiaWindhofer
 :END: 
 #+Name: Note_MiaWindhofer

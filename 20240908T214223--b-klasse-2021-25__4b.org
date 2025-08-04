@@ -3,13 +3,13 @@
 #+filetags:   :4b:
 #+identifier: 20240908T214223
 #+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+BIBLIOGRAPHY: ~/Documents/references/Literatur.bib
+#+SETUPFILE: ~/Documents/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: num:nil toc:nil
 #+STARTUP: fnadjust
 #+STARTUP: showall
-#+export_file_name: ~/RoamNotes/exports/4b.html
+#+export_file_name: ~/Documents/exports/4b.html
 
 * Jahresplanung
 [[denote:20240719T131544][Jahresplanung 04]]
@@ -119,7 +119,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
-      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':EXPORT_FILE_NAME: ' '~/Documents/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
@@ -137,7 +137,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Dominik Auer
 :PROPERTIES:
 :EMAIL: [[mailto: Auer Dominik <Auer.Dominik@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Dominik_Auer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Dominik_Auer.html
 :ID: DominikAuer
 :END: 
 #+Name: Note_DominikAuer
@@ -151,7 +151,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Markus Engel
 :PROPERTIES:
 :EMAIL: [[mailto: Engel Markus <Engel.Markus@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Markus_Engel.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Markus_Engel.html
 :ID: MarkusEngel
 :END: 
 #+Name: Note_MarkusEngel
@@ -165,7 +165,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Christoph Grünwald
 :PROPERTIES:
 :EMAIL: [[mailto: Grünwald Christoph <Grünwald.Christoph@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Christoph_Grünwald.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Christoph_Grünwald.html
 :ID: ChristophGrünwald
 :END: 
 #+Name: Note_ChristophGrünwald
@@ -179,7 +179,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Daniel Grünwald
 :PROPERTIES:
 :EMAIL: [[mailto: Grünwald Daniel <Grünwald.Daniel@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Daniel_Grünwald.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Daniel_Grünwald.html
 :ID: DanielGrünwald
 :END: 
 #+Name: Note_DanielGrünwald
@@ -193,7 +193,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Elias Gutjahr
 :PROPERTIES:
 :EMAIL: [[mailto: Gutjahr Elias <Gutjahr.Elias@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Elias_Gutjahr.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Elias_Gutjahr.html
 :ID: EliasGutjahr
 :END: 
 #+Name: Note_EliasGutjahr
@@ -207,7 +207,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Paul Knoblechner
 :PROPERTIES:
 :EMAIL: [[mailto: Knoblechner Paul <Knoblechner.Paul@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Paul_Knoblechner.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Paul_Knoblechner.html
 :ID: PaulKnoblechner
 :END: 
 #+Name: Note_PaulKnoblechner
@@ -221,7 +221,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Lukas Lanzinger
 :PROPERTIES:
 :EMAIL: [[mailto: Lanzinger Lukas <Lanzinger.Lukas@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lukas_Lanzinger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lukas_Lanzinger.html
 :ID: LukasLanzinger
 :END: 
 #+Name: Note_LukasLanzinger
@@ -235,7 +235,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Felix Leopolder
 :PROPERTIES:
 :EMAIL: [[mailto: Leopolder Felix <Leopolder.Felix@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Felix_Leopolder.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Felix_Leopolder.html
 :ID: FelixLeopolder
 :END: 
 #+Name: Note_FelixLeopolder
@@ -249,7 +249,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Alexander Lienbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Lienbacher Alexander <Lienbacher.Alexander@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Alexander_Lienbacher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Alexander_Lienbacher.html
 :ID: AlexanderLienbacher
 :END: 
 #+Name: Note_AlexanderLienbacher
@@ -263,7 +263,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Bernhard Lienbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Lienbacher Bernhard <Lienbacher.Bernhard@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Bernhard_Lienbacher.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Bernhard_Lienbacher.html
 :ID: BernhardLienbacher
 :END: 
 #+Name: Note_BernhardLienbacher
@@ -277,7 +277,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Christian Moisl
 :PROPERTIES:
 :EMAIL: [[mailto: Moisl Christian <Moisl.Christian@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Christian_Moisl.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Christian_Moisl.html
 :ID: ChristianMoisl
 :END: 
 #+Name: Note_ChristianMoisl
@@ -291,7 +291,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Elina Quehenberger
 :PROPERTIES:
 :EMAIL: [[mailto: Quehenberger Elina <Quehenberger.Elina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Elina_Quehenberger.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Elina_Quehenberger.html
 :ID: ElinaQuehenberger
 :END: 
 #+Name: Note_ElinaQuehenberger
@@ -305,7 +305,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Matea Remic
 :PROPERTIES:
 :EMAIL: [[mailto: Remic Matea <Remic.Matea@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Matea_Remic.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Matea_Remic.html
 :ID: MateaRemic
 :END: 
 #+Name: Note_MateaRemic
@@ -319,7 +319,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** David Reschreiter
 :PROPERTIES:
 :EMAIL: [[mailto: Reschreiter David <Reschreiter.David@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/David_Reschreiter.html
+:EXPORT_FILE_NAME: ~/Documents/exports/David_Reschreiter.html
 :ID: DavidReschreiter
 :END: 
 #+Name: Note_DavidReschreiter
@@ -333,7 +333,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Lara Schmidt
 :PROPERTIES:
 :EMAIL: [[mailto: Schmidt Lara <Schmidt.Lara@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lara_Schmidt.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Lara_Schmidt.html
 :ID: LaraSchmidt
 :END: 
 #+Name: Note_LaraSchmidt
@@ -347,7 +347,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 ** Celina Schörghofer
 :PROPERTIES:
 :EMAIL: [[mailto: Schörghofer Celina <Schörghofer.Celina@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Celina_Schörghofer.html
+:EXPORT_FILE_NAME: ~/Documents/exports/Celina_Schörghofer.html
 :ID: CelinaSchörghofer
 :END: 
 #+Name: Note_CelinaSchörghofer
@@ -384,7 +384,7 @@ Ich hab in meiner Freistunde kurz mit Marius gesprochen: (Link zu memo).
 ** Kein Unterricht möglich
 :PROPERTIES:
 :CAPTURED: [2025-05-19 Mo 12:39]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:050ab493-78d8-44f8-8ad2-55d080054b5e][4b 11:30-12:20]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:050ab493-78d8-44f8-8ad2-55d080054b5e][4b 11:30-12:20]]
 :END:
 So wie immer herrscht Wirtshausstimmung, es ist laut, Schimpfwörter; ... Nichts ist möglich: Thema, Film, egal was; nix funktioniert.
 
@@ -395,7 +395,7 @@ Sehr Gut gibt es eben dann keine...
 ** Dieses Verhalten!
 :PROPERTIES:
 :CAPTURED: [2025-05-26 Mo 11:43]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:050ab493-78d8-44f8-8ad2-55d080054b5e][4b 11:30-12:20]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:050ab493-78d8-44f8-8ad2-55d080054b5e][4b 11:30-12:20]]
 :END:
 Ich lasse die Klasse schon wieder schreiben. Da ein normaler Unterricht mehr möglich ist. Ich betrete die Klasse, es ist irre laut; es wird herum gekräht (David), gekreischt, ...
 
@@ -407,7 +407,7 @@ David, Markus (?), ....
 ** So wie immer
 :PROPERTIES:
 :CAPTURED: [2025-06-16 Mo 11:59]
-:DESCRIPTION: [[file:~/RoamNotes/notes/20240717T163657--agenda__project.org::#h:050ab493-78d8-44f8-8ad2-55d080054b5e][4b 11:30-12:20]]
+:DESCRIPTION: [[file:~/Documents/notes/20240717T163657--agenda__project.org::#h:050ab493-78d8-44f8-8ad2-55d080054b5e][4b 11:30-12:20]]
 :END:
 Frech, laut, ....
 
