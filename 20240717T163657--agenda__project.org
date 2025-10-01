@@ -19,7 +19,29 @@ Mir fehlen noch die Zugangsdaten zu Teams, Webunti, Email, SchoolFox;
 :CATEGORY: pause
 :END:
 
+Worauf ist zu achten? 
 
+** Montag (Seekirchen)
+
+*** Altbau EG                                                          :sk:
+<2025-09-12 Fr 07:30-07:45>
+
+*** Cont EG + OG 07:30-07:45                                           :sk:
+<%%(org-class 2025 9 8 2026 7 6 1 37)>
+
+*** Cont EG + OG 11:30-11:40                                           :sk:
+<%%(org-class 2025 9 8 2026 7 6 1 37)>
+
+** Dienstag (Mattsee)
+
+*** 1. OG 07:30-07:45                                                  :ms:
+<%%(org-class 2025 9 9 2026 7 7 2 37)>
+
+
+** Freitag (Seekirchen)
+
+*** Cont. OG 09:30-09:45
+<%%(org-class 2025 9 12 2026 7 10 5 37)>
 
 * Stundenplan                                                  
 
@@ -28,97 +50,256 @@ Mir fehlen noch die Zugangsdaten zu Teams, Webunti, Email, SchoolFox;
 :CATEGORY: seekirchen
 :END:
 
-*** 1a 07:45-08:35                                                  :1a:sk:
+*** 3b (1. OG) 07:45-08:35                                          :1a:sk:
 :PROPERTIES:
 :CUSTOM_ID: h:79e7082f-c4b2-47d0-9506-6bde40e15f69
 :END:
-<%%(org-class 2025 9 8 2026 7 6 1)>
-[[denote:20240908T214000][A Klasse 2025-29]]
+<%%(org-class 2025 9 8 2026 7 6 1 37)>
+[[denote:20240908T214359][B Klasse 2023-27 Seekirchen]]
 
-*** 3b 08:40-09:30                                                  :3b:sk:
-<%%(org-class 2025 9 8 2026 7 6 1)>
-[[denote:20240908T214359][B Klasse 2023-27]]
+*** 1a (Cont OG) 08:40-09:30                                        :3b:sk:
+<%%(org-class 2025 9 8 2026 7 6 1 37)>
+[[denote:20240908T214000][A Klasse 2025-29 Seekirchen]]
 
-*** 2c (Aufsicht)  09:45-10:35                                      :2c:sk:
-<%%(org-class 2025 9 8 2026 7 6 1)>
-Raum: eine freie Sport-Klasse
-
-*** 1d 10:40-11:30                                                  :1d:sk:
+*** 1d (Cont OG) 10:40-11:30                                        :1d:sk:
 :PROPERTIES:
 :CUSTOM_ID: h:8608e26f-9bf9-4794-967d-c77e01ba5036
 :END:
-<%%(org-class 2025 9 8 2026 7 6 1)>
-[[denote:20250908T080546][D Klasse 2025-29]]
+<%%(org-class 2025 9 8 2026 7 6 1 37)>
+[[denote:20250908T080546][D Klasse 2025-29 Seekirchen]]
 
-*** 4b 11:40-12:30                                                  :4b:sk:
+*** 4b (2. OG) 11:40-12:30                                          :4b:sk:
 :PROPERTIES:
 :CUSTOM_ID: h:050ab493-78d8-44f8-8ad2-55d080054b5e
 :END:
-<%%(org-class 2025 9 8 2026 7 6 1)>
-[[denote:20240908T214223][B Klasse 2022-26]]
+<%%(org-class 2025 9 8 2026 7 6 1 38)>
+[[denote:20240908T214223][B Klasse 2022-26 Seekirchen]]
 
-*** 1b 12:30-13:20                                                  :1b:sk:
+*** 1b (1. OG) 12:30-13:20                                          :1b:sk:
 :PROPERTIES:
 :CUSTOM_ID: h:b622013e-36c8-4e84-901b-35f5d8e6dbb1
 :END:
-<%%(org-class 2025 9 8 2026 7 6 1)>
-[[denote:20240908T214427][B Klasse 2025-29]]
+<%%(org-class 2025 9 8 2026 7 6 1 37)>
+[[denote:20240908T214427][B Klasse 2025-29 Seekirchen]]
 
 ** Dienstag (MS Mattsee)
 :PROPERTIES:
 :CATEGORY: mattsee
 :END:
 
-*** 4b 11:40-12:30                                                  :4b:ms:
-<%%(org-class 2025 9 9 2026 7 7 2)>
+Ich beginne mit der ersten Stunde und ende um 12:30
+
+*** 2c (2. OG) 07:45-08:35                                          :2c:ms:
+<%%(org-class 2025 9 9 2026 7 7 2 37)>
+[[denote:20250913T110554][C Klasse 2024-28 Mattsee]]
+
+*** 1c (1. OG) 08:40-09:30                                          :1c:ms:
+<%%(org-class 2025 9 9 2026 7 7 2 37)>
+[[denote:20250913T110721][C Klasse 2025-29 Mattsee]]
+
+*** 2a (2. OG) 10:45-11:35                                          :2a:ms:
+<%%(org-class 2025 9 9 2026 7 7 2 37)>
+[[denote:20250913T110759][A Klasse 2024-28 Mattsee]]
+
+*** 1b (1. OG) 12:35-13:25                                          :1b:ms:
+<%%(org-class 2025 9 9 2026 7 7 2 37)>
+[[denote:20250913T110647][B Klasse 2025-29 Mattsee]]
 
 ** Mittwoch (MS Seekirchen)
 :PROPERTIES:
 :CATEGORY: seekirchen
 :END:
 
-*** 3d 09:45-10:35                                                  :3d:sk:
-<%%(org-class 2025 9 10 2026 7 8 3)>
-[[denote:20250908T081215][D Klasse 2023-27]]
+*** 3d (1. OG) 09:45-10:35                                          :3d:sk:
+<%%(org-class 2025 9 10 2026 7 8 3 39)>
+[[denote:20250908T081215][D Klasse 2023-27 Seekirchen]]
 
-*** 1d 10:40-11:30                                                  :1d:sk:
-<%%(org-class 2025 9 10 2026 7 8 3)>
-[[denote:20250908T080546][D Klasse 2025-29]]
+*** 1d (Cont OG) 10:40-11:30                                        :1d:sk:
+<%%(org-class 2025 9 10 2026 7 8 3 40)>
+[[denote:20250908T080546][D Klasse 2025-29 Seekirchen]]
 
-*** 2b 11:40-12:30                                                  :2b:sk:
-<%%(org-class 2025 9 10 2026 7 8 3)>
-[[denote:20250908T081510][B Klasse 2024-28]]
+*** 2b (2. OG) 11:40-12:30                                          :2b:sk:
+<%%(org-class 2025 9 10 2026 7 8 3 39)>
+[[denote:20250908T081510][B Klasse 2024-28 Seekirchen]]
+
 
 ** Donnerstag (MS Mattsee)
 :PROPERTIES:
 :CATEGORY: mattsee
 :END:
 
-*** 2b 07:45-08:35                                                  :2b:ms:
-<%%(org-class 2025 9 11 2026 7 9 4)>
+Den Stundenplan erfahre ich am Donnerstag. Aber so weit weiß, beginne ich mit der ersten Stunde, die letzte Stunde endet um 16:10.
+
+*** 1b (1. OG) 08:40-09:30                                          :1b:ms:
+<%%(org-class 2025 9 11 2026 7 9 4 37)>
+[[denote:20250913T110647][B Klasse 2025-29 Mattsee]]
+
+*** 2a (2. OG) 09:35-10:25                                          :2a:ms:
+<%%(org-class 2025 9 11 2026 7 9 4 37)>
+[[denote:20250913T110759][A Klasse 2024-28 Mattsee]]
+
+*** 1c (1. OG) 10:45-11:35                                          :1c:ms:
+<%%(org-class 2025 9 11 2026 7 9 4 37)>
+[[denote:20250913T110721][C Klasse 2025-29 Mattsee]]
+
+*** 4b (2. OG) 11:40-12:30                                          :4b:ms:
+<%%(org-class 2025 9 11 2026 7 9 4 37)>
+[[denote:20250913T110827][B Klasse 2022-26 Mattsee]]
+
+*** 2c (2. OG) 15:00-15:50                                          :2c:ms:
+<%%(org-class 2025 9 11 2026 7 9 4 37)>
+[[denote:20250913T110554][C Klasse 2024-28 Mattsee]]
 
 ** Freitag (MS Seekirchen)
 :PROPERTIES:
 :CATEGORY: seekirchen
 :END:
 
-*** 2b 07:45-08:35                                                  :2b:sk:
-<%%(org-class 2025 9 12 2026 7 10 5)>
-[[denote:20250908T081510][B Klasse 2024-28]]
+*** 2b (2. OG) 07:45-08:35                                          :2b:sk:
+<%%(org-class 2025 9 12 2026 7 10 5 37)>
+[[denote:20250908T081510][B Klasse 2024-28 Seekirchen]]
 
-*** 1a 09:45-10:35                                                  :1a:sk:
-<%%(org-class 2025 9 12 2026 7 10 5)>
-[[denote:20240908T214000][A Klasse 2025-29]]
+*** 1a (Cont OG) 09:45-10:35                                        :1a:sk:
+<%%(org-class 2025 9 12 2026 7 10 5 37)>
+[[denote:20240908T214000][A Klasse 2025-29 Seekirchen]]
 
-*** 1b 10:40-11:30                                                  :1b:sk:
-<%%(org-class 2025 9 12 2026 7 10 5)>
+*** 1b (1. OG) 10:40-11:30                                          :1b:sk:
+<%%(org-class 2025 9 12 2026 7 10 5 37)>
+[[denote:20240908T214427][B Klasse 2025-29 Seekirchen]]
+
+*** 3b (1. OG) 11:40-12:30                                          :3b:sk:
+<%%(org-class 2025 9 12 2026 7 10 5 37)>
+[[denote:20240908T214359][B Klasse 2023-27 Seekirchen]]
+
+*** 3d (1. OG) 12:30-13:20                                          :3d:sk:
+<%%(org-class 2025 9 12 2026 7 10 5 39)>
+[[denote:20250908T081215][D Klasse 2023-27 Seekirchen]]
+
+
+* Supplierstunden
+:PROPERTIES:
+:CATEGORY: Supp
+:END:
+
+
+** 1b BE 08:40-09:30                                                 :1b:sk:
+<2025-09-10 Mi>
 [[denote:20240908T214427][B Klasse 2025-29]]
 
-*** 3b 11:40-12:30                                                  :3b:sk:
-<%%(org-class 2025 9 12 2026 7 10 5)>
-[[denote:20240908T214359][B Klasse 2023-27]]
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
 
-*** 3d 12:30-13:20                                                  :3d:sk:
-<%%(org-class 2025 9 12 2026 7 10 5)>
-[[denote:20250908T081215][D Klasse 2023-27]]
+** 2b GW 09:45-10:35                                                 :2b:sk:
+<2025-09-10 Mi>
+Wer bin ich?Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+** 3c D 10:40-11:30                                                 :3c:sk:
+<2025-09-10 Mi>
+
+
+** 1d BE 12:30-13:20                                                 :1d:sk:
+<2025-09-10 Mi>
+frei zeichnen / Ferien
+Ethik
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+
+** 4a BE 07:45-08:35                                                 :4a:sk:
+<2025-09-12 Fr>
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+** 4a BU 08:40-09:30                                                 :4a:sk:
+<2025-09-12 Fr>
+Welche Ziele habe ich?
+Wie würde ich mein Lebensmotto beschreiben?
+Welche Zukunftmodelle gibt es?
+Wie stelle ich mir die Zukunft unserer Erde vor?
+
+
+** 1a BE 09:45-10:35                                                 :1a:sk:
+<2025-09-12 Fr>
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+** 2b GW 10:40-11:30                                                 :2b:sk:
+<2025-09-12 Fr>
+Die Klasse ist sehr schwierig; es haben sich ein paar Schüler abgemeldet - könnte sein, dass darunter ein paar Störenfriede sind.
+
+Geografie Kahoot.
+
+Die Klasse ist schon sehr, sehr lebendig. Wie viel Unruhe halte ich aus? Was ist zu viel? Welche Schüler sind in Religion nicht dabei? Laut Julia (KV) va jene, die recht viel stören. Sie beschäftigen, auf keine Diskussionen einsteigen.
+
+Buch "Mehrfach Geografie 2"
+[[https://sbo.veritas.at/sbo/ebook/px/50489_1T/#page=8]]
+
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+** 4b BE 11:40-12:30                                                 :4b:sk:
+<2025-09-12 Fr>
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+Welche Ziele habe ich?
+Wie würde ich mein Lebensmotto beschreiben?
+Welche Zukunftmodelle gibt es?
+Wie stelle ich mir die Zukunft unserer Erde vor?
+
+Frei zeichnen lassem.
+
+** 1b BE                                                             :1b:sk:
+<2025-09-12 Fr 12:30-13:20>
+Wer bin ich?
+Wieso gibt es überhaupt etwas?
+Was macht mich glücklich?
+Was bringt mich zum Staunen?
+Warum müssen Menschen sterben?
+
+Frei zeichnen bzw Auftrag fertig stellen
+
+** 1b                                                                :1b:ms:
+:PROPERTIES:
+:CAPTURED: [2025-09-11 Do 08:16]
+:CATEGORY: Supp
+:END:
+<2025-09-11 Do 11:40-12:30>
+
+** 1c                                                                :1c:ms:
+:PROPERTIES:
+:CAPTURED: [2025-09-11 Do 08:18]
+:CATEGORY: Supp
+:END:
+<2025-09-11 Do 12:35-13:25>
+
+** Schulgottesdienst Mattsee
+:PROPERTIES:
+:CAPTURED: [2025-09-11 Do 08:19]
+:CATEGORY: Supp
+:END:
+<2025-09-11 Do 09:35-10:25>
+
 
