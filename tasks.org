@@ -150,11 +150,14 @@ CLOSED: [2025-09-13 Sa 11:02] DEADLINE: <2025-09-13 Sa 19:00>
 :END:
 15 "Stunden" pro Jahr.
 
-** TODO [#A] RU Schülerzahlen                                       :schule:
-DEADLINE: <2025-09-19 Fr 13:20>
+** DONE [#A] RU Schülerzahlen                                       :schule:
+CLOSED: [2025-10-07 Di 10:14] DEADLINE: <2025-09-19 Fr 13:20>
 :PROPERTIES:
 :CAPTURED: [2025-09-15 Mo 10:02]
 :CUSTOM_ID: h:20250915T100233
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-10-07 Di 10:14]
 :END:
 In jeder Klasse kontrollieren, wie viele Schüler tatsächlich in den RU gehen. Danach eventuell Schulbücher nachbestellen oder - falls Bücher übrig bleiben - diese Bücher einsammeln (und zurück senden).  
 

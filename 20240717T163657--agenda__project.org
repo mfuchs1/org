@@ -58,7 +58,7 @@ Worauf ist zu achten?
 [[denote:20240908T214359][B Klasse 2023-27 Seekirchen]]
 
 *** 1a (Cont OG) 08:40-09:30                                        :3b:sk:
-<%%(org-class 2025 9 8 2026 7 6 1 37)>
+<%%(org-class 2025 9 8 2026 7 6 1 42)>
 [[denote:20240908T214000][A Klasse 2025-29 Seekirchen]]
 
 *** 1d (Cont OG) 10:40-11:30                                        :1d:sk:
@@ -160,11 +160,11 @@ Den Stundenplan erfahre ich am Donnerstag. Aber so weit weiß, beginne ich mit d
 [[denote:20250908T081510][B Klasse 2024-28 Seekirchen]]
 
 *** 1a (Cont OG) 09:45-10:35                                        :1a:sk:
-<%%(org-class 2025 9 12 2026 7 10 5 37)>
+<%%(org-class 2025 9 12 2026 7 10 5 40)>
 [[denote:20240908T214000][A Klasse 2025-29 Seekirchen]]
 
 *** 1b (1. OG) 10:40-11:30                                          :1b:sk:
-<%%(org-class 2025 9 12 2026 7 10 5 37)>
+<%%(org-class 2025 9 12 2026 7 10 5 40)>
 [[denote:20240908T214427][B Klasse 2025-29 Seekirchen]]
 
 *** 3b (1. OG) 11:40-12:30                                          :3b:sk:
