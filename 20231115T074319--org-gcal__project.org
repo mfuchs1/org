@@ -3,7 +3,8 @@
 #+filetags:   :Project:
 #+identifier: 20231115T074319
 #+CATEGORY: org-gcal
-
+#+STARTUP: fnadjust
+#+STARTUP: showall
 
 * Geburtstag Julia
 :PROPERTIES:
@@ -707,5 +708,38 @@ Um 09:30 die Schüler umkleiden schicken und gemeinsam flott mit Franz zum See g
 :END:
 :org-gcal:
 <2025-10-21 Di 11:40-12:30>
+:END:
+
+* Gabriel bei Omi (Deutsch)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3521589328676990"
+:entry-id: v992h5k8eqkelmcd808ttv3fgk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-10-18 Sa 13:00-17:30>
+:END:
+
+ mmmµµµµµµµµµµµmmmmm* Hl. Messe (Salzburg Dom)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3521615523717278"
+:entry-id: o8031mv5nt5u0f3okhju3298qk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-10-19 So 11:30-12:30>
+:END:
+
+* Leopold Diktat üben
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3521565148783070"
+:entry-id: ruh1q8atr0se8j9pbp7umv1ge0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-10-18 Sa 13:30-14:00>
 :END:
 

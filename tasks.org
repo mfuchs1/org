@@ -196,7 +196,7 @@ In jeder meiner Klassen eine eigene Gruppe "Religion" einrichten und ihr die bet
 
 [[denote:20240717T163657::#h:0828bca0-3f7a-4415-8396-d2670488db35][Agenda::1c Gitarre 13:10-14:00]]
 
-** TODO [#A] WebUntis + TA eintragen                                :schule:
+** TODO [#A] [[https://hypate.webuntis.com/WebUntis/?date=2025-09-15#/basic/login][WebUntis]] + [[https://www.sokrates-web.at/TA_SBG/login][TA]] eintragen                                        :schule:
 :PROPERTIES:
 :CAPTURED: [2024-11-21 Do 09:42]
 :CATEGORY: TA

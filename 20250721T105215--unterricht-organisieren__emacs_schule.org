@@ -70,6 +70,10 @@ Daraus lässt sich dann leicht ein Mittelwert errechnen.
 
 Da muss ich wirklich genau und treu sein - *jeden Tag* mein elektronisches Klassenbuch führen. Ist mühsam, mache ich äußerst ungern, muss aber sein. Es ist meine Pflicht.
 
+* Aufzeichnungen
+
+Wie wäre es, wenn ich für die Noteneintragung eine eigene org-Datei nur mit einer Tabelle erstelle? (ohne olivetti-mode)
+
 * Footnotes
 
 [fn:1] =Text Verbatim= steht für Dateien wie z.B. =init.el= oder =denote.el=, etc.
