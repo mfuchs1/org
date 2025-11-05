@@ -17,17 +17,6 @@
 <2025-10-12 So>
 :END:
 
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3520029362386814"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 190alt5j09e10tt6a7vr27c99r_20251003T140000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-10-03 Fr 16:00-16:30>
-:END:
-
 * Fachkonferenz Dek. Köstendorf (ES4F531 FB)
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
@@ -59,17 +48,6 @@
 :END:
 :org-gcal:
 <2026-04-29 Mi 15:00-18:15>
-:END:
-
-* Kletterkurs Gabriel
-:PROPERTIES:
-:ETag:     "3522963661964286"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 3ikl9lj14v52hso32a29bk110i_20250929T141500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-09-29 Mo 16:15-17:45>
 :END:
 
 * Kletterkurs Gabriel
@@ -147,62 +125,6 @@
 :END:
 :org-gcal:
 <2025-10-14 Di 16:15-18:15>
-:END:
-
-* Supplierstunde 4a CH
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3518442349029982"
-:entry-id: c9l5q3368l0uqt0tle66hgtl3o/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-10-01 Mi 10:40-11:30>
-:END:
-
-* Testeintrag
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3518667877774750"
-:entry-id: vcmbh7ldmd2emhdcdooo6jjlds/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-10-01 Mi 22:30-23:30>
-:END:
-
-
-* Lesen und Beten
-:PROPERTIES:
-:ETag:     "3518532592850526"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4sdskktgp92ahiimjadfb1i94l/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-09-30 Di 23:30>--<2025-10-01 Mi 00:30>
-:END:
-
-* Lesen
-:PROPERTIES:
-:ETag:     "3518533400207486"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 6755m3ek2rfog913pq9vdrst56/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-10-01 Mi 20:30-21:30>
-:END:
-
-* Sport
-:PROPERTIES:
-:ETag:     "3518534392163550"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 0t6hkk18bmnvvtjvi8h2tjkufk/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-10-01 Mi 18:00-19:00>
 :END:
 
 * Konferenz MS Seekirchen
@@ -350,39 +272,6 @@
 
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3518597243871518"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 1n86bvcv8doopo0i8aoccu1839/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-09-30 Di 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3518597264212030"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 660falg2jamr2cvl4mqrlj0h57/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-10-03 Fr 16:30-17:30>
-:END:
-
-* Lesen und Beten
-:PROPERTIES:
-:ETag:     "3518619893358814"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 29ulcauqtvuqcqokqur88tjhi6/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-10-01 Mi 22:00-23:00>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
 :ETag:     "3518668934495742"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 74il964d5a4v6vn1ba8hr8dfbk/matthiasfuchs01@gmail.com
@@ -390,19 +279,6 @@
 :END:
 :org-gcal:
 <2025-10-07 Di 16:30-17:30>
-:END:
-
-* 1a Schullauf SMS Seekirchen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3518950744009214"
-:entry-id: f1008qd1gipmcb8ah6menk2teg/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-10-03 Fr 09:45-11:30>
-
-Um 09:30 die Schüler umkleiden schicken und gemeinsam flott mit Franz zum See gehen. Bei Anna erhalten wir die Startnummern. Am Ende des Laufs Schüler zählen und vollständig wieder zurückgehen,
 :END:
 
 * Supplierstunde 4a GPB
@@ -791,11 +667,11 @@ Neuer Internettarif / ev. neuer Handytarif?
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3523272653982462"
+:ETag:     "3523327328125182"
 :entry-id: 415cel1rgqpqmkp45plp4a9qmo/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2025-10-28 Di 18:00-19:00>
+<2025-10-28 Di 20:00-21:00>
 :END:
 
 * Mittagessen bei Omi und Opa
@@ -820,4 +696,27 @@ Neuer Internettarif / ev. neuer Handytarif?
 :END:
 :org-gcal:
 <2025-10-28 Di 09:00-10:00>
+:END:
+
+* Tag der offenen Tür Annahof
+:PROPERTIES:
+:ETag:     "3523711845838974"
+:LOCATION: HLWM Annahof Salzburg, Guggenmoosstraße 44, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 74q6aphi70o6cb9hc4pj6b9kc4ojab9ocphjabb1coq32cb6chhj2dr464/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-12-05 Fr 08:00-11:00>
+:END:
+
+* SIM Karte wechslen
+:PROPERTIES:
+:ETag:     "3524208775685246"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 3q5jtj88f9ngsc3acps1n07ao2/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-11-06 Do 06:00-07:00>
 :END:
