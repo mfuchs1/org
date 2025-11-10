@@ -17,17 +17,6 @@
 <2025-10-12 So>
 :END:
 
-* Fachkonferenz Dek. Köstendorf (ES4F531 FB)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3515507334927102"
-:entry-id: vjkdi4mc17ufahuf3b4ufq1c50/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-10-07 Di 15:00-18:15>
-:END:
-
 * Spiritualität und Kontemplation (ES4F604 FB)
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
@@ -48,17 +37,6 @@
 :END:
 :org-gcal:
 <2026-04-29 Mi 15:00-18:15>
-:END:
-
-* Kletterkurs Gabriel
-:PROPERTIES:
-:ETag:     "3522963661964286"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 3ikl9lj14v52hso32a29bk110i_20251006T141500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-10-06 Mo 16:15-17:45>
 :END:
 
 * Kletterkurs Gabriel
@@ -125,28 +103,6 @@
 :END:
 :org-gcal:
 <2025-10-14 Di 16:15-18:15>
-:END:
-
-* Konferenz MS Seekirchen
-:PROPERTIES:
-:ETag:     "3518596932621182"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 7jlr90u9smch39ddelba0e5be0/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-10-08 Mi 16:00-18:00>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3522670922056318"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20251010T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-10-10 Fr 16:30-17:30>
 :END:
 
 * Karate Leopold
@@ -268,40 +224,6 @@
 :END:
 :org-gcal:
 <2025-11-28 Fr 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3518668934495742"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 74il964d5a4v6vn1ba8hr8dfbk/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-10-07 Di 16:30-17:30>
-:END:
-
-* Supplierstunde 4a GPB
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3519653024113694"
-:entry-id: 6oq2n91ne2blv9v41dv85afk3c/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-10-07 Di 11:40-12:30>
-:END:
-
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3522670914136990"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 5m705f5koimroartv2tmcvn1se_20251010T130000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-10-10 Fr 15:00-15:30>
 :END:
 
 * Klavierunterricht Leopold
@@ -719,4 +641,137 @@ Neuer Internettarif / ev. neuer Handytarif?
 :END:
 :org-gcal:
 <2025-11-06 Do 06:00-07:00>
+:END:
+
+* Geburtstag P. François
+:PROPERTIES:
+:ETag:     "3022881776320000"
+:TRANSPARENCY: transparent
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: cor34dj565hjab9pc9j38b9kccpj6b9p75gmcb9m60p3idhockq62ob16k_20251124/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-11-24 Mo>
+:END:
+
+* Hl. Messe (Salzburg Dom)
+:PROPERTIES:
+:ETag:     "3521615523717278"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: o8031mv5nt5u0f3okhju3298qk/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-10-19 So 11:30-12:30>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3522670914136990"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 5m705f5koimroartv2tmcvn1se_20251226T140000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-12-26 Fr 15:00-15:30>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3522670914136990"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 5m705f5koimroartv2tmcvn1se_20260102T140000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-01-02 Fr 15:00-15:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3522670922056318"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20251226T153000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-12-26 Fr 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3522670922056318"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20251230T153000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-12-30 Di 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3522670922056318"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260102T153000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-01-02 Fr 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3522670922056318"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260106T153000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-01-06 Di 16:30-17:30>
+:END:
+
+* Kletterkurs Gabriel
+:PROPERTIES:
+:ETag:     "3522963661964286"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 3ikl9lj14v52hso32a29bk110i_20251229T151500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-12-29 Mo 16:15-17:45>
+:END:
+
+* Kletterkurs Gabriel
+:PROPERTIES:
+:ETag:     "3522963661964286"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 3ikl9lj14v52hso32a29bk110i_20260105T151500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-01-05 Mo 16:15-17:45>
+:END:
+
+* Elternsprechtag Seekirchen
+:PROPERTIES:
+:ETag:     "3525529167192958"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 60sj4chi6ti6cbb568rj4b9k6lh36bb16ormcb9pcoq64d9l6hi3adb4c4/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-11-21 Fr 14:00-18:00>
+:END:
+
+* Elternsprechtag Leopold 3a
+:PROPERTIES:
+:ETag:     "3525529797137342"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 2a0uol73buo8k4d5ebl80apjq4/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-11-18 Di 18:45-19:00>
 :END:
