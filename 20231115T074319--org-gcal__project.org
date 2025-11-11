@@ -41,7 +41,7 @@
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251013T141500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -52,7 +52,7 @@
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251020T141500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -74,7 +74,7 @@
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251103T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -85,13 +85,35 @@
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251110T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
 <2025-11-10 Mo 16:15-17:45>
+:END:
+
+* Tag der offenen Tür
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3525702838684510"
+:entry-id: 6ml71k6qltcrsabiir4djlcogo/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-11-17 Mo 07:45-13:30>
+:END:
+
+* Konferenz MS Mattsee
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3525703012208286"
+:entry-id: vt6npsn88r48uql4able32484c/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-11-17 Mo 13:30-16:00>
 :END:
 
 * Konferenz MS Mattsee
@@ -429,7 +451,7 @@ Song Analyse - Arbeitszettel
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251117T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -440,7 +462,7 @@ Song Analyse - Arbeitszettel
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251124T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -451,7 +473,7 @@ Song Analyse - Arbeitszettel
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251201T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -462,7 +484,7 @@ Song Analyse - Arbeitszettel
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251208T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -473,7 +495,7 @@ Song Analyse - Arbeitszettel
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251215T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -506,7 +528,7 @@ Song Analyse - Arbeitszettel
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251222T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -734,7 +756,7 @@ Neuer Internettarif / ev. neuer Handytarif?
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251229T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -745,7 +767,7 @@ Neuer Internettarif / ev. neuer Handytarif?
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3522963661964286"
+:ETag:     "3525702742353374"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20260105T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -775,3 +797,15 @@ Neuer Internettarif / ev. neuer Handytarif?
 :org-gcal:
 <2025-11-18 Di 18:45-19:00>
 :END:
+
+* Konferenz SMS Seekirchen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3525703467132414"
+:entry-id: teakvq22u572u1e5j9e479ft60/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-11-12 Mi 16:00-17:30>
+:END:
+

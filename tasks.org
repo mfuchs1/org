@@ -169,11 +169,14 @@ In jeder Klasse kontrollieren, wie viele Schüler tatsächlich in den RU gehen. 
 - 3d
 - 4b
 
-** TODO [#A] Webuntis Gruppe Religion                               :schule:
-DEADLINE: <2025-09-19 Fr 18:00>
+** DONE [#A] Webuntis Gruppe Religion                               :schule:
+CLOSED: [2025-11-11 Di 10:04] DEADLINE: <2025-09-19 Fr 18:00>
 :PROPERTIES:
 :CAPTURED: [2025-09-15 Mo 10:05]
 :CUSTOM_ID: h:20250915T100521
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-11-11 Di 10:04]
 :END:
 In jeder meiner Klassen eine eigene Gruppe "Religion" einrichten und ihr die betreffenden Schüler zuordnen.
 
