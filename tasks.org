@@ -180,6 +180,18 @@ CLOSED: [2025-11-11 Di 10:04] DEADLINE: <2025-09-19 Fr 18:00>
 :END:
 In jeder meiner Klassen eine eigene Gruppe "Religion" einrichten und ihr die betreffenden Schüler zuordnen.
 
+** TODO [#A] Mount NAS Drive                                         :linux:
+DEADLINE: <2025-11-12 Mi 22:00>
+:PROPERTIES:
+:CAPTURED: [2025-11-12 Mi 08:13]
+:CUSTOM_ID: h:20251112T081354
+:END:
+
+Im Router der Netzwerk Festplatte eine fixe / statische IP-Adresse vergeben, Router neu starten.
+
+In der fstab-Datei auf folgende Konfiguration achten:
+
+[[https://forum.manjaro.org/t/mount-nas-synology-in-thunar/181425/20]]
 
 * Wishlist
 :PROPERTIES:
