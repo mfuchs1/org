@@ -787,3 +787,25 @@ Neuer Internettarif / ev. neuer Handytarif?
 <2025-11-12 Mi 16:00-17:30>
 :END:
 
+* D Lehrerinnen (Gabriel) - Note D SA
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3526914092144510"
+:entry-id: u0rhkffe0iia31le0m49o55ppo/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-11-19 Mi 14:30-15:00>
+:END:
+
+* Elternsprechtag Seekirchen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3526916152537854"
+:entry-id: 34kp9ss4udb4ls3ngh9cd94lss/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-01 Mo 14:30-16:00>
+:END:
+
