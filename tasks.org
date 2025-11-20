@@ -198,11 +198,14 @@ In der fstab-Datei auf folgende Konfiguration achten:
 
 Ich denke, ich hab es geschafft. Hab nach dieser Anleitung die ~fstab~ geändert. Klappt!
 
-** TODO Auto Service                                                 :privat:
-SCHEDULED: <2025-11-18 Di 12:00>
+** DONE Auto Service                                                :privat:
+CLOSED: [2025-11-19 Mi 09:16] SCHEDULED: <2025-11-18 Di 12:00>
 :PROPERTIES:
 :CAPTURED: [2025-11-18 Di 10:32]
 :CUSTOM_ID: h:20251118T103244
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-11-19 Mi 09:16]
 :END:
 
 [[file:~/Documents/notes/20250913T110759--a-klasse-2024-28-mattsee__2a_ms.org::*Jahresplanung][Jahresplanung]]
@@ -216,7 +219,7 @@ SCHEDULED: <2025-11-18 Di 12:15>
 
 [[file:~/Documents/notes/20250913T110759--a-klasse-2024-28-mattsee__2a_ms.org::*Jahresplanung][Jahresplanung]]
 
-** TODO Adventkranzsegnung                                           :school:
+** TODO Adventskranzsegnung                                         :school:
 SCHEDULED: <2025-11-18 Di 11:50>
 :PROPERTIES:
 :CAPTURED: [2025-11-18 Di 10:34]

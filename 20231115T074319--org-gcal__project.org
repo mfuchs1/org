@@ -809,3 +809,30 @@ Neuer Internettarif / ev. neuer Handytarif?
 <2025-12-01 Mo 14:30-16:00>
 :END:
 
+* Dacia Duster Service
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3527245009425726"
+:entry-id: 5dsusei3v4bcu03m5ajqf3uoeg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-11-25 Di 15:00-16:30>
+
+Autohaus Gerlach, Straßwalchen
+
+[[https://www.google.at/maps/dir/Mittelschule+Mattsee,+Ramooser+Str.+1,+5163+Mattsee,+%C3%96sterreich/Dacia+Stra%C3%9Fwalchen+Autohaus+Gerlach,+Salzburgerstra%C3%9Fe+31,+5204+Stra%C3%9Fwalchen/@47.9602821,13.1342669,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47769d61e53ab2ed:0x9bb41cf486e52553!2m2!1d13.1063023!2d47.9676574!1m5!1m1!1s0x477421df5aabb9b5:0xc5c4b0f9baf7ed2a!2m2!1d13.2505757!2d47.9717857!3e0?entry=ttu&g_ep=EgoyMDI1MTExNi4wIKXMDSoASAFQAw%3D%3D][Maps: MS Mattsee - Gerlach Straßwalchen]]
+:END:
+
+* Supplierstunde 2c DGB
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3527245095147934"
+:entry-id: 8b6k2fqrm4ccttnjv82smvtm2k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-11-20 Do 14:05-14:55>
+:END:
+
+
