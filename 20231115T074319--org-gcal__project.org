@@ -835,4 +835,48 @@ Autohaus Gerlach, Straßwalchen
 <2025-11-20 Do 14:05-14:55>
 :END:
 
+* Supplierstunde 2c R
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3527605622999678"
+:entry-id: 92t0jtbcqahe3svipfm9665q8c/matthiasfuchs01@gmail.com
+:CATEGORY: seekirchen
+:END:
+:org-gcal:
+<2025-11-24 Mo 09:45-10:35>
+:END:
+
+* Gottesdienst Dom
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3527807800600862"
+:entry-id: 2ovbqkf2o51qnqhojphv677n7s/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-11-23 So 08:30-09:30>
+:END:
+
+* Gemeinsames Frühstück
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3527807912357758"
+:entry-id: 4odghtoinfccd7feknp11fg6kk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-11-23 So 10:00-10:45>
+:END:
+
+* Stundenplanung
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3527808000063614"
+:entry-id: rmacmlvaq0beu9ipnc8eaabd2k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-11-23 So 14:00-17:00>
+:END:
 

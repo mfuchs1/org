@@ -50,14 +50,14 @@ Worauf ist zu achten?
 :CATEGORY: seekirchen
 :END:
 
-*** 3b (1. OG) 07:45-08:35                                          :1a:sk:
+*** 3b (1. OG) 07:45-08:35                                          :3b:sk:
 :PROPERTIES:
 :CUSTOM_ID: h:79e7082f-c4b2-47d0-9506-6bde40e15f69
 :END:
 <%%(org-class 2025 9 8 2026 7 6 1 44)>
 [[denote:20240908T214359][B Klasse 2023-27 Seekirchen]]
 
-*** 1a (Cont OG) 08:40-09:30                                        :3b:sk:
+*** 1a (Cont OG) 08:40-09:30                                        :1a:sk:
 <%%(org-class 2025 9 8 2026 7 6 1 44)>
 [[denote:20240908T214000][A Klasse 2025-29 Seekirchen]]
 
