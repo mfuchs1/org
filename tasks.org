@@ -33,11 +33,14 @@ CLOSED: [2025-11-23 So 15:55] SCHEDULED: <2025-11-18 Di 12:15>
 
 [[file:~/Documents/notes/20250913T110759--a-klasse-2024-28-mattsee__2a_ms.org::*Jahresplanung][Jahresplanung]]
 
-** TODO Adventskranzsegnung                                         :schule:
-SCHEDULED: <2025-11-18 Di 11:50>
+** DONE Adventskranzsegnung                                         :schule:
+CLOSED: [2025-11-28 Fr 10:34] SCHEDULED: <2025-11-18 Di 11:50>
 :PROPERTIES:
 :CAPTURED: [2025-11-18 Di 10:34]
 :CUSTOM_ID: h:20251118T103423
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-11-28 Fr 10:34]
 :END:
 
 [[file:~/Documents/notes/20250913T110759--a-klasse-2024-28-mattsee__2a_ms.org::*Jahresplanung][Jahresplanung]]
