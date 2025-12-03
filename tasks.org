@@ -116,3 +116,10 @@ Lernstoff  und gehaltene Stunden eintragen.
 :END:
 [[file:~/.emacs.d/emacs-config.org::*=org-capture= configuration][=org-capture= configuration]]
 
+
+* Mail Workflow
+
+** Follow Up
+
+
+** Read Later
