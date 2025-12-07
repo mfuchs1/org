@@ -6,17 +6,6 @@
 #+STARTUP: fnadjust
 #+STARTUP: showall
 
-* Spiritualität und Kontemplation (ES4F604 FB)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3515507285860926"
-:entry-id: q0iup0i5gdjeotq5081cri518k/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-12-06 Sa 09:00-18:30>
-:END:
-
 * Philosophieren und Theologisieren mit Kindern (ES4F512 FB)
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
@@ -32,33 +21,11 @@
 :PROPERTIES:
 :ETag:     "3529191550219262"
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 3ikl9lj14v52hso32a29bk110i_20251103T151500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-11-03 Mo 16:15-17:45>
-:END:
-
-* Kletterkurs Gabriel
-:PROPERTIES:
-:ETag:     "3529191550219262"
-:calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 3ikl9lj14v52hso32a29bk110i_20251110T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
 <2025-11-10 Mo 16:15-17:45>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3522670922056318"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20251104T153000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-11-04 Di 16:30-17:30>
 :END:
 
 * Karate Leopold
@@ -360,14 +327,65 @@
 
 * Tag der offenen Tür Annahof
 :PROPERTIES:
-:ETag:     "3523711845838974"
+:ETag:     "3529852974154302"
 :LOCATION: HLWM Annahof Salzburg, Guggenmoosstraße 44, 5020 Salzburg, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 74q6aphi70o6cb9hc4pj6b9kc4ojab9ocphjabb1coq32cb6chhj2dr464/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
-<2025-12-05 Fr 08:00-11:00>
+<2025-12-05 Fr 09:00-15:00>
+:END:
+
+* Gabriel bei Omi und Opa (D Lernen)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3530042726170430"
+:entry-id: n2h0v5pdfsfmcvnai9kf8rud0g/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-06 Sa 13:00-17:30>
+:END:
+
+* Einkaufen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3530042897849982"
+:entry-id: pdjd0421f87qoug12eu81pv10s/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-06 Sa 16:00-17:00>
+:END:
+
+* Gabriel abholen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3530042983237630"
+:entry-id: uqn9vme7o6ghtocjdm1940o2h8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-06 Sa 17:30-18:00>
+:END:
+
+* Hl.  Messe (Dom)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3530240537157630"
+:entry-id: ua2ihieba2gf0mp7vtdk2tbddg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-07 So 08:30-09:30>
+:END:
+
+
+* Einkaufen + Gabriel abholen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
 :END:
 
 * SIM Karte wechslen
