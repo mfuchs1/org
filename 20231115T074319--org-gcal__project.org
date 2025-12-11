@@ -32,17 +32,6 @@
 :PROPERTIES:
 :ETag:     "3522670922056318"
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20251107T153000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-11-07 Fr 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3522670922056318"
-:calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20251111T153000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
@@ -103,17 +92,6 @@
 :END:
 :org-gcal:
 <2025-11-28 Fr 16:30-17:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3522670914136990"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 5m705f5koimroartv2tmcvn1se_20251107T140000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-11-07 Fr 15:00-15:30>
 :END:
 
 * Klavierunterricht Leopold
@@ -386,17 +364,6 @@
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:END:
-
-* SIM Karte wechslen
-:PROPERTIES:
-:ETag:     "3524208775685246"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 3q5jtj88f9ngsc3acps1n07ao2/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-11-06 Do 06:00-07:00>
 :END:
 
 * Geburtstag P. François
@@ -729,5 +696,63 @@ Bleibt dort bis Weihnachten
 :END:
 :org-gcal:
 <2025-12-02 Di 18:00-19:00>
+:END:
+
+
+* Leopold fährt nach St. Leonhard
+:PROPERTIES:
+:ETag:     "3530372253352894"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: ccrj0p346ks32b9o6cq30b9k6cs3ab9pcks6ab9jcoq32e3574sm2c33cc/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-12-08 Mo 14:30-15:30>
+
+Bus um 14h57
+:END:
+
+* Supplierstunde 2abc M Standard (2c)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3530542343761598"
+:entry-id: pqmk6n6qo1fnqhpnfmip57qr7s/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-09 Di 11:40-12:30>
+:END:
+
+* Konferenz MS Mattsee
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3530542603105822"
+:entry-id: 68udorfb07f1pbq0pbju2jl9i4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-10 Mi 15:30-17:00>
+:END:
+
+* Supplierstunde 1d BU
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3530711956956062"
+:entry-id: vlhms0srpn4il0qunnl74o0vfs/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-10 Mi 12:30-13:20>
+:END:
+
+* Supplierstunde 1d M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3530872370339998"
+:entry-id: g7891j9d0esd0h83fn3tpif928/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-12 Fr 08:40-09:30>
 :END:
 
