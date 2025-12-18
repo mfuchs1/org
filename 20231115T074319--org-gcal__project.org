@@ -17,39 +17,6 @@
 <2026-04-29 Mi 15:00-18:15>
 :END:
 
-* Kletterkurs Gabriel
-:PROPERTIES:
-:ETag:     "3529191550219262"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 3ikl9lj14v52hso32a29bk110i_20251110T151500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-11-10 Mo 16:15-17:45>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3522670922056318"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20251111T153000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-11-11 Di 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3522670922056318"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20251114T153000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-11-14 Fr 16:30-17:30>
-:END:
-
 * Karate Leopold
 :PROPERTIES:
 :ETag:     "3522670922056318"
@@ -98,17 +65,6 @@
 :PROPERTIES:
 :ETag:     "3522670914136990"
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 5m705f5koimroartv2tmcvn1se_20251114T140000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2025-11-14 Fr 15:00-15:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3522670914136990"
-:calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 5m705f5koimroartv2tmcvn1se_20251121T140000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
@@ -136,17 +92,6 @@
 :END:
 :org-gcal:
 <2025-12-05 Fr 15:00-15:30>
-:END:
-
-* Mitarbeitergespräch mit Gudrun
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3520686720227134"
-:entry-id: do2d7366a82osoa2vgj5t68u1o/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-12-15 Mo 09:45-10:35>
 :END:
 
 * Karate Leopold
@@ -488,17 +433,6 @@
 <2025-11-18 Di 18:45-19:00>
 :END:
 
-* Konferenz SMS Seekirchen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3525703467132414"
-:entry-id: teakvq22u572u1e5j9e479ft60/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2025-11-12 Mi 16:00-17:30>
-:END:
-
 * D Lehrerinnen (Gabriel) - Note D SA
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
@@ -754,5 +688,128 @@ Bus um 14h57
 :END:
 :org-gcal:
 <2025-12-12 Fr 08:40-09:30>
+:END:
+
+* Supplierstunde 2c R
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3531337960173022"
+:entry-id: nc5kfas43qitrka3oso012c4ok/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-15 Mo 09:45-10:35>
+:END:
+
+* Supplierstunde 2a R
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3531338047155678"
+:entry-id: 6059fcu15af8r17j9tapbh9p0k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-15 Mo 11:40-12:30>
+:END:
+
+* Supplierstunde 1c E
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3531338143735934"
+:entry-id: bbn34ks4046q2b179mqiejjpq4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-17 Mi 08:40-09:30>
+:END:
+
+* Supplierstunde 4a GSPB
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3531338235276318"
+:entry-id: 6dvdp3n2bua8qlgupds7a3lu9k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-17 Mi 11:40-12:30>
+:END:
+
+* Supplierstunde 1d BU
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3531338313513502"
+:entry-id: 3749lsd3kcjfckm7vaj8gbnsr0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-17 Mi 12:30-13:20>
+:END:
+
+* Supplierstunde 1a GW
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3531338419115902"
+:entry-id: 8ouro1d63fkr0gthhcqo610uig/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-19 Fr 11:40-12:30>
+:END:
+
+
+* Konferenz SMS Seekirchen
+:PROPERTIES:
+:ETag:     "3530553448793118"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 70r32cr6c5gjib9lcpgj8b9k6dj3gb9o75h6ab9l6sqjcopm70om4p1jc4/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-12-15 Mo 15:00-17:45>
+:END:
+
+* Leopold Geburtstagsfeier von Daviti
+:PROPERTIES:
+:ETag:     "3531278214198782"
+:LOCATION: JUMP DOME Salzburg, Wilhelm-Spazier-Straße 1A, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 74omce9jc5i36b9k6soj8b9k6kr32bb16grj2b9p6crmcchhc8r3gchh70/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-12-13 Sa 16:00-18:30>
+:END:
+
+* Leopold abholen
+:PROPERTIES:
+:ETag:     "3531278289573822"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 74pj4dj369h64bb66cq34b9k6cpj8b9o71j3ab9nc8om4p1k6dhjgo9n64/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-12-13 Sa 18:00-18:30>
+:END:
+
+* Supplierstunde 1b BSP
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3531748768068926"
+:entry-id: 22hlauopl3k7i2s41ut5enroic/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-16 Di 10:45-11:35>
+:END:
+
+* Supplierstunde 3d D/s2 
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3531749079786590"
+:entry-id: dnbf6pi0h3n5ij21hput0qba0s/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2025-12-18 Do 07:45-08:35>
 :END:
 
