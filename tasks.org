@@ -61,10 +61,14 @@ So gut wie täglich einen Eintrag schreiben, ist ja auch ein =journal=. Idee: ic
 :END:
 [[file:~/Downloads/Howm_tutorial_eng.pdf]]
 
-** TODO Elternsprechtage KEL-Gespräche                                 :mail:
+** DONE Elternsprechtage KEL-Gespräche                                 :mail:
+CLOSED: [2026-01-02 Fr 16:10]
 :PROPERTIES:
 :CAPTURED: [2025-11-21 Fr 13:48]
 :CUSTOM_ID: h:20251121T134812
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-02 Fr 16:10]
 :END:
 
 [[mu4e:msgid:AM6PR02MB47561F3B0ABD8261644B20B1C7D7A@AM6PR02MB4756.eurprd02.prod.outlook.com][Elternsprechtage KEL-Gespräche]]
