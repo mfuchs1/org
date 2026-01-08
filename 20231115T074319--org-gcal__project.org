@@ -868,3 +868,48 @@ Bus um 14h57
 :org-gcal:
 <2025-12-22 Mo 09:45-10:35>
 :END:
+
+* Supplierstunde 4b E
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3535536615164702"
+:entry-id: b3uceb56t3fi3buksrp04io69o/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-07 Mi 08:40-09:30>
+:END:
+
+* Mitarbeitergespräch w/Gudrun
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3535714448657342"
+:entry-id: ork2uurjgbm9kinavjetrhdib0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-09 Fr 08:40-09:00>
+:END:
+
+* Supplierstunde 3b TEX
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3535536705678174"
+:entry-id: 764d4qfs6bs5h12ob5f05v2plo/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-07 Mi 11:40-12:30>
+:END:
+
+* Supplierstunde 3b TEX
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3535536776200638"
+:entry-id: vaulusuvu56sfqorpa3nl14rq8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-07 Mi 12:30-13:20>
+:END:
+
