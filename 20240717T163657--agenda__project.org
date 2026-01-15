@@ -115,7 +115,7 @@ Ich beginne mit der ersten Stunde und ende um 12:30
 [[denote:20250908T081215][D Klasse 2023-27 Seekirchen]]
 
 *** 1d (Cont OG) 10:40-11:30                                        :1d:sk:
-<%%(org-class 2025 9 10 2026 7 8 3 01)>
+<%%(org-class 2025 9 10 2026 7 8 3 04)>
 [[denote:20250908T080546][D Klasse 2025-29 Seekirchen]]
 
 *** 2b (2. OG) 11:40-12:30                                          :2b:sk:
