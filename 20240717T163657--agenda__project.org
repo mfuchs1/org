@@ -160,7 +160,7 @@ Den Stundenplan erfahre ich am Donnerstag. Aber so weit weiß, beginne ich mit d
 [[denote:20250908T081510][B Klasse 2024-28 Seekirchen]]
 
 *** 1a (Cont OG) 09:45-10:35                                        :1a:sk:
-<%%(org-class 2025 9 12 2026 7 10 5 01)>
+<%%(org-class 2025 9 12 2026 7 10 5 04)>
 [[denote:20240908T214000][A Klasse 2025-29 Seekirchen]]
 
 *** 1b (1. OG) 10:40-11:30                                          :1b:sk:
