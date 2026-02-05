@@ -134,8 +134,11 @@ Kostüm besorgen / bei welcher Station kann ich mitmachen? Liste!
 
 ** Follow Up
 
-*** TODO Follow up with GitHub on [[mu4e:msgid:6983ba12e2365_dd113087571@sharedworker-86b9d8f5dd-qrswq.mail][[GitHub] Your personal access token (classic) is about to expire]]
-SCHEDULED:<2026-02-05 Do>
+*** DONE Follow up with GitHub on [[mu4e:msgid:6983ba12e2365_dd113087571@sharedworker-86b9d8f5dd-qrswq.mail][[GitHub] Your personal access token (classic) is about to expire]]
+CLOSED: [2026-02-05 Do 12:51] SCHEDULED:<2026-02-05 Do>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-02-05 Do 12:51]
+:END:
 DEADLINE: <2026-02-07 Sa>
 
 
