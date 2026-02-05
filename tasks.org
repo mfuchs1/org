@@ -82,6 +82,15 @@ CLOSED: [2026-01-02 Fr 16:10]
 
 Lernstoff  und gehaltene Stunden eintragen.
 
+** TODO Faschingskostüm MS Mattsee                                   :schule:
+DEADLINE: <2026-02-17 Di 07:45>
+:PROPERTIES:
+:CAPTURED: [2026-01-29 Do 15:27]
+:CUSTOM_ID: h:20260129T152744
+:END:
+[[file:~/Documents/notes/20260129T143134--notenkonferenz-ms-mattsee__schule.org::*Allfälliges][Allfälliges]]
+
+Kostüm besorgen / bei welcher Station kann ich mitmachen? Liste!
 
 * Wishlist
 :PROPERTIES:
@@ -124,6 +133,11 @@ Lernstoff  und gehaltene Stunden eintragen.
 * Mail Workflow
 
 ** Follow Up
+
+*** TODO Follow up with GitHub on [[mu4e:msgid:6983ba12e2365_dd113087571@sharedworker-86b9d8f5dd-qrswq.mail][[GitHub] Your personal access token (classic) is about to expire]]
+SCHEDULED:<2026-02-05 Do>
+DEADLINE: <2026-02-07 Sa>
+
 
 
 ** Read Later

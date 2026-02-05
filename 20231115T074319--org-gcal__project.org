@@ -700,11 +700,15 @@
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3537627025211134"
+:ETag:     "3538312980665566"
 :entry-id: guh3bldtrnj26pf928tmsl75dk/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2026-01-23 Fr 09:45-10:35>
+
+Wochenplan bzgl Prozentrechnung;
+
+Wer damit fertig ist, kann das "Leiterspiel" im Nebenraum spielen.
 :END:
 
 
@@ -722,7 +726,7 @@
 
 * Gabriel Firmvorbereitung
 :PROPERTIES:
-:ETag:     "3537628284354654"
+:ETag:     "3537629775227870"
 :LOCATION: HOME BASE Salzburg, Bärengässchen 8, 5020 Salzburg, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: c4sm4c31ckp6cbb16sojgb9kccomcbb164s3eb9ncdi3io9o74s36dj268/matthiasfuchs01@gmail.com
@@ -730,6 +734,41 @@
 :END:
 :org-gcal:
 <2026-01-23 Fr 18:00-19:30>
+
+30 Euro mitnehmen für Snacks, Fotografen, ... Gabriel sollte mit dem Bus hinfahren bzw ich könnte mit ihm hinfahren...
+:END:
+
+* Supplierstunde 3a PH
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3537956034574910"
+:entry-id: 6vgdjtjhb1ndu2mqtkq60athqc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-21 Mi 12:30-13:20>
+:END:
+
+* Stadtbibliothek Bücher zurückgeben
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3538129379675646"
+:entry-id: ilevhquqd5jhmv1jtsjahsk7bc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-28 Mi 15:00-19:00>
+:END:
+
+* Stadtausflug mit Kinder (Stadtbib.?)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3538129615514942"
+:entry-id: l4qb6tmlbeh1a8j9b4djt879cc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-24 Sa 10:00-15:00>
 :END:
 
 * Gabriel Firmvorbereitung
@@ -743,3 +782,137 @@
 :org-gcal:
 <2026-02-20 Fr 18:00-19:30>
 :END:
+
+* Supplierstunde 2c BU
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3539009628563870"
+:entry-id: dm04m2n1pve4qgcac9um0co124/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-29 Do 08:40-09:30>
+
+Hallo Matthias!
+ 
+Danke dafür, dass du in der 2c BuB am Donnerstag supplierst!
+ 
+Du kannst alles machen, was du willst. Aber meinen Vorschlag:
+ 
+Bio Buch S. 10 + 11 lesen lassen - wichtige Info/Begriffe unterstreichen
+Bio Arbeitsheft S. 5 / 1
+ 
+Danach Check Tobi anschauen (24 min) - über das Gehirn.
+
+Liebe Grüße,
+
+Andrew
+ 
+https://youtu.be/3t35dISKHhY?si=Y8dguthALFN030vi
+
+:END:
+
+* MS Mattsee Notenkonferenz
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3539009753041758"
+:entry-id: qnoppfm59qi4vl2gd46t36jf64/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-29 Do 14:30-16:00>
+:END:
+
+* SMS Seekirchen Notenkonferenz
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3539009970136094"
+:entry-id: m1v5k39aru69btvldmlr0ifeto/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-02-02 Mo 14:00-16:30>
+:END:
+
+* Supplierstunde 3 E (Standard)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3540220351961022"
+:entry-id: uvqgs7aiv5sevcsq750ejumla8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-02-03 Di 10:45-11:35>
+
+Bitte restliche Schularbeiten absammeln! Verbesserung checke ich am Mittwoch.  
+
+HW: Words Unit 6 checken.  
+
+Wer hats nicht? ________________________________________ 
+
+SBp 53 Lesen und True or False Aufgabe machen  
+
+SBP. 54/ 11 Partnerlesen + ex.12 lösen  
+
+Speaking: Sus sollen nochmal wiederholen welchen Ort sie gerne besuchen würden  ( I would like to see….because…… 
+
+Vokabelkönig mit Unit 6 Wörtern  
+
+ HÜ: Workbook page 52  
+:END:
+
+* Supplierstunde 2a BU
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3539167852327870"
+:entry-id: 92kjm99a9tq4dog0au9ie0qjfo/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-28 Mi 11:40-12:30>
+:END:
+
+* Supplierstunde 1d BU
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3539167920478238"
+:entry-id: n1qo2e5v2qsmu7jb1l3c23rke8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-28 Mi 12:30-13:20>
+:END:
+
+* Leopold bei Omi und Opa abholen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3539168024603454"
+:entry-id: eggart5ceb56u24d1fl9m21o6g/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-28 Mi 14:00-15:00>
+:END:
+
+* Supplierstunde 3b M (alleine)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3539168237453374"
+:entry-id: q3aoeat5lha1e7da62jpls8rm8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-30 Fr 07:45-08:35>
+:END:
+
+* Supplierstunde 1d M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3539168320930334"
+:entry-id: 6rrbnjjl4b7p2lehalgi9ug9v8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-01-30 Fr 08:40-09:30>
+:END:
+
