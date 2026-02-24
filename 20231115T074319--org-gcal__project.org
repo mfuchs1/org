@@ -861,6 +861,17 @@ Vokabelkönig mit Unit 6 Wörtern
  HÜ: Workbook page 52  
 :END:
 
+* Leopold Geburtstagsfeier im Zoo
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3541949232898942"
+:entry-id: kh4kbb122s39r46fga0llc32js/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-02-14 Sa 13:00-14:30>
+:END:
+
 * Supplierstunde 2a BU
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
