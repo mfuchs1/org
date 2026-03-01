@@ -872,6 +872,17 @@ Vokabelkönig mit Unit 6 Wörtern
 <2026-02-14 Sa 13:00-14:30>
 :END:
 
+* Testeintrag
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3544647270465214"
+:entry-id: caukv71erk9ac0php1ckgj0to4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-03-01 So 01:07-01:37>
+:END:
+
 * Supplierstunde 2a BU
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
