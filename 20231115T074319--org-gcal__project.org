@@ -611,3 +611,25 @@ Vokabelkönig mit Unit 6 Wörtern
 <2026-03-04 Mi 12:30-13:20>
 :END:
 
+* Supplierstunde 3d KG
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3547632166438014"
+:entry-id: qjda3kstpv75v7ep4o1ql6h1e0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-03-18 Mi 11:40-12:30>
+:END:
+
+* Konferenz Seekirchen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3547632045971518"
+:entry-id: qe83c45c19jlj86njdjtbh4kos/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-03-18 Mi 16:00-17:30>
+:END:
+
