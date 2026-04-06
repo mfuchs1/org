@@ -622,6 +622,50 @@ Vokabelkönig mit Unit 6 Wörtern
 <2026-03-18 Mi 11:40-12:30>
 :END:
 
+* Radfahren - Sport
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3548174739940222"
+:entry-id: oqj5c3kn9ufb4rshtsuo87gi58/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-03-21 Sa 16:30-17:30>
+:END:
+
+* Hl. Messe - Dom
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3548174814907102"
+:entry-id: 5bf2o5up7clcolqc01ku554ehc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-03-22 So 18:00-19:00>
+:END:
+
+* Einkaufen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3548175006289886"
+:entry-id: na2t0nh5jceibu96jh72edup8k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-03-21 Sa 15:00-16:00>
+:END:
+
+* Ausflug Wolfgangsee + Restaurant
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3550983198390718"
+:entry-id: hm402vap1f54tukpbi35f3bnq4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-04-06 Mo 10:00-15:30>
+:END:
+
 * Konferenz Seekirchen
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
