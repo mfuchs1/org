@@ -666,6 +666,19 @@ Vokabelkönig mit Unit 6 Wörtern
 <2026-04-06 Mo 10:00-15:30>
 :END:
 
+* Supplierstunde 1a MU
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3551257421414622"
+:entry-id: o33hgiuq60vob825sopqv4rq4o/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-04-08 Mi 12:30-13:20>
+
+Musikinstrumente ABC
+:END:
+
 * Konferenz Seekirchen
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
