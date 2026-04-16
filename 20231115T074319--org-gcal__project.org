@@ -670,13 +670,24 @@ Vokabelkönig mit Unit 6 Wörtern
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3551257421414622"
+:ETag:     "3551263470454846"
 :entry-id: o33hgiuq60vob825sopqv4rq4o/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2026-04-08 Mi 12:30-13:20>
 
 Musikinstrumente ABC
+:END:
+
+* Elternsprechtag SMS Seekirchen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3551267369660126"
+:entry-id: lp2aevn2oatm1nf1c5bs3ijen0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-04-09 Do 16:30-19:00>
 :END:
 
 * Konferenz Seekirchen
