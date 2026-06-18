@@ -111,6 +111,16 @@ Wahrscheinlich "Zeit für Religion"
 Bibeln?
 Neues Testament?
 
+** DONE Jakob und Marcel Brief an Eltern                            :schule:
+CLOSED: [2026-06-15 Mo 08:22] SCHEDULED: <2026-06-10 Mi 18:00>
+:PROPERTIES:
+:CAPTURED: [2026-06-10 Mi 10:55]
+:CUSTOM_ID: h:20260610T105553
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-06-15 Mo 08:22]
+:END:
+[[denote:20250908T081215][D Klasse 2023-27 Seekirchen]]
 
 
 * Wishlist

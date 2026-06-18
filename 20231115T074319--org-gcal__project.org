@@ -6,274 +6,11 @@
 #+STARTUP: fnadjust
 #+STARTUP: showall
 
-* Philosophieren und Theologisieren mit Kindern (ES4F512 FB)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3549455847431774"
-:entry-id: 936cj7usv6nh3261dc7d8v30d0/matthiasfuchs01@gmail.com
-:LOCATION: Bildungszentrum Borromäum, Gaisbergstraße 7, 5020 Salzburg, Österreich
-:END:
-:org-gcal:
-<2026-04-29 Mi 15:00-18:15>
-:END:
-
 * Einkaufen + Gabriel abholen
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
 :END:
-
-* Osterferien
-:PROPERTIES:
-:ETag:     "3536982168605854"
-:TRANSPARENCY: transparent
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 61ijaeb5cdim6b9k61hmcb9k75h38b9p6gs30b9jcpgj0cb369i3aob66k/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-03-28 Sa>--<2026-04-06 Mo>
-:END:
-
-* Firmvorbereitung Gabriel
-:PROPERTIES:
-:ETag:     "3537628866631134"
-:LOCATION: HOME BASE Salzburg, Bärengässchen 8, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 75j3echj6dh64b9o6cs32b9k6gr32b9p71h3ib9g68qmaoj6cdh38c9lc4/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-17 Fr 18:00-19:30>
-:END:
-
-* Firmlingstag
-:PROPERTIES:
-:ETag:     "3554028597203646"
-:LOCATION: Bürgerspitalkirche St. Blasius, Bürgerspitalgasse 2, 5020 Salzburg, Österreich
-:TRANSPARENCY: transparent
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: cphm2oj4cgo38b9g6osjgb9kc5gj6b9p6dgmabb465hj6or370o6ad1m60/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-26 So 10:00-21:00>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260327T153000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-03-27 Fr 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3540570285892766"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260331T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-03-31 Di 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3540570285892766"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260403T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-03 Fr 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260407T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-07 Di 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260410T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-10 Fr 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260414T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-14 Di 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882853354302"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260417T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-17 Fr 16:30-18:30>
-
-Vereinsmeisterschaft
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260421T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-21 Di 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260424T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-24 Fr 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260428T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-28 Di 16:30-17:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3550412087113310"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260327T140000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-03-27 Fr 15:00-15:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3540570292586718"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260403T130000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-03 Fr 15:00-15:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3550412087113310"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260410T130000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-10 Fr 15:00-15:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3550412087113310"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260417T130000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-17 Fr 15:00-15:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3550412087113310"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260424T130000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-24 Fr 15:00-15:30>
-:END:
-
-* Ausflug Wolfgangsee + Restaurant
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3550983198390718"
-:entry-id: hm402vap1f54tukpbi35f3bnq4/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-04-06 Mo 10:00-15:30>
-:END:
-
-* Supplierstunde 1a MU
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3551263470454846"
-:entry-id: o33hgiuq60vob825sopqv4rq4o/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-04-08 Mi 12:30-13:20>
-
-Musikinstrumente ABC
-:END:
-
-* Elternsprechtag SMS Seekirchen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3551329783370334"
-:entry-id: lp2aevn2oatm1nf1c5bs3ijen0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-04-09 Do 16:30-19:00>
-:END:
-
-* Konferenz Seekirchen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3553887401823870"
-:entry-id: s8gtf564jh3aa9l52j26qu0qr4/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-04-23 Do 16:00-18:30>
-:END:
-
 
 * Herzlichen Glückwunsch zum Geburtstag!
 :PROPERTIES:
@@ -287,33 +24,9 @@ Musikinstrumente ABC
 <2026-05-28 Do>
 :END:
 
-* Geburtstag von Matthias
-:PROPERTIES:
-:ETag:     "3524483661943998"
-:TRANSPARENCY: transparent
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 69j64c9pccoj6b9icco3ib9k68o36b9oc4q30b9iccom6db4cgs30dhmck_20260528/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-28 Do>
-:END:
-
-* Firmvorbereitung Gabriel
-:PROPERTIES:
-:ETag:     "3537629093861854"
-:LOCATION: Bürgerspitalkirche St. Blasius, Bürgerspitalgasse 2, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: cpim8cb2cdj66b9gcgp32b9kcgsm6b9oc4qm6b9o61i3cchpc8r6ac9m70/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-08 Fr 18:00-19:30>
-:END:
-
 * FIRMUNG Gabriel
 :PROPERTIES:
-:ETag:     "3537629240810366"
+:ETag:     "3558323235340926"
 :LOCATION: Bürgerspitalkirche St. Blasius, Bürgerspitalgasse 2, 5020 Salzburg, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: ccqj6cppckr30b9h74o3ab9k6pij0bb1clhj2bb5ckpjioj36ssmcor16k/matthiasfuchs01@gmail.com
@@ -323,54 +36,9 @@ Musikinstrumente ABC
 <2026-05-31 So 10:00-12:00>
 :END:
 
-* Gottesdienst vom Leiden und Sterben Christi
-:PROPERTIES:
-:ETag:     "3550411853820094"
-:LOCATION: Grodig, Pfarrkirche
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 64sm2dpgcoo6cb9iccr66b9k60r3abb2c9hm8bb5c9imcdph68r66dhj6o/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-03 Fr 15:00-16:00>
-:END:
-
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3550412087113310"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260501T130000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-01 Fr 15:00-15:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3550412087113310"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260508T130000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-08 Fr 15:00-15:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3550412087113310"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260515T130000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-15 Fr 15:00-15:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3550412087113310"
+:ETag:     "3562318031531454"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260522T130000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -381,18 +49,7 @@ Musikinstrumente ABC
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3550412087113310"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260529T130000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-29 Fr 15:00-15:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3550412087113310"
+:ETag:     "3562318031531454"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260605T130000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -403,18 +60,7 @@ Musikinstrumente ABC
 
 * Klavierunterricht Leopold
 :PROPERTIES:
-:ETag:     "3550412087113310"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260612T130000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-06-12 Fr 15:00-15:30>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3550412087113310"
+:ETag:     "3562318031531454"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260619T130000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -423,99 +69,9 @@ Musikinstrumente ABC
 <2026-06-19 Fr 15:00-15:30>
 :END:
 
-* Osternacht - Hochfest der Auferstehung unseren Herrn Jesus Christus
-:PROPERTIES:
-:ETag:     "3550412401689278"
-:LOCATION: Dom zu Salzburg, Domplatz 1a, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: c5im2d9lcksj8b9h70rj2b9kc9hmcb9p6dh3eb9i6go68e316phmcd9m60/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-04 Sa 21:00-22:30>
-:END:
-
-* Pontifikalamt - Hochfest der Auferstehung unseres Herrn Jesus Christus
-:PROPERTIES:
-:ETag:     "3550412527368094"
-:LOCATION: Dom zu Salzburg, Domplatz 1a, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 68smcpho6dim8bb469j30b9kccs62bb2c9hj8bb16gqj6cpo65h34e1ncc/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-05 So 10:00-11:30>
-:END:
-
-* Beichte Franziskaner
-:PROPERTIES:
-:ETag:     "3550412708205374"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 6pj66o9g6lj66bb26sr38b9kckrj2bb1ckp68bb3c5h38opj68qj6e3568/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-04-04 Sa 08:00-09:30>
-:END:
-
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260501T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-01 Fr 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260505T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-05 Di 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260508T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-08 Fr 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260512T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-12 Di 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260515T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-05-15 Fr 16:30-17:30>
-:END:
-
-* Karate Leopold
-:PROPERTIES:
-:ETag:     "3552882811384606"
+:ETag:     "3557646154238430"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260519T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -526,7 +82,7 @@ Musikinstrumente ABC
 
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3552882811384606"
+:ETag:     "3557646154238430"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260522T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -537,7 +93,7 @@ Musikinstrumente ABC
 
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3552882811384606"
+:ETag:     "3557646154238430"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260526T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -548,7 +104,7 @@ Musikinstrumente ABC
 
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3552882811384606"
+:ETag:     "3557646154238430"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260529T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -559,7 +115,7 @@ Musikinstrumente ABC
 
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3552882811384606"
+:ETag:     "3557646154238430"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260602T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -570,7 +126,7 @@ Musikinstrumente ABC
 
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3552882811384606"
+:ETag:     "3557646154238430"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260605T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -581,7 +137,7 @@ Musikinstrumente ABC
 
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3552882811384606"
+:ETag:     "3557646154238430"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260609T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -592,7 +148,7 @@ Musikinstrumente ABC
 
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3552882811384606"
+:ETag:     "3557646154238430"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260612T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -603,7 +159,7 @@ Musikinstrumente ABC
 
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3552882811384606"
+:ETag:     "3557646154238430"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260616T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -614,7 +170,7 @@ Musikinstrumente ABC
 
 * Karate Leopold
 :PROPERTIES:
-:ETag:     "3552882811384606"
+:ETag:     "3557646154238430"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260619T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -623,88 +179,669 @@ Musikinstrumente ABC
 <2026-06-19 Fr 16:30-17:30>
 :END:
 
-* Stay at Hilton Vienna Waterfront
+* Karate Leopold
 :PROPERTIES:
-:ETag:     "3553942040881406"
-:LOCATION: Hilton Vienna Waterfront, Wien
-:ROAM_REFS: https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMxo8O3Jx_DZIQ-7DhVAOLz62WD95snTWs
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260623T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-06-23 Di 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260626T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-06-26 Fr 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260630T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-06-30 Di 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260703T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-03 Fr 16:30-17:30>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3562318031531454"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260626T130000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-06-26 Fr 15:00-15:30>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3562318031531454"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260703T130000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-03 Fr 15:00-15:30>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3562318031531454"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260529T130000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-05-29 Fr 15:00-15:30>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3562318031531454"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260710T130000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-10 Fr 15:00-15:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260707T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-07 Di 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260710T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-10 Fr 16:30-17:30>
+:END:
+
+* Supplierstunde 3abc M (BE)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3559560688848446"
+:entry-id: rlgepgblj95m52hd19fv13jnu8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-26 Di 09:35-10:25>
+:END:
+
+* Restaurant Nagano Tisch reservieren
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3559561152511230"
+:entry-id: uak3o4bk83opnf353ifhah63hg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-26 Di 11:40-12:10>
+:END:
+
+* Telefont mit Frau Einberger
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3559901443245726"
+:entry-id: ktp123jj0umf7hu5ivckob8iv8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-29 Fr 15:00-15:30>
+:END:
+
+* Restaurant East Salzburg
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3559901545897822"
+:entry-id: 3pne1htrl1nsse7045hi212p3k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-31 So 12:00-13:30>
+:END:
+
+* Supplierstunde 2c KG
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3560065721555486"
+:entry-id: 2j3tsa8fm72cbaj391ba6gfl0c/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-29 Fr 12:30-13:20>
+:END:
+
+* Supplierstunde 3b BSP
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3558063614112030"
+:entry-id: p7g762cp4ll3jcmsr7lq7corao/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-22 Fr 10:40-11:30>
+:END:
+
+* Gottesdienst Franziskaner
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3558063934911742"
+:entry-id: 5sdfcpeuqgamj149sklses1ieo/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-17 So 19:00-20:00>
+:END:
+
+* Supplierstunde 3d BU
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3558185163200062"
+:entry-id: n28qc5hg5vlg4mgo5464oj8o64/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-18 Mo 12:30-13:20>
+:END:
+
+* Konferenz Seekirchen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3558213641428798"
+:entry-id: mqfhi93trs7adf5bbtuqbt4qao/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-18 Mo 16:00-18:30>
+:END:
+
+* Supplierstunde 3abc D (BE)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3559483114878142"
+:entry-id: 2qhvfbniokgen81ofsbd3j87sk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-28 Do 07:45-08:35>
+:END:
+
+* Supplierstunde 3b KUG (3b)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3558689590538110"
+:entry-id: l1kka2fpvvhotm0do37egtau7g/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-26 Di 12:35-13:25>
+:END:
+
+
+* Gottesdienst Franziskaner
+:PROPERTIES:
+:ETag:     "3558063827397470"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 7e8k57lt93qmc4gm5vcvm64dp8/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-05-17 So 19:00-20:00>
+:END:
+
+* Leopold abholen GH Schorn
+:PROPERTIES:
+:ETag:     "3558688164118526"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 70q36dhm6pj32b9o6tgjcb9k6soj8b9pc4o36b9ncco3cc366lhj8c3570/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-05-21 Do 16:30-17:30>
+:END:
+
+* Isabelle hat Geburtstag
+:PROPERTIES:
+:ETag:     "3558731360774270"
 :TRANSPARENCY: transparent
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: m17mf596t0tnd6e3lo3fe21tag/matthiasfuchs01@gmail.com
+:entry-id: osoe6vljeughhulcvudojgpb4k_20260525/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
-<2026-04-30 Do>--<2026-05-02 Sa>
-
-Wenn Sie detaillierte Informationen zu automatisch erstellten Terminen wie diesem sehen möchten, nutzen Sie die offizielle Google Kalender-App. https://g.co/calendar
-
-Dieser Termin wurde aus einer E-Mail erstellt, die Sie in Gmail erhalten haben. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMxo8O3Jx_DZIQ-7DhVAOLz62WD95snTWs
+<2026-05-25 Mo>
 :END:
 
-* Firmvorbereitung Gabriel
+* Gespräch mit Frau Pöschl (Mutter von Andreas 3d)
 :PROPERTIES:
-:ETag:     "3554028546413694"
-:LOCATION: Bürgerspitalkirche St. Blasius, Bürgerspitalgasse 2, 5020 Salzburg, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 74qmcd9i6pgmcbb56kp68b9kc8rjeb9pcgpj4bb6cco62opi6ti3ge1lck/matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3558857138041982"
+:entry-id: 2dmnv516l5cgv2446gh0e1tso4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-05-22 Fr 08:35-09:25>
+:END:
+
+
+* Abendessen mit Isabelle
+:PROPERTIES:
+:ETag:     "3559539177529566"
+:LOCATION: NAGANO, Griesgasse 19A, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6soj6oj56gs68b9p6cpjgb9k60rmab9p6krm6b9j60s62php60oj8p1m60/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
-<2026-04-24 Fr 18:00-19:30>
+<2026-05-26 Di 19:00-20:00>
 :END:
 
-* Friseur Altenburger
+* Gabriel Firmprobe (St. Blasius)
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3554028898348094"
-:entry-id: 26tgc0qh574cs4k7abkhhvr7no/matthiasfuchs01@gmail.com
+:ETag:     "3560065859124830"
+:entry-id: s41jqrnt8j49vfgq4dq46ccot0/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2026-04-25 Sa 10:00-11:00>
+<2026-05-29 Fr 19:00-20:00>
 :END:
 
-* Geburststag Aurora (Leopold eingeladen)
+* Supplierstunde 2b M
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3554029005731806"
-:entry-id: 45t0r9r6etf8lni6k5pnj4j0us/matthiasfuchs01@gmail.com
+:ETag:     "3560774928295422"
+:entry-id: ifmfq3vd6aj1qcai2gv01m5pn0/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2026-04-25 Sa 14:00-16:30>
+<2026-06-03 Mi 08:35-09:25>
 :END:
 
-* Gottesdienst Franziskanerkirche
+* Supplierstunde 1c TD
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3554431426109566"
-:entry-id: mna957o2fc61go860rhcstd37s/matthiasfuchs01@gmail.com
+:ETag:     "3560935065145822"
+:entry-id: 4cpnravji6ojguko82foa1g974/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2026-04-26 So 10:30-11:30>
+<2026-06-03 Mi 09:45-10:35>
+
+Boomerang fertig stellen
+Buchstaben ausschneiden
 :END:
 
-* Eisessen mit Leopold und Gabriel abholen
+* Supplierstunde 1c KG
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3554431518474142"
-:entry-id: u65in3ba9ue8vnm6bgfa0tt414/matthiasfuchs01@gmail.com
+:ETag:     "3561808627434750"
+:entry-id: qd82o27q8fli4hp9t184nfa9rs/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2026-04-26 So 19:00-21:00>
+<2026-06-08 Mo 11:40-12:30>
 :END:
 
-* Supplierstunde 4b PH
+* Klavierunterricht Leopold
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3554728499428574"
-:entry-id: gsim9ppq3th1ejchemvjm4cuc0/matthiasfuchs01@gmail.com
+:ETag:     "3562149028871646"
+:entry-id: 9qfbggjle8bp69ktb1t7uvr1ks/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2026-04-30 Do 12:35-13:25>
+<2026-06-10 Mi 16:30-17:00>
 :END:
 
+* TODO Geld für Klavierunterricht abheben
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3562149220679358"
+:entry-id: 3h6t2v8pcivc2edb77iriskaag/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-06-10 Mi 16:00-16:30>
+
+30 Euro plus 10 Euro
+:END:
+
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260714T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-14 Di 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260717T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-17 Fr 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260721T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-21 Di 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260724T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-24 Fr 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260728T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-28 Di 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260731T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-31 Fr 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260804T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-08-04 Di 16:30-17:30>
+:END:
+
+* Karate Leopold
+:PROPERTIES:
+:ETag:     "3557646154238430"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 4v8kkid7bu60u9qgb94qiiiu17_20260807T143000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-08-07 Fr 16:30-17:30>
+:END:
+
+* Melanie Jobke hat Geburtstag
+:PROPERTIES:
+:ETag:     "3558731408997534"
+:TRANSPARENCY: transparent
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: r96m8q18fi7fg2624vg244dhqo_20260803/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-08-03 Mo>
+:END:
+
+* Besuch des Herrn Pfarrers Mattsee (1b, 1c, 2a, 2c)
+:PROPERTIES:
+:ETag:     "3559577774307774"
+:TRANSPARENCY: transparent
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: chijcdhn75hm2b9j64rm6b9k6gr64bb1cgr66b9kcphjicr6cor34oj66k/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-06-16 Di>
+
+Im Vorfeld Fragen notieren, die die Schüler gerne dem Pfarrer stellen möchten.
+:END:
+
+* Supplierstunde 1c MU
+:PROPERTIES:
+:ETag:     "3559749192663774"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: c8rj2c35cphjcbb4cpi62b9kc8rm8bb275j6cb9l68r30cr26crjie1lc8/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-05-27 Mi 12:30-13:20>
+:END:
+
+* 35 jähriges Maturatreffen
+:PROPERTIES:
+:ETag:     "3560691505527070"
+:LOCATION: Solide Alm, Weichenbergstraße 1, 5161 Elixhausen, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6cqjedb26tj66bb66cqm6b9k6ssjcbb16tijabb464ojicpl6tim6e9oco/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-06-19 Fr 19:00-21:00>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3562318031531454"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260717T130000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-17 Fr 15:00-15:30>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3562318031531454"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260724T130000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-24 Fr 15:00-15:30>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3562318031531454"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260731T130000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-07-31 Fr 15:00-15:30>
+:END:
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3562318031531454"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260807T130000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-08-07 Fr 15:00-15:30>
+:END:
+
+* Supplierstunde 2ai M (mit A. Weingerl)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3562318231302590"
+:entry-id: 93qe304coiihtf421ttv6addk0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-06-12 Fr 08:35-09:25>
+:END:
+
+* Supplierstunde 1c R
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3562907213260350"
+:entry-id: 62c9peg746m0tdr2c6h5nqnmk0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-06-15 Mo 07:45-08:35>
+:END:
+
+* Supplierstunde 2a GW
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3562907292851646"
+:entry-id: nh55e5hgd0kvtsnj9v7qc2m88g/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-06-15 Mo 08:35-09:25>
+:END:
+
+* Supplierstunde 2c R
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3562907362656638"
+:entry-id: np97e05dvgd3qfqjajhrt06234/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-06-15 Mo 09:45-10:35>
+:END:
+
+* Supplierstunde 3c R
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3562907436655646"
+:entry-id: 03jd5c6ls692d6p9tqtp44k3r0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-06-15 Mo 10:40-11:30>
+:END:
+
+* Supplierstunde 4b BSP
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3563181135760766"
+:entry-id: agcio7tbsobbt7vm5m2q65uunc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-06-17 Mi 10:40-11:30>
+
+Volleyball / WebUntis nachschauen
+:END:
+
+* Supplierstunde 3d M (mit Thomas G.)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3563181701163358"
+:entry-id: 88pi476jf72itrg3l8m1ljcoek/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-06-19 Fr 09:45-10:35>
+:END:
+
+* Supplierstunde 2 M (2b)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3563180721107678"
+:entry-id: h9t9o4qktuar6dkq8ceip1mgd0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-06-18 Do 07:45-08:35>
+:END:
+
+* Supplierstunde 3d MU
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3563181964448158"
+:entry-id: igfvrbkmb4taa4gp7koeg427g4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-06-19 Fr 11:40-12:30>
+:END:
+
+
+* Klavierunterricht Leopold
+:PROPERTIES:
+:ETag:     "3562318031531454"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: ckq3iob6c4sjib9m6pi6ab9k71h66bb26kom8b9k6cpm2e1o70qjidj16g_20260814T130000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-08-14 Fr 15:00-15:30>
+:END:
+
+* Melanie Abendessen
+:PROPERTIES:
+:ETag:     "3562537889986302"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6hgjgopk60p32bb5cdh6ab9k6gpm2b9ocoom6b9l6hj3aphn6gsjccj56k/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-06-23 Di 17:30-19:00>
+:END:
