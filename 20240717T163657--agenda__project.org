@@ -14,6 +14,110 @@
 
 Mir fehlen noch die Zugangsdaten zu Teams, Webunti, Email, SchoolFox; 
 
+
+* Tagesablauf Ferien 2026
+:PROPERTIES:
+:CATEGORY: home
+:END:
+
+** Aufstehen 06:30-07:00
+<%%(memq (calendar-day-of-week date) '(0 1 2 3 4 5 6))>
+
+** Frühstück 07:00-07:30
+<%%(memq (calendar-day-of-week date) '(0 1 2 3 4 5 6))>
+
+** Sport (mit Kindern) 09:00-10:30
+SCHEDULED: <2026-09-15 Di .+1d>
+:PROPERTIES:
+:LAST_REPEAT: [2026-09-14 Mo 13:53]
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2026-09-14 Mo 13:53]
+- State "DONE"       from              [2026-09-07 Mo 22:55]
+- State "DONE"       from              [2026-09-02 Mi 14:21]
+- State "DONE"       from              [2026-08-25 Di 16:56]
+- State "DONE"       from              [2026-08-23 So 20:55]
+- State "DONE"       from              [2026-08-20 Do 11:32]
+- State "DONE"       from              [2026-08-07 Fr 10:11]
+- State "DONE"       from              [2026-08-04 Di 20:46]
+- State "DONE"       from              [2026-08-03 Mo 12:26]
+- State "DONE"       from              [2026-08-02 So 23:21]
+- State "DONE"       from              [2026-07-27 Mo 15:41]
+- State "DONE"       from              [2026-07-26 So 01:24]
+- State "DONE"       from              [2026-07-24 Fr 14:53]
+:END:
+
+
+** DONE Testeintrag
+CLOSED: [2026-08-20 Do 11:32] SCHEDULED: <2026-08-07 Fr 11:30>
+:LOGBOOK:
+- State "DONE"       from              [2026-08-20 Do 11:32]
+:END:
+
+** Mittagessen 12:00-13:00
+<%%(memq (calendar-day-of-week date) '(0 1 2 3 4 5 6))>
+
+** Sport (alleine) 14:30-16:00
+SCHEDULED: <2026-09-15 Di .+1d>
+:PROPERTIES:
+:LAST_REPEAT: [2026-09-14 Mo 13:53]
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2026-09-14 Mo 13:53]
+- State "DONE"       from              [2026-09-07 Mo 22:55]
+- State "DONE"       from              [2026-09-02 Mi 14:21]
+- State "DONE"       from              [2026-08-25 Di 16:56]
+- State "DONE"       from              [2026-08-23 So 20:55]
+- State "DONE"       from              [2026-08-20 Do 11:32]
+- State "DONE"       from              [2026-08-07 Fr 10:11]
+- State "DONE"       from              [2026-08-04 Di 20:45]
+- State "DONE"       from              [2026-08-02 So 23:21]
+- State "DONE"       from              [2026-07-27 Mo 15:41]
+- State "DONE"       from              [2026-07-26 So 01:24]
+:END:
+    
+** Bibel lesen (Podcast) 16:30-17:00
+SCHEDULED: <2026-09-15 Di .+1d>
+:PROPERTIES:
+:LAST_REPEAT: [2026-09-14 Mo 13:53]
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2026-09-14 Mo 13:53]
+- State "DONE"       from              [2026-09-07 Mo 22:55]
+- State "DONE"       from              [2026-09-02 Mi 14:21]
+- State "DONE"       from              [2026-08-25 Di 16:57]
+- State "DONE"       from              [2026-08-23 So 20:55]
+- State "DONE"       from              [2026-08-20 Do 11:32]
+- State "DONE"       from              [2026-08-07 Fr 10:11]
+- State "DONE"       from              [2026-08-04 Di 20:45]
+- State "DONE"       from              [2026-08-02 So 23:21]
+- State "DONE"       from              [2026-07-26 So 01:24]
+:END:
+
+** Abendessen 19:00-19:30
+<%%(memq (calendar-day-of-week date) '(0 1 2 3 4 5 6))>
+
+** Beten / Lesen 20:00-21:00
+SCHEDULED: <2026-09-15 Di .+1d>
+:PROPERTIES:
+:LAST_REPEAT: [2026-09-14 Mo 13:54]
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2026-09-14 Mo 13:54]
+- State "DONE"       from              [2026-09-07 Mo 22:55]
+- State "DONE"       from              [2026-09-02 Mi 14:22]
+- State "DONE"       from              [2026-08-25 Di 16:57]
+- State "DONE"       from              [2026-08-23 So 20:55]
+- State "DONE"       from              [2026-08-20 Do 11:32]
+- State "DONE"       from              [2026-08-07 Fr 10:11]
+- State "DONE"       from              [2026-08-04 Di 20:45]
+- State "DONE"       from              [2026-08-02 So 23:21]
+- State "DONE"       from              [2026-07-26 So 01:24]
+:END:
+
+
+
+
 * Pausenaufsicht
 :PROPERTIES:
 :CATEGORY: pause
@@ -24,153 +128,118 @@ Worauf ist zu achten?
 ** Montag (Seekirchen)
 
 *** Garderobe 07:30-07:45                                              :sk:
-<%%(org-class 2025 9 8 2026 7 6 1 22)>
+<%%(org-class 2025 9 8 2026 7 6 1 28)>
 
 *** Garderobe 11:30-11:40                                              :sk:
-<%%(org-class 2025 9 8 2026 7 6 1 22)>
+<%%(org-class 2025 9 8 2026 7 6 1 28)>
 
 ** Dienstag (Mattsee)
 
 *** 1. OG 07:30-07:45                                                  :ms:
-<%%(org-class 2025 9 9 2026 7 7 2 14)>
+<%%(org-class 2025 9 9 2026 7 7 2 28)>
 
 
 ** Mittwoch (Seekirchen)
 
 *** 1. OG NB 09:25-09:45
-<%%(org-class 2025 9 10 2026 7 8 3 14)>
+<%%(org-class 2025 9 10 2026 7 8 3 28)>
 
 * Stundenplan                                                  
 
-** Montag (MS Seekirchen)
-:PROPERTIES:
-:CATEGORY: seekirchen
-:END:
+** Montag
+Hier der neue Stundenplan in Mattsee
 
 *** 3b (1. OG AB) 07:45-08:35                                       :3b:sk:
-:PROPERTIES:
-:CUSTOM_ID: h:79e7082f-c4b2-47d0-9506-6bde40e15f69
-:END:
-<%%(org-class 2025 9 8 2026 7 6 1 25)>
-[[denote:20240908T214359][B Klasse 2023-27 Seekirchen]]
+<%%(org-class 2026 9 14 2027 7 5 1)>
 
-*** 1a (1. OB NB) 08:35-09:25                                       :1a:sk:
-<%%(org-class 2025 9 8 2026 7 6 1 25)>
-[[denote:20240908T214000][A Klasse 2025-29 Seekirchen]]
+*** 1a (1. OB NB) 08:40-09:30                                       :1a:sk:
+<%%(org-class 2026 9 14 2027 7 5 1)>
+
+*** 2a 09:45-10:35
+<%%(org-class 2026 9 14 2027 7 5 1)>
 
 *** 1d (2. OG NB) 10:40-11:30                                       :1d:sk:
-:PROPERTIES:
-:CUSTOM_ID: h:8608e26f-9bf9-4794-967d-c77e01ba5036
-:END:
-<%%(org-class 2025 9 8 2026 7 6 1 25)>
-[[denote:20250908T080546][D Klasse 2025-29 Seekirchen]]
+<%%(org-class 2026 9 14 2027 7 5 1)>
 
 *** 4b (2. OG AB) 11:40-12:30                                       :4b:sk:
-:PROPERTIES:
-:CUSTOM_ID: h:050ab493-78d8-44f8-8ad2-55d080054b5e
-:END:
-<%%(org-class 2025 9 8 2026 7 6 1 24)>
-[[denote:20240908T214223][B Klasse 2022-26 Seekirchen]]
+<%%(org-class 2026 9 14 2027 7 5 1)>
 
-*** 1b (1. OG AB) 12:30-13:20                                       :1b:sk:
-:PROPERTIES:
-:CUSTOM_ID: h:b622013e-36c8-4e84-901b-35f5d8e6dbb1
-:END:
-<%%(org-class 2025 9 8 2026 7 6 1 22)>
-[[denote:20240908T214427][B Klasse 2025-29 Seekirchen]]
+*** 1b (1. OG AB) 12:35-13:25                                       :1b:sk:
+<%%(org-class 2026 9 14 2027 7 5 1)>
 
-** Dienstag (MS Mattsee)
-:PROPERTIES:
-:CATEGORY: mattsee
-:END:
+*** xc 13:25-14:10
+Pause?
+
+*** kj 14:20-15:00
+<%%(org-class 2026 9 14 2027 7 5 1)>
+
+*** kj 15:05-15:55
+<%%(org-class 2026 9 14 2027 7 5 1)>
+
+** Dienstag
 
 Ich beginne mit der ersten Stunde und ende um 12:30
 
 *** 2c (2. OG) 07:45-08:35                                          :2c:ms:
-<%%(org-class 2025 9 9 2026 7 7 2 14)>
-[[denote:20250913T110554][C Klasse 2024-28 Mattsee]]
+<%%(org-class 2026 9 15 2027 7 6 2)>
 
 *** 1c (1. OG) 08:40-09:30                                          :1c:ms:
-<%%(org-class 2025 9 9 2026 7 7 2 22)>
-[[denote:20250913T110721][C Klasse 2025-29 Mattsee]]
+<%%(org-class 2026 9 15 2027 7 6 2)>
 
 *** 2a (2. OG) 10:45-11:35                                          :2a:ms:
-<%%(org-class 2025 9 9 2026 7 7 2 14)>
-[[denote:20250913T110759][A Klasse 2024-28 Mattsee]]
+<%%(org-class 2026 9 15 2027 7 6 2)>
 
 *** 1b (1. OG) 12:35-13:25                                          :1b:ms:
-<%%(org-class 2025 9 9 2026 7 7 2 22)>
-[[denote:20250913T110647][B Klasse 2025-29 Mattsee]]
+<%%(org-class 2026 9 15 2027 7 6 2)>
 
-** Mittwoch (MS Seekirchen)
-:PROPERTIES:
-:CATEGORY: seekirchen
-:END:
+
+** Mittwoch 
 
 *** 3d (1. OG NB) 09:45-10:35                                       :3d:sk:
-<%%(org-class 2025 9 10 2026 7 8 3 23)>
-[[denote:20250908T081215][D Klasse 2023-27 Seekirchen]]
+<%%(org-class 2026 9 16 2027 7 7 3)>
 
 *** 1d (2. OG NB) 10:40-11:30                                       :1d:sk:
-<%%(org-class 2025 9 10 2026 7 8 3 25)>
-[[denote:20250908T080546][D Klasse 2025-29 Seekirchen]]
+<%%(org-class 2026 9 16 2027 7 7 3)>
 
 *** 2b (2. OG AB) 11:40-12:30                                       :2b:sk:
-<%%(org-class 2025 9 10 2026 7 8 3 14)>
-[[denote:20250908T081510][B Klasse 2024-28 Seekirchen]]
+<%%(org-class 2026 9 16 2027 7 7 3)>
 
 
-** Donnerstag (MS Mattsee)
-:PROPERTIES:
-:CATEGORY: mattsee
-:END:
+** Donnerstag
 
 Den Stundenplan erfahre ich am Donnerstag. Aber so weit weiß, beginne ich mit der zweiten Stunde, die letzte Stunde endet um 15:50.
 
 *** 1b (1. OG) 08:40-09:30                                          :1b:ms:
-<%%(org-class 2025 9 11 2026 7 9 4 23)>
-[[denote:20250913T110647][B Klasse 2025-29 Mattsee]]
+<%%(org-class 2026 9 17 2027 7 8 4)>
 
 *** 2a (2. OG) 09:35-10:25                                          :2a:ms:
-<%%(org-class 2025 9 11 2026 7 9 4 23)>
-[[denote:20250913T110759][A Klasse 2024-28 Mattsee]]
+<%%(org-class 2026 9 17 2027 7 8 4)>
 
 *** 1c (1. OG) 10:45-11:35                                          :1c:ms:
-<%%(org-class 2025 9 11 2026 7 9 4 23)>
-[[denote:20250913T110721][C Klasse 2025-29 Mattsee]]
+<%%(org-class 2026 9 17 2027 7 8 4)>
 
 *** 4b (2. OG) 11:40-12:30                                          :4b:ms:
-<%%(org-class 2025 9 11 2026 7 9 4 23)>
-[[denote:20250913T110827][B Klasse 2022-26 Mattsee]]
+<%%(org-class 2026 9 17 2027 7 8 4)>
 
 *** 2c (2. OG) 15:00-15:50                                          :2c:ms:
-<%%(org-class 2025 9 11 2026 7 9 4 23)>
-[[denote:20250913T110554][C Klasse 2024-28 Mattsee]]
+<%%(org-class 2026 9 17 2027 7 8 4)>
 
-** Freitag (MS Seekirchen)
-:PROPERTIES:
-:CATEGORY: seekirchen
-:END:
+** Freitag
 
 *** 2b (2. OG AB) 07:45-08:35                                       :2b:sk:
-<%%(org-class 2025 9 12 2026 7 10 5 23)>
-[[denote:20250908T081510][B Klasse 2024-28 Seekirchen]]
+<%%(org-class 2026 9 18 2027 7 9 5)>
 
 *** 1a (1. OG NB) 09:45-10:35                                       :1a:sk:
-<%%(org-class 2025 9 12 2026 7 10 5 25)>
-[[denote:20240908T214000][A Klasse 2025-29 Seekirchen]]
+<%%(org-class 2026 9 18 2027 7 9 5)>
 
 *** 1b (1. OG AB) 10:40-11:30                                       :1b:sk:
-<%%(org-class 2025 9 12 2026 7 10 5 25)>
-[[denote:20240908T214427][B Klasse 2025-29 Seekirchen]]
+<%%(org-class 2026 9 18 2027 7 9 5)>
 
 *** 3b (1. OG AB) 11:40-12:30                                       :3b:sk:
-<%%(org-class 2025 9 12 2026 7 10 5 25)>
-[[denote:20240908T214359][B Klasse 2023-27 Seekirchen]]
+<%%(org-class 2026 9 18 2027 7 9 5)>
 
 *** 3d (1. OG NB) 12:30-13:20                                       :3d:sk:
-<%%(org-class 2025 9 12 2026 7 10 5 23)>
-[[denote:20250908T081215][D Klasse 2023-27 Seekirchen]]
+<%%(org-class 2026 9 18 2027 7 9 5)>
 
 
 * Supplierstunden

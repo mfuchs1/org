@@ -73,7 +73,7 @@ CLOSED: [2026-01-02 Fr 16:10]
 
 [[mu4e:msgid:AM6PR02MB47561F3B0ABD8261644B20B1C7D7A@AM6PR02MB4756.eurprd02.prod.outlook.com][Elternsprechtage KEL-Gespräche]]
 
-** TODO [#A] [[https://hypate.webuntis.com/WebUntis/?date=2025-09-15#/basic/login][WebUntis]] + [[https://www.sokrates-web.at/TA_SBG/login][TA]] eintragen                                :schule:
+** TODO [#A] [[https://www.sokrates-web.at/TA_SBG/login][TA]] eintragen                                :schule:
 :PROPERTIES:
 :CAPTURED: [2024-11-21 Do 09:42]
 :CATEGORY: TA
@@ -122,6 +122,17 @@ CLOSED: [2026-06-15 Mo 08:22] SCHEDULED: <2026-06-10 Mi 18:00>
 :END:
 [[denote:20250908T081215][D Klasse 2023-27 Seekirchen]]
 
+** DONE [#A] Emacs config org-file                                   :emacs:
+CLOSED: [2026-07-03 Fr 09:24] DEADLINE: <2026-06-30 Di 22:00>
+:PROPERTIES:
+:CAPTURED: [2026-06-29 Mo 23:43]
+:CUSTOM_ID: h:20260629T234307
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-07-03 Fr 09:24]
+:END:
+[[file:~/.emacs.d/init.el::global-set-key \[f1\] 'org-header-skeleton]]
+
 
 * Wishlist
 :PROPERTIES:
@@ -160,6 +171,14 @@ CLOSED: [2026-06-15 Mo 08:22] SCHEDULED: <2026-06-10 Mi 18:00>
 :END:
 [[file:~/.emacs.d/emacs-config.org::*=org-capture= configuration][=org-capture= configuration]]
 
+** Irreal Embark
+:PROPERTIES:
+:CAPTURED: [2026-07-28 Di 14:14]
+:CUSTOM_ID: h:20260728T141424
+:END:
+[[elfeed:planet.emacslife.com#https://irreal.org/blog/?p=13973][Irreal: Embark For CIDER & Projectile]]
+
+
 
 * Mail Workflow
 
@@ -171,6 +190,13 @@ CLOSED: [2026-02-05 Do 12:51] SCHEDULED:<2026-02-05 Do>
 - State "DONE"       from "TODO"       [2026-02-05 Do 12:51]
 :END:
 DEADLINE: <2026-02-07 Sa>
+
+*** DONE Follow up with Mercy W. At The Chosen on [[mu4e:msgid:01KZ99VQMEFJ4PZVQR60SPKKYC@klaviyomail.com][We’re getting WILD.]]
+CLOSED: [2026-08-07 Fr 10:12] SCHEDULED:<2026-08-06 Do>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-08-07 Fr 10:12]
+:END:
+DEADLINE: <2026-08-08 Sa>
 
 
 
