@@ -12,479 +12,6 @@
 :org-gcal-managed: org
 :END:
 
-* TODO Geld für Klavierunterricht abheben
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3562149220679358"
-:entry-id: 3h6t2v8pcivc2edb77iriskaag/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-10 Mi 16:00-16:30>
-
-30 Euro plus 10 Euro
-:END:
-
-* Melanie Jobke hat Geburtstag
-:PROPERTIES:
-:ETag:     "3558731408997534"
-:TRANSPARENCY: transparent
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: r96m8q18fi7fg2624vg244dhqo_20260803/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-08-03 Mo>
-:END:
-
-* Besuch des Herrn Pfarrers Mattsee (1b, 1c, 2a, 2c)
-:PROPERTIES:
-:ETag:     "3559577774307774"
-:TRANSPARENCY: transparent
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: chijcdhn75hm2b9j64rm6b9k6gr64bb1cgr66b9kcphjicr6cor34oj66k/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-06-16 Di>
-
-Im Vorfeld Fragen notieren, die die Schüler gerne dem Pfarrer stellen möchten.
-:END:
-
-* 35 jähriges Maturatreffen
-:PROPERTIES:
-:ETag:     "3560691505527070"
-:LOCATION: Solide Alm, Weichenbergstraße 1, 5161 Elixhausen, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 6cqjedb26tj66bb66cqm6b9k6ssjcbb16tijabb464ojicpl6tim6e9oco/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-06-19 Fr 19:00-21:00>
-:END:
-
-* Supplierstunde 2ai M (mit A. Weingerl)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3562318231302590"
-:entry-id: 93qe304coiihtf421ttv6addk0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-12 Fr 08:35-09:25>
-:END:
-
-* Supplierstunde 1c R
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3562907213260350"
-:entry-id: 62c9peg746m0tdr2c6h5nqnmk0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-15 Mo 07:45-08:35>
-:END:
-
-* Supplierstunde 2a GW
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3562907292851646"
-:entry-id: nh55e5hgd0kvtsnj9v7qc2m88g/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-15 Mo 08:35-09:25>
-:END:
-
-* Supplierstunde 2c R
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3562907362656638"
-:entry-id: np97e05dvgd3qfqjajhrt06234/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-15 Mo 09:45-10:35>
-:END:
-
-* Supplierstunde 3c R
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3562907436655646"
-:entry-id: 03jd5c6ls692d6p9tqtp44k3r0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-15 Mo 10:40-11:30>
-:END:
-
-* Supplierstunde 4b BSP
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3563181135760766"
-:entry-id: agcio7tbsobbt7vm5m2q65uunc/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-17 Mi 10:40-11:30>
-
-Volleyball / WebUntis nachschauen
-:END:
-
-* Supplierstunde 3d M (mit Thomas G.)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3563181701163358"
-:entry-id: 88pi476jf72itrg3l8m1ljcoek/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-19 Fr 09:45-10:35>
-:END:
-
-* Supplierstunde 2 M (2b)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3563180721107678"
-:entry-id: h9t9o4qktuar6dkq8ceip1mgd0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-18 Do 07:45-08:35>
-:END:
-
-* Supplierstunde 3d MU
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3563181964448158"
-:entry-id: igfvrbkmb4taa4gp7koeg427g4/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-19 Fr 11:40-12:30>
-:END:
-
-
-* Melanie Abendessen
-:PROPERTIES:
-:ETag:     "3562537889986302"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 6hgjgopk60p32bb5cdh6ab9k6gpm2b9ocoom6b9l6hj3aphn6gsjccj56k/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-06-23 Di 17:30-19:00>
-:END:
-
-* Hl. Messe (Franziskaner)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3564101565429086"
-:entry-id: 2lci7v589jf7hfc63hjfrl8ek0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-21 So 19:00-20:00>
-:END:
-
-* Supplierstunde 4b BSP
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3564232909311518"
-:entry-id: votfhhgqi469r1tq5joeuibm84/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-22 Mo 09:45-10:35>
-:END:
-
-* Supplierstunde 4 D AHS (GR 3)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3564395725632926"
-:entry-id: pf042nrpgem558u1odu4ac6a08/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-23 Di 09:35-10:25>
-:END:
-
-* Supplierstunde 2c DGB (mit Thomas H.)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3564396062004798"
-:entry-id: v9bgpihbjp7ufpmp5bqbjc35bo/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-26 Fr 08:35-09:25>
-:END:
-
-* Supplierstunde 3b BSP (mit C. Rohringer)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3564396231822302"
-:entry-id: 2sfr45l3b2d9gb3dgvlas8ede8/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-26 Fr 10:40-11:30>
-:END:
-
-* Supplierstunde 1a DGB (Inf1)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3564767805994014"
-:entry-id: v7nf4h3ok3nc8lpnirj1307osk/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-26 Fr 12:30-13:20>
-:END:
-
-* Noten- und Abschlusskonferenz Seekirchen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3565776077565854"
-:entry-id: 55r6jk7g0cnkvagcbnrelnsf0k/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-01 Mi 14:10-17:30>
-:END:
-
-* Noten- und Abschlusskonferenz Mattsee
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3564772488194814"
-:entry-id: g10q6pkt5r2i0kgj31bkk2381o/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-02 Do 14:30-18:00>
-:END:
-
-* Baden im Wolfgangsee
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3565025635058302"
-:entry-id: ihph9g4ujov427slol6715hpds/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-27 Sa 09:00-18:00>
-:END:
-
-* Hl. Messe (Franziskaner)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3565025744268606"
-:entry-id: dnuravq7ac93qjrpbrrrugpeo8/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-28 So 19:00-20:00>
-:END:
-
-* Testeintrag
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3565438289944862"
-:entry-id: st0sn8vhatsajhgepj7g1t39c8/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-29 Mo 20:00-21:00>
-:END:
-
-* Testeintrag
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3565521967403038"
-:entry-id: v5vikfe0ojjtqqdq36kq7kefso/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-06-29 Mo 22:00-23:00>
-:END:
-
-* DONE [#A] Einkauf DM
-CLOSED: [2026-07-02 Do 07:40]
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3565779569876894"
-:entry-id: 7iunm106d6nhguo5bc6gse0hqs/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-01 Mi 13:00-13:45>
-
-Katzenstreu
-Leckerlis für Katzen
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-07-02 Do 07:40]
-:END:
-
-* Veronika Greisberger hat Geburtstag
-:PROPERTIES:
-:ETag:     "3558731482392382"
-:TRANSPARENCY: transparent
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 8kp1h5gqad8am792t8mbqdiig4_20260810/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-08-10 Mo>
-:END:
-
-* Ausflug 3D nach Thalgau
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3566505458596510"
-:entry-id: h7fcgj9fdrgmnofb7rem2cs3vc/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-06 Mo 07:45-13:30>
-:END:
-
-* Sporttag Mattsee
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3566505527219998"
-:entry-id: 5ko5d2v5pu4pe3d8v6u9tauglo/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-07 Di 07:45-13:30>
-:END:
-
-* Ausflug 3D Wallersee (Eis)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3566505595834110"
-:entry-id: n238445gbue15ushh7qjo13eb8/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-08 Mi 07:45-13:30>
-:END:
-
-* Schulgottesdienst Mattsee
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3566505742585758"
-:entry-id: 5lfgurrgjms8dl6stdgr41hfb0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-09 Do 07:45-08:45>
-:END:
-
-* Schulgottesdienst Seekirchen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3566505800458270"
-:entry-id: qlcmgu6csr1ie8fj1ut286utjs/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-10 Fr 07:45-08:45>
-:END:
-
-* Gottesdienst Franziskaner
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3566505899527902"
-:entry-id: sh5vbbo191r120i7rjmj5oqntg/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-05 So 10:30-11:30>
-:END:
-
-* F1 GP Silverstone
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3566506125444766"
-:entry-id: 55rv3jv7lb5d1h2h1tklru6qdc/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-05 So 14:40-18:00>
-:END:
-
-
-* Ankunft Isabelle in Salzburg Hbf
-:PROPERTIES:
-:ETag:     "3569426349723838"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: c8om2dhhc8sjgbb4cgoj4b9kc8pj8bb1cphm2bb6cgr3ccj56phj2d9gcc/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2026-07-08 Mi 18:30-19:30>
-
-Ankunft ca um 19h10
-RJX 
-:END:
-
-* Fahrrad von Opa reparieren (mit Gabriel)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3569599141461726"
-:entry-id: 5fesr9bfdjr9e6tv0d1qtm0vcc/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-23 Do 10:00-11:00>
-:END:
-
-* Gottesdienst (Dom Salzburg)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3570044015149374"
-:entry-id: difmh4qjajomrng6ovs13r9h1o/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-26 So 08:30-09:30>
-:END:
-
-* Radausflug mit Kindern (Omi und Opa)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3569452447531294"
-:entry-id: jt5stsfr1qdhtd5vsj68l0k0t8/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-07-22 Mi 16:00-19:00>
-:END:
-
-* Schlager - Kaffee und Kuchen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3571487356552254"
-:entry-id: roq1c832hqh8s6l0vi37h2eoro/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-08-03 Mo 14:30-16:00>
-:END:
-
-* Reisepass für Gabriel / Leopold (Sbg)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3571505746268414"
-:entry-id: f8ov5ev1jipgi0q5ieleths8r0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-08-03 Mo 10:30-11:30>
-:END:
-
 * Test
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
@@ -584,3 +111,64 @@ RJX
 <2026-09-14 Mo 07:30-09:30>
 :END:
 
+* Konferenz
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3578909717722334"
+:entry-id: sh0jvemkmbks0ocf44mn23eisc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-09-17 Do 14:15-16:45>
+:END:
+
+* Wandertag 2b
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3578909896728798"
+:entry-id: 2f0ccv6qg03l6haloeqhek6jtg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-09-18 Fr 07:45-12:30>
+:END:
+
+
+* Geburtstag Julia
+:PROPERTIES:
+:ETag:     "3458482051237000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: c4sjad3568sj4b9h75gm8b9kc4sj2bb2cpij4bb474rm6c9iclgj4e9o74_20261012/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-10-12 Mo>
+:END:
+
+* Einkauf mit Gabriel
+:PROPERTIES:
+:ETag:     "3578819356456574"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: c4s66pj6c4oj2bb16kpj2b9k60sm4b9p6kpjibb46crmaob46cr38cb16o/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-09-15 Di 15:00-17:00>
+
+Hosen 3
+Pullover 
+Schloss 
+Nahrung
+Füllfeder
+:END:
+
+* Tischler Austausch Spüle Küche
+:PROPERTIES:
+:ETag:     "3578912230106398"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: c9h38c9jcksj4b9o61im6b9k6kqm4bb169im8b9g6kq36cphckqm2cpn6k/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-09-23 Mi 14:00-16:00>
+:END:
