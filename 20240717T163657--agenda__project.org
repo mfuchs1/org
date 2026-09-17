@@ -191,6 +191,9 @@ Hier der neue Stundenplan in Mattsee:
 <%%(org-class 2026 9 16 2027 7 7 3 38)>
 [[denote:20260820T225259][A Klasse 2026-30 Mattsee]]
 
+*** Sprechstunde 09:45-10:35                                          
+<%%(org-class 2026 9 16 2027 7 7 3 38)>
+
 *** 4a 11:40-12:30                                                     :4a:
 <%%(org-class 2026 9 16 2027 7 7 3)>
 [[denote:20260820T230027][A Klasse 2023-27 Mattsee]]
@@ -203,11 +206,11 @@ Hier der neue Stundenplan in Mattsee:
 ** Donnerstag
 
 *** 4b 07:45-08:35                                                     :4b:
-<%%(org-class 2026 9 17 2027 7 8 4)>
+<%%(org-class 2026 9 17 2027 7 8 4 38)>
 [[denote:20260820T230122][B Klasse 2023-27 Mattsee]]
 
 *** 2b 08:40-09:30                                                     :2b:
-<%%(org-class 2026 9 17 2027 7 8 4)>
+<%%(org-class 2026 9 17 2027 7 8 4 38)>
 [[denote:20250913T110647][B Klasse 2025-29 Mattsee]]
 
 *** 3b 09:45-10:35                                                     :3b:
