@@ -21,30 +21,6 @@ Hier ein Text.
 :CUSTOM_ID: h:ace38b83-beb1-4db2-9872-936865a20b7c
 :END:
 
-** DONE WebUntis und TA                                             :schule:
-CLOSED: [2025-11-23 So 15:55] SCHEDULED: <2025-11-18 Di 12:15>
-:PROPERTIES:
-:CAPTURED: [2025-11-18 Di 10:33]
-:CUSTOM_ID: h:20251118T103342
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2025-11-23 So 15:55]
-:END:
-
-[[file:~/Documents/notes/20250913T110759--a-klasse-2024-28-mattsee__2a_ms.org::*Jahresplanung][Jahresplanung]]
-
-** DONE Adventskranzsegnung                                         :schule:
-CLOSED: [2025-11-28 Fr 10:34] SCHEDULED: <2025-11-18 Di 11:50>
-:PROPERTIES:
-:CAPTURED: [2025-11-18 Di 10:34]
-:CUSTOM_ID: h:20251118T103423
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2025-11-28 Fr 10:34]
-:END:
-
-[[file:~/Documents/notes/20250913T110759--a-klasse-2024-28-mattsee__2a_ms.org::*Jahresplanung][Jahresplanung]]
-
 ** TODO [#A] ~denote-journal-new-entry~                             :privat:
 :PROPERTIES:
 :CATEGORY: journal
@@ -61,18 +37,6 @@ So gut wie täglich einen Eintrag schreiben, ist ja auch ein =journal=. Idee: ic
 :END:
 [[file:~/Downloads/Howm_tutorial_eng.pdf]]
 
-** DONE Elternsprechtage KEL-Gespräche                                 :mail:
-CLOSED: [2026-01-02 Fr 16:10]
-:PROPERTIES:
-:CAPTURED: [2025-11-21 Fr 13:48]
-:CUSTOM_ID: h:20251121T134812
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-01-02 Fr 16:10]
-:END:
-
-[[mu4e:msgid:AM6PR02MB47561F3B0ABD8261644B20B1C7D7A@AM6PR02MB4756.eurprd02.prod.outlook.com][Elternsprechtage KEL-Gespräche]]
-
 ** TODO [#A] [[https://www.sokrates-web.at/TA_SBG/login][TA]] eintragen                                :schule:
 :PROPERTIES:
 :CAPTURED: [2024-11-21 Do 09:42]
@@ -81,57 +45,6 @@ CLOSED: [2026-01-02 Fr 16:10]
 [[https://www.sokrates-web.at/TA_SBG/login/]]
 
 Lernstoff  und gehaltene Stunden eintragen.
-
-** DONE Faschingskostüm MS Mattsee                                  :schule:
-CLOSED: [2026-02-18 Mi 07:42] DEADLINE: <2026-02-17 Di 07:45>
-:PROPERTIES:
-:CAPTURED: [2026-01-29 Do 15:27]
-:CUSTOM_ID: h:20260129T152744
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-02-18 Mi 07:42]
-:END:
-[[file:~/Documents/notes/20260129T143134--notenkonferenz-ms-mattsee__schule.org::*Allfälliges][Allfälliges]]
-
-Kostüm besorgen / bei welcher Station kann ich mitmachen? Liste!
-
-** DONE [#A] Schulbücher Religion                                   :schule:
-CLOSED: [2026-03-17 Di 21:50] DEADLINE: <2026-03-13 Fr 12:00>
-:PROPERTIES:
-:CAPTURED: [2026-03-11 Mi 09:01]
-:CUSTOM_ID: h:20260311T090109
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-03-17 Di 21:50]
-:END:
-
-Bitte Schulbuchnummer. Ich bin zwar nächstes Buch nicht mehr da; trotzdem - Kontakt zu Inge.
-
-Wahrscheinlich "Zeit für Religion"
-Bibeln?
-Neues Testament?
-
-** DONE Jakob und Marcel Brief an Eltern                            :schule:
-CLOSED: [2026-06-15 Mo 08:22] SCHEDULED: <2026-06-10 Mi 18:00>
-:PROPERTIES:
-:CAPTURED: [2026-06-10 Mi 10:55]
-:CUSTOM_ID: h:20260610T105553
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-06-15 Mo 08:22]
-:END:
-[[denote:20250908T081215][D Klasse 2023-27 Seekirchen]]
-
-** DONE [#A] Emacs config org-file                                   :emacs:
-CLOSED: [2026-07-03 Fr 09:24] DEADLINE: <2026-06-30 Di 22:00>
-:PROPERTIES:
-:CAPTURED: [2026-06-29 Mo 23:43]
-:CUSTOM_ID: h:20260629T234307
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-07-03 Fr 09:24]
-:END:
-[[file:~/.emacs.d/init.el::global-set-key \[f1\] 'org-header-skeleton]]
 
 
 * Wishlist
@@ -183,21 +96,5 @@ CLOSED: [2026-07-03 Fr 09:24] DEADLINE: <2026-06-30 Di 22:00>
 * Mail Workflow
 
 ** Follow Up
-
-*** DONE Follow up with GitHub on [[mu4e:msgid:6983ba12e2365_dd113087571@sharedworker-86b9d8f5dd-qrswq.mail][[GitHub] Your personal access token (classic) is about to expire]]
-CLOSED: [2026-02-05 Do 12:51] SCHEDULED:<2026-02-05 Do>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-02-05 Do 12:51]
-:END:
-DEADLINE: <2026-02-07 Sa>
-
-*** DONE Follow up with Mercy W. At The Chosen on [[mu4e:msgid:01KZ99VQMEFJ4PZVQR60SPKKYC@klaviyomail.com][We’re getting WILD.]]
-CLOSED: [2026-08-07 Fr 10:12] SCHEDULED:<2026-08-06 Do>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2026-08-07 Fr 10:12]
-:END:
-DEADLINE: <2026-08-08 Sa>
-
-
 
 ** Read Later

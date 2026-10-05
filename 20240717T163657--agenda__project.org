@@ -49,32 +49,17 @@ Mir fehlen noch die Zugangsdaten zu Teams, Webunti, Email, SchoolFox;
 
 
 ** Sport (alleine) 14:30-16:00
-CLOSED: [2026-09-20 So 20:01]
-<%%(memq (calendar-day-of-week date) '(5 6))>
-:PROPERTIES:
-:LAST_REPEAT: [2026-09-14 Mo 13:53]
-:END:
-:LOGBOOK:
-- State "DONE"       from              [2026-09-20 So 20:01]
-- State "DONE"       from              [2026-09-14 Mo 13:53]
-- State "DONE"       from              [2026-09-07 Mo 22:55]
-- State "DONE"       from              [2026-09-02 Mi 14:21]
-- State "DONE"       from              [2026-08-25 Di 16:56]
-- State "DONE"       from              [2026-08-23 So 20:55]
-- State "DONE"       from              [2026-08-20 Do 11:32]
-- State "DONE"       from              [2026-08-07 Fr 10:11]
-- State "DONE"       from              [2026-08-04 Di 20:45]
-- State "DONE"       from              [2026-08-02 So 23:21]
-- State "DONE"       from              [2026-07-27 Mo 15:41]
-- State "DONE"       from              [2026-07-26 So 01:24]
-:END:
+<%%(memq (calendar-day-of-week date) '(6))>
     
 ** Bibel lesen (Podcast) 16:30-17:00
-SCHEDULED: <2026-09-28 Mo .+1d>
+SCHEDULED: <2026-10-06 Di .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2026-09-27 So 17:09]
+:LAST_REPEAT: [2026-10-05 Mo 07:41]
 :END:
 :LOGBOOK:
+- State "DONE"       from              [2026-10-05 Mo 07:41]
+- State "DONE"       from              [2026-10-02 Fr 09:24]
+- State "DONE"       from              [2026-09-30 Mi 08:24]
 - State "DONE"       from              [2026-09-27 So 17:09]
 - State "DONE"       from              [2026-09-25 Fr 09:12]
 - State "DONE"       from              [2026-09-22 Di 08:18]
@@ -96,11 +81,14 @@ SCHEDULED: <2026-09-28 Mo .+1d>
 <%%(memq (calendar-day-of-week date) '(0 1 2 3 4 5 6))>
 
 ** Beten / Lesen 20:00-21:00
-SCHEDULED: <2026-09-28 Mo .+1d>
+SCHEDULED: <2026-10-06 Di .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2026-09-27 So 17:10]
+:LAST_REPEAT: [2026-10-05 Mo 07:41]
 :END:
 :LOGBOOK:
+- State "DONE"       from              [2026-10-05 Mo 07:41]
+- State "DONE"       from              [2026-10-02 Fr 09:24]
+- State "DONE"       from              [2026-09-30 Mi 08:24]
 - State "DONE"       from              [2026-09-27 So 17:10]
 - State "DONE"       from              [2026-09-25 Fr 09:12]
 - State "DONE"       from              [2026-09-22 Di 08:18]
@@ -179,7 +167,7 @@ Hier der neue Stundenplan in Mattsee:
 [[denote:20260820T225431][B Klasse 2026-30 Mattsee]]
 
 *** 4b 09:45-10:35                                                     :4b:
-<%%(org-class 2026 9 15 2027 7 6 2 40)>
+<%%(org-class 2026 9 15 2027 7 6 2 39)>
 [[denote:20260820T230122][B Klasse 2023-27 Mattsee]]
 
 *** 2c 10:40-11:30                                                     :2c:
@@ -216,7 +204,7 @@ Hier der neue Stundenplan in Mattsee:
 ** Donnerstag
 
 *** 4b 07:45-08:35                                                     :4b:
-<%%(org-class 2026 9 17 2027 7 8 4 40)>
+<%%(org-class 2026 9 17 2027 7 8 4 39)>
 [[denote:20260820T230122][B Klasse 2023-27 Mattsee]]
 
 *** 2b 08:40-09:30                                                     :2b:

@@ -3,14 +3,6 @@
 #+filetags:   :Project:
 #+identifier: 20231115T074319
 #+CATEGORY: org-gcal
-#+STARTUP: fnadjust
-#+STARTUP: showall
-
-* Einkaufen + Gabriel abholen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:END:
 
 * Friseur (Gabriel, Leopold, Papa)
 :PROPERTIES:
@@ -149,6 +141,12 @@ Füllfeder
 :END:
 :org-gcal:
 <2026-10-02 Fr 10:40-11:30>
+
+AB Zauberflöte – dazu Kurzvideo (Kurzvideo Legooper) [[https://www.br-klassik.de/video/lego-oper-zauberfloete-mozart-100.html]] anschauen – im Anschluss AB ausfüllen – SuS sollen kurz vergleichen, dann mit Lösung vergleichen 
+
+Danach AB „Die Welt der Oper“ – SuS sollen mit Bleistift versuchen den Lückentext mit den untenstehenden Begriffen zu ergänzen. Auflösung mache ich dann in der nächsten Stunde 
+
+falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monkey) oder Ähnliches 
 :END:
 
 * Supplierstunde 3b GWB
@@ -160,6 +158,9 @@ Füllfeder
 :END:
 :org-gcal:
 <2026-09-30 Mi 11:40-12:30>
+
+[[file:~/Downloads/Supplierung Rau_GWB-BBO_England.docx]]
+[[file:~/Downloads/Lösungsblatt GWB 3B.docx]]
 :END:
 
 
@@ -451,7 +452,7 @@ Füllfeder
 
 * Leopold Klavier
 :PROPERTIES:
-:ETag:     "3580654518492542"
+:ETag:     "3581324454854782"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20261120T140000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -459,3 +460,48 @@ Füllfeder
 :org-gcal:
 <2026-11-20 Fr 15:00-15:45>
 :END:
+
+* Konferenz
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3581324513770206"
+:entry-id: fqa6vqs1sgni969a1ip4dj3coc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-10-05 Mo 14:30-16:30>
+:END:
+
+* Elternabend Annahof Gabriel
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3582358211217854"
+:entry-id: hnj6bpbsg5js45t34jq6no33ec/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-10-07 Mi 19:00-20:00>
+:END:
+
+* Supplierstunde 4 M s/3
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3582385784466622"
+:entry-id: gdpppfiil994ocsgq34au9r3ao/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-10-06 Di 07:45-08:35>
+:END:
+
+* Supplierstunde 4 M s/3
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3582385905221438"
+:entry-id: 067uculv6geem4p9tg1gnrbpoo/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-10-07 Mi 10:40-11:30>
+:END:
+
