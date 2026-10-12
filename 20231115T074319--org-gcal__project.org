@@ -4,17 +4,6 @@
 #+identifier: 20231115T074319
 #+CATEGORY: org-gcal
 
-* Friseur (Gabriel, Leopold, Papa)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3576703624375038"
-:entry-id: 3s8c5v3sb7mkj2v1bo56518mf4/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2026-09-04 Fr 12:30-13:30>
-:END:
-
 * Tierarzt Ben (kastrieren)
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
@@ -166,7 +155,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Karate
 :PROPERTIES:
-:ETag:     "3580654416097918"
+:ETag:     "3582458210945662"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0kgsfjmhi4eislullom6988if3_20260922T154500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -177,7 +166,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Karate
 :PROPERTIES:
-:ETag:     "3580654416097918"
+:ETag:     "3582458210945662"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0kgsfjmhi4eislullom6988if3_20260929T154500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -188,7 +177,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Karate
 :PROPERTIES:
-:ETag:     "3580654416097918"
+:ETag:     "3582458210945662"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0kgsfjmhi4eislullom6988if3_20261006T154500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -199,7 +188,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Karate
 :PROPERTIES:
-:ETag:     "3580654416097918"
+:ETag:     "3582458210945662"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0kgsfjmhi4eislullom6988if3_20261013T154500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -210,7 +199,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Karate
 :PROPERTIES:
-:ETag:     "3580654416097918"
+:ETag:     "3582458210945662"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0kgsfjmhi4eislullom6988if3_20261020T154500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -221,7 +210,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Karate
 :PROPERTIES:
-:ETag:     "3580654416097918"
+:ETag:     "3582458210945662"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0kgsfjmhi4eislullom6988if3_20261027T164500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -232,7 +221,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Karate
 :PROPERTIES:
-:ETag:     "3580654416097918"
+:ETag:     "3582458210945662"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0kgsfjmhi4eislullom6988if3_20261103T164500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -243,7 +232,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Karate
 :PROPERTIES:
-:ETag:     "3580654416097918"
+:ETag:     "3582458210945662"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0kgsfjmhi4eislullom6988if3_20261110T164500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -254,7 +243,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Karate
 :PROPERTIES:
-:ETag:     "3580654416097918"
+:ETag:     "3582458210945662"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0kgsfjmhi4eislullom6988if3_20261117T164500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -364,7 +353,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Klavier
 :PROPERTIES:
-:ETag:     "3580654518492542"
+:ETag:     "3581324454854782"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20260925T130000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -375,7 +364,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Klavier
 :PROPERTIES:
-:ETag:     "3580654518492542"
+:ETag:     "3581324454854782"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20261002T130000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -386,7 +375,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Klavier
 :PROPERTIES:
-:ETag:     "3580654518492542"
+:ETag:     "3581324454854782"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20261009T130000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -397,7 +386,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Klavier
 :PROPERTIES:
-:ETag:     "3580654518492542"
+:ETag:     "3581324454854782"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20261016T130000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -408,7 +397,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Klavier
 :PROPERTIES:
-:ETag:     "3580654518492542"
+:ETag:     "3581324454854782"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20261023T130000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -419,7 +408,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Klavier
 :PROPERTIES:
-:ETag:     "3580654518492542"
+:ETag:     "3581324454854782"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20261030T140000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -430,7 +419,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Klavier
 :PROPERTIES:
-:ETag:     "3580654518492542"
+:ETag:     "3581324454854782"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20261106T140000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -441,7 +430,7 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 
 * Leopold Klavier
 :PROPERTIES:
-:ETag:     "3580654518492542"
+:ETag:     "3581324454854782"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20261113T140000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -476,32 +465,216 @@ falls Zeit: just dance: https://www.youtube.com/watch?v=bI7QZHzva-E (Dance Monke
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3582358211217854"
+:ETag:     "3582589011863646"
 :entry-id: hnj6bpbsg5js45t34jq6no33ec/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2026-10-07 Mi 19:00-20:00>
+<2026-10-07 Mi 18:00-19:30>
 :END:
 
 * Supplierstunde 4 M s/3
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3582385784466622"
+:ETag:     "3582458209799070"
 :entry-id: gdpppfiil994ocsgq34au9r3ao/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2026-10-06 Di 07:45-08:35>
+
+Di: 1. StundeThema: Wiederholen und festigen: Rationale Zahlen, S 22 und S 23 AB: Nr 60-63; S23: Nr. 65 und 69. 
+
 :END:
 
 * Supplierstunde 4 M s/3
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3582385905221438"
+:ETag:     "3582718486149182"
 :entry-id: 067uculv6geem4p9tg1gnrbpoo/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2026-10-07 Mi 10:40-11:30>
+
+Mi: 4. Stunde S24: Grundrechnungsarten mit rationalen Zahlen: Rechenregel wiederholen und 74 - 77 durchmachen. (Lösungsheft ist im AB dabei.) ev. 80 noch dazu. Nr 81; 83 a-d und 84 a-d.
 :END:
+
+
+* Leopold Klavier
+:PROPERTIES:
+:ETag:     "3581324454854782"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20261127T140000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-11-27 Fr 15:00-15:45>
+:END:
+
+* Leopold Klavier
+:PROPERTIES:
+:ETag:     "3581324454854782"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0s6dkrqevmsnoa01bkh72qhekj_20261204T140000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-12-04 Fr 15:00-15:45>
+:END:
+
+* Leopold Karate
+:PROPERTIES:
+:ETag:     "3582458210945662"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0kgsfjmhi4eislullom6988if3_20261124T164500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-11-24 Di 17:45-18:45>
+:END:
+
+* Leopold Karate
+:PROPERTIES:
+:ETag:     "3582458210945662"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0kgsfjmhi4eislullom6988if3_20261201T164500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-12-01 Di 17:45-18:45>
+:END:
+
+* Gabriel abholen
+:PROPERTIES:
+:ETag:     "3582544579879006"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0omfmd5o3f84jklbq4qp1c6o9g_20261006T160000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-10-06 Di 18:00-18:45>
+:END:
+
+* Gabriel abholen
+:PROPERTIES:
+:ETag:     "3582544579879006"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0omfmd5o3f84jklbq4qp1c6o9g_20261013T160000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-10-13 Di 18:00-18:45>
+:END:
+
+* Gabriel abholen
+:PROPERTIES:
+:ETag:     "3582544579879006"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0omfmd5o3f84jklbq4qp1c6o9g_20261020T160000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-10-20 Di 18:00-18:45>
+:END:
+
+* Gabriel abholen
+:PROPERTIES:
+:ETag:     "3582544579879006"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0omfmd5o3f84jklbq4qp1c6o9g_20261027T170000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-10-27 Di 18:00-18:45>
+:END:
+
+* Gabriel abholen
+:PROPERTIES:
+:ETag:     "3582544579879006"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0omfmd5o3f84jklbq4qp1c6o9g_20261103T170000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-11-03 Di 18:00-18:45>
+:END:
+
+* Gabriel abholen
+:PROPERTIES:
+:ETag:     "3582544579879006"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0omfmd5o3f84jklbq4qp1c6o9g_20261110T170000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-11-10 Di 18:00-18:45>
+:END:
+
+* Gabriel abholen
+:PROPERTIES:
+:ETag:     "3582544579879006"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0omfmd5o3f84jklbq4qp1c6o9g_20261117T170000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-11-17 Di 18:00-18:45>
+:END:
+
+* Gabriel abholen
+:PROPERTIES:
+:ETag:     "3582544579879006"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0omfmd5o3f84jklbq4qp1c6o9g_20261124T170000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-11-24 Di 18:00-18:45>
+:END:
+
+* Gabriel abholen
+:PROPERTIES:
+:ETag:     "3582544579879006"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 0omfmd5o3f84jklbq4qp1c6o9g_20261201T170000Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2026-12-01 Di 18:00-18:45>
+:END:
+
+* Testeintrag
+:PROPERTIES:
+:org-gcal-managed: org
+:calendar-id: matthiasfuchs01@gmail.com
+:ETag:     "3583074480341790"
+:entry-id: jd3ko3f6ui7uki4smubutiojq8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-10-09 Fr 20:00-21:00>
+:END:
+ [2026-10-09 Fr 11:12]
+
+* Zweiter Testeintrag
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3583075303296158"
+:entry-id: obff1civv9dgk41cunvs4216o0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-10-09 Fr 21:00-22:00>
+:END:
+
+* Dritter Eintrag
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3583076018183614"
+:entry-id: t9kjooi4rblmmpf7lssnjn85ao/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-10-09 Fr 22:00-23:00>
+:END:
+
 

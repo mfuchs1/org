@@ -52,11 +52,14 @@ Mir fehlen noch die Zugangsdaten zu Teams, Webunti, Email, SchoolFox;
 <%%(memq (calendar-day-of-week date) '(6))>
     
 ** Bibel lesen (Podcast) 16:30-17:00
-SCHEDULED: <2026-10-06 Di .+1d>
+SCHEDULED: <2026-10-13 Di .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2026-10-05 Mo 07:41]
+:LAST_REPEAT: [2026-10-12 Mo 07:31]
 :END:
 :LOGBOOK:
+- State "DONE"       from              [2026-10-12 Mo 07:31]
+- State "DONE"       from              [2026-10-09 Fr 10:32]
+- State "DONE"       from              [2026-10-07 Mi 07:44]
 - State "DONE"       from              [2026-10-05 Mo 07:41]
 - State "DONE"       from              [2026-10-02 Fr 09:24]
 - State "DONE"       from              [2026-09-30 Mi 08:24]
@@ -81,11 +84,14 @@ SCHEDULED: <2026-10-06 Di .+1d>
 <%%(memq (calendar-day-of-week date) '(0 1 2 3 4 5 6))>
 
 ** Beten / Lesen 20:00-21:00
-SCHEDULED: <2026-10-06 Di .+1d>
+SCHEDULED: <2026-10-13 Di .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2026-10-05 Mo 07:41]
+:LAST_REPEAT: [2026-10-12 Mo 07:31]
 :END:
 :LOGBOOK:
+- State "DONE"       from              [2026-10-12 Mo 07:31]
+- State "DONE"       from              [2026-10-09 Fr 10:32]
+- State "DONE"       from              [2026-10-07 Mi 07:44]
 - State "DONE"       from              [2026-10-05 Mo 07:41]
 - State "DONE"       from              [2026-10-02 Fr 09:24]
 - State "DONE"       from              [2026-09-30 Mi 08:24]
