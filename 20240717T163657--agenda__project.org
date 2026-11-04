@@ -20,12 +20,6 @@ Mir fehlen noch die Zugangsdaten zu Teams, Webunti, Email, SchoolFox;
 :CATEGORY: home
 :END:
 
-** Aufstehen 05:00-05:30
-<%%(memq (calendar-day-of-week date) '(0 1 2 3 4 5 6))>
-
-** Frühstück 05:30-06:00
-<%%(memq (calendar-day-of-week date) '(0 1 2 3 4 5 6))>
-
 ** Sport (mit Kindern) 09:00-10:30
 <%%(memq (calendar-day-of-week date) '(6))>
 :PROPERTIES:
@@ -47,16 +41,23 @@ Mir fehlen noch die Zugangsdaten zu Teams, Webunti, Email, SchoolFox;
 - State "DONE"       from              [2026-07-24 Fr 14:53]
 :END:
 
-
 ** Sport (alleine) 14:30-16:00
 <%%(memq (calendar-day-of-week date) '(6))>
     
 ** Bibel lesen (Podcast) 16:30-17:00
-SCHEDULED: <2026-10-13 Di .+1d>
+SCHEDULED: <2026-11-04 Mi .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2026-10-12 Mo 07:31]
+:LAST_REPEAT: [2026-11-03 Di 07:34]
 :END:
 :LOGBOOK:
+- State "DONE"       from              [2026-11-03 Di 07:34]
+- State "DONE"       from              [2026-10-31 Sa 15:35]
+- State "DONE"       from              [2026-10-26 Mo 11:38]
+- State "DONE"       from              [2026-10-23 Fr 09:23]
+- State "DONE"       from              [2026-10-21 Mi 08:31]
+- State "DONE"       from              [2026-10-19 Mo 07:38]
+- State "DONE"       from              [2026-10-16 Fr 09:43]
+- State "DONE"       from              [2026-10-14 Mi 07:22]
 - State "DONE"       from              [2026-10-12 Mo 07:31]
 - State "DONE"       from              [2026-10-09 Fr 10:32]
 - State "DONE"       from              [2026-10-07 Mi 07:44]
@@ -80,15 +81,20 @@ SCHEDULED: <2026-10-13 Di .+1d>
 - State "DONE"       from              [2026-07-26 So 01:24]
 :END:
 
-** Abendessen 19:00-19:30
-<%%(memq (calendar-day-of-week date) '(0 1 2 3 4 5 6))>
-
 ** Beten / Lesen 20:00-21:00
-SCHEDULED: <2026-10-13 Di .+1d>
+SCHEDULED: <2026-11-04 Mi .+1d>
 :PROPERTIES:
-:LAST_REPEAT: [2026-10-12 Mo 07:31]
+:LAST_REPEAT: [2026-11-03 Di 07:34]
 :END:
 :LOGBOOK:
+- State "DONE"       from              [2026-11-03 Di 07:34]
+- State "DONE"       from              [2026-10-31 Sa 15:35]
+- State "DONE"       from              [2026-10-26 Mo 11:38]
+- State "DONE"       from              [2026-10-23 Fr 09:23]
+- State "DONE"       from              [2026-10-21 Mi 08:31]
+- State "DONE"       from              [2026-10-19 Mo 07:38]
+- State "DONE"       from              [2026-10-16 Fr 09:43]
+- State "DONE"       from              [2026-10-14 Mi 07:22]
 - State "DONE"       from              [2026-10-12 Mo 07:31]
 - State "DONE"       from              [2026-10-09 Fr 10:32]
 - State "DONE"       from              [2026-10-07 Mi 07:44]
@@ -125,17 +131,17 @@ Worauf ist zu achten?
 ** Montag
 
 *** Jause 09:30-09:45
-<%%(org-class 2026 9 14 2027 7 5 1 38)>
+<%%(org-class 2026 9 14 2027 7 5 1 45)>
 
 ** Donnerstag
 
 *** EG 09:30-09:45
-<%%(org-class 2026 9 17 2027 7 8 4 39)>
+<%%(org-class 2026 9 17 2027 7 8 4 44)>
 
 ** Freitag
 
 *** OG 11:30-11:40
-<%%(org-class 2026 9 18 2027 7 9 5 38)>
+<%%(org-class 2026 9 18 2027 7 9 5 44)>
 
 * Stundenplan                                                  
 
@@ -143,105 +149,105 @@ Worauf ist zu achten?
 Hier der neue Stundenplan in Mattsee:
 
 *** 1b 07:45-08:35                                                     :1b:
-<%%(org-class 2026 9 14 2027 7 5 1 38)>
+<%%(org-class 2026 9 14 2027 7 5 1 45)>
 [[denote:20260820T225431][B Klasse 2026-30 Mattsee]]
 
 *** 2a 08:40-09:30                                                     :2a:
-<%%(org-class 2026 9 14 2027 7 5 1 38)>
+<%%(org-class 2026 9 14 2027 7 5 1 45)>
 [[denote:20260820T225753][A Klasse 2025-29 Mattsee]]
 
 *** 1c 09:45-10:35                                                     :1c:
-<%%(org-class 2026 9 14 2027 7 5 1 38)>
+<%%(org-class 2026 9 14 2027 7 5 1 45)>
 [[denote:20260820T225651][C Klasse 2026-30 Mattsee]]
 
 *** 4a 10:40-11:30                                                     :4a:
-<%%(org-class 2026 9 14 2027 7 5 1 40)>
+<%%(org-class 2026 9 14 2027 7 5 1 45)>
 [[denote:20260820T230027][A Klasse 2023-27 Mattsee]]
 
 *** 3b 11:40-12:30                                                     :3b:
-<%%(org-class 2026 9 14 2027 7 5 1 38)>
+<%%(org-class 2026 9 14 2027 7 5 1 45)>
 [[denote:20260820T225912][B Klasse 2024-28 Mattsee]]
 
 *** 3c 12:35-13:25                                                     :3c:
-<%%(org-class 2026 9 14 2027 7 5 1 38)>
+<%%(org-class 2026 9 14 2027 7 5 1 45)>
 [[denote:20250913T110554][C Klasse 2024-28 Mattsee]]
 
 ** Dienstag
 
 *** 1b 08:40-09:30                                                     :1b:
-<%%(org-class 2026 9 15 2027 7 6 2 38)>
+<%%(org-class 2026 9 15 2027 7 6 2 44)>
 [[denote:20260820T225431][B Klasse 2026-30 Mattsee]]
 
 *** 4b 09:45-10:35                                                     :4b:
-<%%(org-class 2026 9 15 2027 7 6 2 39)>
+<%%(org-class 2026 9 15 2027 7 6 2 44)>
 [[denote:20260820T230122][B Klasse 2023-27 Mattsee]]
 
 *** 2c 10:40-11:30                                                     :2c:
-<%%(org-class 2026 9 15 2027 7 6 2)>
+<%%(org-class 2026 9 15 2027 7 6 2 44)>
 [[denote:20250913T110721][C Klasse 2025-29 Mattsee]]
 
 *** 2b 11:40-12:30                                                     :2b:
-<%%(org-class 2026 9 15 2027 7 6 2 38)>
+<%%(org-class 2026 9 15 2027 7 6 2 44)>
 [[denote:20250913T110647][B Klasse 2025-29 Mattsee]]
 
 
 ** Mittwoch 
 
 *** 3c 07:45-08:35                                                     :3c:
-<%%(org-class 2026 9 16 2027 7 7 3 38)>
+<%%(org-class 2026 9 16 2027 7 7 3 44)>
 [[denote:20250913T110554][C Klasse 2024-28 Mattsee]]
 
 *** 1a 08:40-09:30                                                     :1a:
-<%%(org-class 2026 9 16 2027 7 7 3 38)>
+<%%(org-class 2026 9 16 2027 7 7 3 44)>
 [[denote:20260820T225259][A Klasse 2026-30 Mattsee]]
 
 *** Sprechstunde 09:45-10:35                                          
-<%%(org-class 2026 9 16 2027 7 7 3 38)>
+<%%(org-class 2026 9 16 2027 7 7 3 44)>
 
 *** 4a 11:40-12:30                                                     :4a:
-<%%(org-class 2026 9 16 2027 7 7 3 40)>
+<%%(org-class 2026 9 16 2027 7 7 3 44)>
 [[denote:20260820T230027][A Klasse 2023-27 Mattsee]]
 
 *** 3a 12:35-13:25                                                     :3a:
-<%%(org-class 2026 9 16 2027 7 7 3)>
+<%%(org-class 2026 9 16 2027 7 7 3 44)>
 [[denote:20250913T110759][A Klasse 2024-28 Mattsee]]
 
 
 ** Donnerstag
 
 *** 4b 07:45-08:35                                                     :4b:
-<%%(org-class 2026 9 17 2027 7 8 4 39)>
+<%%(org-class 2026 9 17 2027 7 8 4 44)>
 [[denote:20260820T230122][B Klasse 2023-27 Mattsee]]
 
 *** 2b 08:40-09:30                                                     :2b:
-<%%(org-class 2026 9 17 2027 7 8 4 39)>
+<%%(org-class 2026 9 17 2027 7 8 4 44)>
 [[denote:20250913T110647][B Klasse 2025-29 Mattsee]]
 
 *** 3b 09:45-10:35                                                     :3b:
-<%%(org-class 2026 9 17 2027 7 8 4 39)>
+<%%(org-class 2026 9 17 2027 7 8 4 44)>
 [[denote:20260820T225912][B Klasse 2024-28 Mattsee]]
 
 *** 1c 11:40-12:30                                                     :1c:
-<%%(org-class 2026 9 17 2027 7 8 4 39)>
+<%%(org-class 2026 9 17 2027 7 8 4 44)>
 [[denote:20260820T225651][C Klasse 2026-30 Mattsee]]
 
 *** 3a 12:35-13:25                                                     :3a:
-<%%(org-class 2026 9 17 2027 7 8 4 39)>
+<%%(org-class 2026 9 17 2027 7 8 4 44)>
 [[denote:20250913T110759][A Klasse 2024-28 Mattsee]]
 
 *** 2a 14:10-15:00                                                     :2a:
-<%%(org-class 2026 9 17 2027 7 8 4 39)>
+<%%(org-class 2026 9 17 2027 7 8 4 44)>
 [[denote:20260820T225753][A Klasse 2025-29 Mattsee]]
 
 *** 2c 15:05-15:55                                                     :2c:
-<%%(org-class 2026 9 17 2027 7 8 4 39)>
+<%%(org-class 2026 9 17 2027 7 8 4 44)>
 [[denote:20250913T110721][C Klasse 2025-29 Mattsee]]
 
 
 ** Freitag
 
 *** 1a 11:40-12:30                                                     :1a:
-<%%(org-class 2026 9 18 2027 7 9 5 38)>
+<%%(org-class 2026 9 18 2027 7 9 5 44)>
 [[denote:20260820T225259][A Klasse 2026-30 Mattsee]]
 
 
