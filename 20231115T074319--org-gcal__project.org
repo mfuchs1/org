@@ -887,4 +887,37 @@ Parterre Rechts - Reihe 7 Sitz 21
 <2026-10-28 Mi 23:43-23:58>
 :END:
 
+* Fachkonferenz Dekanat Köstendorf
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3587915927663774"
+:entry-id: fktglfdqse087ppic2marp9qjs/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-11-10 Di 15:00-18:15>
+:END:
+
+* Spiritualität und Kontemplation: Marguerite Porete
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3587916190272830"
+:entry-id: 64jerds490l6anu4ocshm0s2ck/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-12-12 Sa 09:00-18:30>
+:END:
+
+* Bibliothek Bücher zurück bringen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3588758764436318"
+:entry-id: 8g0ak0vm74rk3e0i4p1ihgvdpc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2026-11-11 Mi 16:00-17:00>
+:END:
+
 
